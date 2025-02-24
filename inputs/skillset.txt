@@ -21,7 +21,7 @@ Project Description = An app I developed in Swift that lets you create and track
 Project name = Expense Sheet Combiner
 Project Description = Created a Python-based expense sheet combiner that reformats and consolidates transaction data from multiple sources (bank and credit cards) into a single standardized sheet. Utilized Pandas and dataframes to organize purchases by month and date into a single excel sheet, streamlining expense tracking and management.
 
-Project Name = ApplyAi
+Project Name = Gemini-Job-App-Generator
 Project Description = Developed an application integrating Google's Gemini 2.0 model with Python to optimize resumes based on job descriptions. The project then automatically generates a tailored cover letter based on the previous results, then stores the optimized resume and cover letter in a directory. All executed within a GitHub Actions workflow for scalability.
 
 
