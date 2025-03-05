@@ -37,7 +37,7 @@ def get_resume_prompt():
     """)
     return resume_prompt
 
-def get_cl_prompt(email, phone_num):
+def get_cl_prompt():
     today = datetime.today()
     cl_prompt = dedent(f"""\
         For the same job description, I want you to write a cover letter that is 225 words long using the resume you just helped me create.
@@ -45,8 +45,8 @@ def get_cl_prompt(email, phone_num):
         {today:%B %d, %Y}
         Sky Quan
         Ajax, Ontario, Canada
-        {email}
-        {phone_num}
+        skyquan23@gmail.com
+        647-613-7546
 
         Dear Hiring Team,
         [Opening Paragraph]
