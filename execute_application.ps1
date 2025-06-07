@@ -1,5 +1,8 @@
 # Powershell equivalent of execute_application.sh
 
+# Keep up to date
+git pull
+
 # Install Dependencies
 python -m venv .venv
 .\.venv\Scripts\activate
