@@ -1,33 +1,26 @@
-Highlights of Qualifications
-- Point 1
-- Point 2
-- Point 3
+Skills
+[Skill 1], [Skill 2], [Include 8 skills in total]
 
 Experience
-[Job title 1]
-[location 1]
+[Job title 1] | [location 1]
 [Date 1]
 - Point 1
 - Point 2
 - Point 3
 
-[Job title 2]
-[location 2]
+[Job title 1] | [location 2]
 [Date 2]
 - Point 1
 - Point 2
 - Point 3
 
-Projects
-GitHub | https://github.com/Ctrl-Sky
-[Project name 1] - [Project Description 1]
-[Project name 2] - [Project Description 2]
+Personal projects
+[Project name 1] [tech 1] [Date 1]
+- Point 1
+- Point 2
+- Point 3
 
-Education
-Computer Science - Bachelor of Applied Science | McMaster University Sept 2022 - Apr 2027
-Relevant Coursework
-[Course name]
-- [Course description]
-
-Skills
-[Skill 1], [Skill 2], [Include 10-15 skills]
+[Project name 2] [tech 2] [Date 2]
+- Point 1
+- Point 2
+- Point 3

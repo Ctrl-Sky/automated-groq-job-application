@@ -1,42 +1,39 @@
+Skills
+Python, C, Java, Swift, shell, C/C++, MySQL, GitHub Actions, CSS, JavaScript, Azure, Linux, AWS, Unix, Windows, HTML, SQL, Snowflake, MsSQL, Oracle, docker, AKS, jenkins, ansible, sonarqube, .NET, Gemini,
+
 Experience
 Job_title = Research Assistant
 Location = McMaster University, Computing and Software
 Date = May 2023 - Aug 2023
-Point = Worked with Dr. Stephen Kelly to research evolving adaptable control policies using gymnasium's pendulum task and Distributed Evolutionary Algorithms in Python (DEAP) to conduct experiments on the partially observable pendulum task using machine learning.
-Point = Designed an algorithm to pull the data from each experiment and write it to a csv to then create visual diagrams and graphs for presentation using NumPy and Pandas.
+Point = Worked with Dr. Stephen Kelly to research evolving adaptable control policies using gymnasium’s pendulum task and Distributed Evolutionary Algorithms in Python (DEAP) to conduct experiments on the partially observable pendulum task using machine learning
+Point = My work laid the foundation for other projects now continued by Dr. Stephen Kelly’s MA students (https://creativealgorithms-cd4c88.gitlab.io/team/) 
 
 Job_title = Software Developer/DevOps Intern
 Location = Ontario Teachers' Pension Plan
 Date = Sept 2024 - Aug 2025
 Point = Implemented CI/CD pipelines using Jenkins, GitHub, Ansible, and SonarQube to automate deployment and testing processes of different .NET and python applications.
-Point = Rearchitected the company's Docker base image system, consolidating multiple redundant images (e.g., RHEL8 and Ubuntu with various Python versions) into a single standardized Ubuntu base image, reducing maintenance complexity and improving efficiency.
-Point = Helped develop a proof of concept (POC) for migrating CI/CD workflows from Jenkins to GitHub Actions. Later collaborated with teams to integrate GitHub Actions into their workflows, providing documentation, training, and best practices for adoption.
+Point = Rearchitected the company's Docker base image system, consolidating multiple redundant images around a single standardized Ubuntu base image, reducing maintenance complexity and improving efficiency.
+Point = Co-led a POC for migrating CI/CD workflows from Jenkins to GitHub Actions. Evaluated capabilities and limitation of actions compared to Jenkins, presenting those findings and best practices to senior leadership, influencing the adoption across multiple teams.
 Point = Developed a Jenkins pipeline and Python script to automate internal webpage updates via an API POST request, streamlining manual change processes.
 Point = Increased logging visibility within Ansible and Jenkins for Flyway database migrations across Snowflake, MSSQL, and Oracle, improving troubleshooting and monitoring.
 
 Personal Projects
 Project name = Gym Tracker App
-Project Description = An app I developed in Swift that lets you create and track your workouts using user input and persistent data. Designing this app, I learned to catch save errors, use the persistent controller, and make fetch requests that filtered the data to meet my needs.
+date = Jan 2024
+tech = Swift
+Point = Developed a workout tracking app in Swift that allows users to create, save, and monitor custom workouts using persistent storage.
+Point = Implemented Core Data for local persistence, utilizing a persistent controller to manage user input and store structured workout data.
+Point = Designed fetch requests with filtering logic to retrieve and display relevant data efficiently based on user-defined criteria.
 
 Project name = Expense Sheet Combiner
-Project Description = Created a Python-based expense sheet combiner that reformats and consolidates transaction data from multiple sources (bank and credit cards) into a single standardized sheet. Utilized Pandas and dataframes to organize purchases by month and date into a single excel sheet, streamlining expense tracking and management.
+date = Dec 2024
+tech = Python, Bash
+Point = Built a Python automation tool to combine and standardize transaction data from my various bank and credit card statements.
+Point = Used Pandas and NumPy to clean, reformat, and organize expenses by month and date into a single master Excel sheet.
 
 Project Name = Gemini-Job-App-Generator
-Project Description = Developed an application integrating Google's Gemini 2.0 model with Python to optimize resumes based on job descriptions. The project then automatically generates a tailored cover letter based on the previous results, then stores the optimized resume and cover letter in a directory. All executed within a GitHub Actions workflow for scalability.
-
-
-Relevant Coursework
-Course name = COMPSCI 2DB3 - Databases				 
-Course description = Researched data modelling, integrity constraints, principles and design of relational databases, relational algebra, SQL, MySQL, SQLite, Microsoft SQL query processing, transactions, concurrency control, recovery, security, and data storage.
-
-Course name = COMPSCI 2C03 - Data Structures and Algorithms				
-Course Description = Studied basic data structures such as, stacks, queues, hash tables, and binary trees. Reviewed graph representations and various algorithms, including minimum spanning trees, traversals, and shortest path, and analyzed their performance analysis.
-
-Course name = COMPSCI 2GA3 - Computer Architecture
-Course description = Gain an understanding of memory hierarchy, studying memory types and characteristics, cache memory design and optimization, virtual memory systems, and page tables. On top of that, learn about dynamic memory allocation and deallocation, memory mapping, memory protection, and documentation.
-
-Course name = COMPSCI 2ME3 - Introduction to Software Development
-Course description = Using java, practiced classes and inheritance, class invariants, and interface specification. On top of that, worked on object-oriented design patterns, tools for interface documentation, development models, and program analysis.
-
-Skills
-Python, C, Java, Swift, database handling, persistent controllers, NumPy, Pandas, shell, C/C++, Excel, MySQL, GitHub, HTML5, CSS, JavaScript, Azure, Linux, AWS, Angular, React, SharePoint, Outlook, Unix, Windows, Operating Systems, HTML, SQL, PowerPoint, MS Office, C++, PyGame, Shell Script, AWS, Snowflake, MsSQL, Oracle, docker, AKS, jenkins, ansible, sonarqube, .NET, AI, Gemini, LLM, Linux, Ubuntu, Debian, Github Actions
+date = Feb 2025
+tech = Gemini, Python, Bash, GitHub actions	                
+Point = Developed a Python application that integrates Google’s Gemini 2.0 model to optimize resumes based on job descriptions.
+Point = Automatically generated tailored cover letter templates from the optimized resume results, and organized all outputs into structured directories, replicating an artifact
+Point = Designed and implemented a GitHub Actions workflow to automate the end-to-end process for scalability and ease of use
