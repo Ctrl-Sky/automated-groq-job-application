@@ -13,10 +13,10 @@ This project takes 3 parameters within the inputs directory.
 - `resume_template.txt` this is the template the model will follow when generating the resume
 - `skillset.txt` contains key=value pairs matching the resume template representing all the possible skills the model will choose from to include in the resume
 
-If you're on linux run:
+If you're on linux, to run locally:
 `bash execute_application.sh`
 
-If you're on windows run:
+If you're on windows, to run locally:
 `.\execute_application.ps1`
 
 The .docx files will be written to `outputs/<day_applied>/<company_name>-<job_title>` and the csv file will be updated at `outputs`
