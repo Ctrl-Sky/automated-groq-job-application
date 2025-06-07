@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Keep up to date
+git pull
+
 # Install Dependencies
 python3.12 -m venv .venv
 . .venv/bin/activate
@@ -17,3 +20,9 @@ bash cleanup_scripts/store_resume_and_cl.sh "${COMPANY_NAME}" "${JOB_TITLE}"
 python3.12 cleanup_scripts/save_to_csv.py "${COMPANY_NAME}" "${JOB_TITLE}"
 
 echo "Application successfully executed"
+
+# Break down
+deactivate
+git add .
+git commit -m "(Automated Commit) Job application updated"
+git push

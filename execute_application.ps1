@@ -22,3 +22,9 @@ python src/main.py
 python cleanup_scripts\save_to_csv.py $COMPANY_NAME $JOB_TITLE
 
 Write-Host "Application successfully executed"
+
+# Break down
+deactivate
+git add .
+git commit -m "(Automated Commit) Job application updated"
+git push
