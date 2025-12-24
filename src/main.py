@@ -12,7 +12,6 @@ def generate_resume_and_cl():
 
     # Create conversation with gemini model
     client = Groq(api_key=GROQ_API_KEY)
-    chat = client.chats.create(model="gemini-2.0-flash")
 
     # Get resume and write to docx
     print("Generating Resume...")
