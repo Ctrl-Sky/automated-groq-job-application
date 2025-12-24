@@ -44,7 +44,7 @@ def get_cl_prompt():
         When writing the cover letter follow this format:
         {today:%B %d, %Y}
         Sky Quan
-        Ajax, Ontario, Canada
+        Toronto, Ontario, Canada
         skyquan23@gmail.com
         647-613-7546
 

@@ -1,20 +1,27 @@
 import os
 from dotenv import load_dotenv
-from google import genai
+from groq import Groq
 
 def get_company_name():
     with open("inputs/job_description.txt", encoding="utf-8") as desc:
         job_desc = desc.read()
 
-    client = genai.Client(api_key=GEMINI_API_TOKEN)
+    client = Groq(api_key=os.getenv("GROQ_API_KEY"))
+    prompt = f"{job_desc} What is the company name? Only output the company name. For example, if you think the company name is Amazon, only output Amazon"
 
-    response = client.models.generate_content(
-        model="gemini-2.0-flash",
-        contents=f"{job_desc} What is the company name? Only output the company name. For example, if you think the company name is Amazon, only output Amazon",
+    chat_completion = client.chat.completions.create(
+        messages=[
+            {
+                "role": "user",
+                "content": prompt,
+            }
+        ],
+        model="llama-3.3-70b-versatile",
     )
-    print(response.text.strip())
+    
+    print(chat_completion.choices[0].message.content.strip())
 
 if __name__=="__main__":
     load_dotenv()
-    GEMINI_API_TOKEN=os.getenv("GEMINI_API_TOKEN")
+    GROQ_API_TOKEN=os.getenv("GROQ_API_TOKEN")
     get_company_name()
