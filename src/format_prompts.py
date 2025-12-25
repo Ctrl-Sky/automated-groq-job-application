@@ -58,7 +58,7 @@ def get_cl_prompt():
 
         Here are the constraints when writing this cover letter.
         Do not include any information that you do not already have. For example, do not include a line like this: “I found this opening at [Platform where you saw the job posting].” 
-        When writing the cover letter, always ensure that it would be able to fit into a single A4 piece of paper. Have it only fill 3/4th of the page.
+        When writing the cover letter, always ensure that it would be able to fit into a single A4 piece of paper.
         Do not write about how the ApplyAI creates cover letters. Do not mention anything about creating cover letters.
         Finally, only output the cover letter. For example, do not output: “Ok here is the cover letter: [cover letter]”, only output “[cover letter]”
     """)
