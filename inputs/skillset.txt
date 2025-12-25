@@ -37,3 +37,10 @@ tech = Gemini, Python, Bash, GitHub actions
 Point = Developed a Python application that integrates Google’s Gemini 2.0 model to optimize resumes based on job descriptions.
 Point = Automatically generated tailored cover letter templates from the optimized resume results, and organized all outputs into structured directories, replicating an artifact
 Point = Designed and implemented a GitHub Actions workflow to automate the end-to-end process for scalability and ease of use
+
+Project Name = automatic-photo-transfer
+date = August 2025
+tech = Python, Bash, YAML
+Point = Developed a CLI-driven Python application that automates photo transfers, transferring photos from a folder to a hard drive, organizing photos into date-based folders, and handling edge cases (live-photos, unsupported filetypes).
+Point = Implemented robust EXIF and OS-fallback logic to extract accurate capture timestamps, and added heuristics (e.g., skip <3s MOV live clips) to avoid incorrect migrations
+Point = Designed idempotent migration tracking using CSV tables (per-device), so subsequent runs only transfer photos taken after the last recorded timestamp; included timezone verification to prevent data drift.

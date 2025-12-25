@@ -24,7 +24,7 @@ def get_resume_prompt():
         Developed an application integrating Google's Gemini 2.0 model with Python to optimize resumes based on job descriptions. The project then automatically generates a tailored cover letter based on the previous results, then stores the optimized resume and cover letter in a directory. All executed within a GitHub Actions workflow for scalability.
         to: Developed an application integrating Google's Gemini 2.0 model with Python to optimize resumes based on job descriptions.
         Follow the template exactly, do not add more points than needed. For example, the format list one course name and one course description. Only add one course from the skillset and not more.
-        Finally, only output the resume. For example, do not output: “Ok here is the resume: [resume]”, only output “[resume]”
+        Finally, only output the resume. For example, do not output: “Ok here is the resume: [resume]”, only output “[resume]” Another example, do not include highlight of qualifications
         
         Here is the job description:
         {job_desc}
