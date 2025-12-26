@@ -45,22 +45,6 @@ Learn and build AWS cloud infrastructure on the job
 
 Have fun with the team
 
-Basic Qualifications:
-
-Will obtain a Bachelor’s degree or higher from August 2026 or later
-
-Familiarity with application development using any backend programming language, and JavaScript.
-
-Good communication, presentation, and writing skills
-
-Good understanding of testing fundamentals
-
-Able to work within a team setting and actively participate and collaborate in team discussion
-
-Please include your resume and unofficial transcripts in one PDF in the attachment section under Resume/CV when you create your profile to apply
-
-Ensure you complete the assessment no later than January 19, 2026 @ 11:59PM
-
 Preferred Qualifications:
 
 Experience with backend technologies such as Java, Python, AWS Lambda, S3.
