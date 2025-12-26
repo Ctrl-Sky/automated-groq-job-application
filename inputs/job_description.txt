@@ -1,28 +1,27 @@
 Full job description
 161 Bay Street (93021), Canada, Toronto,Toronto, Ontario,
-Intern, Backend Software Engineer - Summer 2026
+Intern, Mobile Software Engineer - Summer 2026
 About Capital One Canada
 
-For over 20 years, we’ve been on a mission to change banking for good and build relationships by making credit accessible, simple, intuitive and rewarding. We want to help Canadians succeed with credit, because we believe in people — in our customers, in our associates and in talent like you!
-
+For over 20 years, we’ve been on a mission to change banking for good and build relationships by making credit accessible, simple, intuitive and rewarding. We want to help Canadians succeed with credit, because we believe in people — in our customers, in our associates, and in talent like you!
 
 About the Team
 
-Acquisitions Decisioning team owns the Canadian Pre-approval application Quick Check through which customers can check which card they will be 100% approved for and the Dynamic App through which the customers can apply for a specific credit card. The team is currently on a journey to create a streamlined and cohesive end to end customer shopping experience through advanced technology investments for its pre-approval and decisioning capabilities which will provide the customers a better experience while searching and applying for a credit card without impacting their credit history. Team is also working on onboarding its decisioning services to the new generation decisioning platform that will help unlock technology and execution benefits through configurable and scalable decisioning capabilities and the new backend design patterns and technology investments.
+Join the fast-growing Capital One Travel team, as we seek to transform the way customers book travel. Capital One Travel is a fast-moving, highly innovative business within Capital One’s Digital Commerce & Innovation organization. We aim to grow an industry leading travel booking platform that customers love and that delivers unique, differentiated benefits to our millions of customers while also powering the headline marketable benefits of our credit card products. As a Mobile Software Engineer in Capital One Travel, you’ll have the opportunity to be on the forefront of driving a major transformation within Capital One.
 
 About the Role
 
-As an engineer on Customer Acquisitions, you will be working with a highly collaborative, diverse mix of engineers to enhance the product vision to deliver new credit card products to the market. You will have the opportunity to work on different layers of the technology stack (Go, NodeJS, AWS) and collaborate with many external teams to help achieve our mission. You will be involved in building infrastructure, feature development, testing (unit test, component test and integration test), deployment, monitoring and fixing cyber security and vulnerability fixes.
+Our iOS and Android platforms at Capital One are recognized as an opportunity to reach our customers in unique, personal and engaging ways. In this role you’ll be joining a team based in our Toronto office that is building native iOS and Android features using Swift, SwiftUI, Kotlin and JetPack Compose to support Capital One Travel customers in all aspects of their journey – from inspiration to booking to the in-transit experience and beyond.
 
-IDE: IntelliJ/ VSCode
+Our engineers are provided with top of the line Macbook Pros, high-end monitors, and the necessary tooling to develop the best possible products with the least amount of friction.
 
-Language: GoLang, NodeJS
+IDE: XCode, Android Studio
 
-AWS: S3, Lambda, Route53, Security Groups, IAM roles
+Language: Swift. SwiftUI, Kotlin, Jetpack Compose
 
-Monitoring Tool: Splunk, New Relic, Cloudwatch
+Monitoring Tools: NewRelic, Splunk
 
-CI/CD: Jenkins, Onepipeline (Capital One’s inner-sourced CICD pipeline)
+CI/CD: Jenkins, OnePipeline (Capital One’s innersourced CICD pipeline)
 
 Your Responsibilities:
 
@@ -36,25 +35,23 @@ Ensure adherence to continuous improvement practices as required to meet quality
 
 Participate in Agile ceremonies, design and brainstorming sessions
 
-Collaborate with Product and Analyst stakeholders to implement enhancements or new applications
+Collaborate with Product and Design partners to implement enhancements or new applications
 
-Technical Documentation for analysis, test results and release.
+Learn and build iOS/Android features on the job
 
-Learn and build AWS cloud infrastructure on the job
-
-Have fun with the team
+Have fun with the team!
 
 Basic Qualifications:
 
 Will obtain a Bachelor’s degree or higher from August 2026 or later
 
-Familiarity with application development using any backend programming language, and JavaScript.
+Familiarity with iOS or Android application development, specifically with Swift or Kotlin
 
 Good communication, presentation, and writing skills
 
 Good understanding of testing fundamentals
 
-Able to work within a team setting and actively participate and collaborate in team discussion
+Able to work within a team setting and actively participate and collaborate in team discussions
 
 Please include your resume and unofficial transcripts in one PDF in the attachment section under Resume/CV when you create your profile to apply
 
@@ -62,8 +59,6 @@ Ensure you complete the assessment no later than January 19, 2026 @ 11:59PM
 
 Preferred Qualifications:
 
-Experience with backend technologies such as GoLang, AWS Lambda, S3.
+Experience with SwiftUI or JetPack Compose
 
 Experience with version control technology i.e. Git
-
-Experience with Jenkins CI/CD, microservices, API design / integration
