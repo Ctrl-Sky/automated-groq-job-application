@@ -1,24 +1,29 @@
 Full job description
-Nimble is a healthtech company on a mission to simplify access, understanding and management of healthcare. We are starting by building the largest, most loved pharmacy business in the world. We are a fast-growing, technology-first startup driven by perfecting the patient and pharmacist experience. Nimble fosters a culture of collaboration, open communication and deliberate action that allows us to face today’s most exciting challenges head-on and grow incredibly quickly.
+At Ripple, we're building a world where value moves like information does today. It's big, it's bold, and we're already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs.
 
-As a Nimble Engineer, you will help in architecting the technology and customer experience that run Nimble (www.nimblerx.com). You will join a team of world-class, highly motivated software engineers to deliver front-end patterns and practices that ensure developer productivity, a great end-user experience, and a performant website. If you have the aspirations to help drive technical direction, take on technical challenges and design life changing features, come join us!
+If you're ready to see your impact and unlock incredible career growth opportunities, join us, and build real world value.
 
-This is a 40 hour per week (full-time) paid internship opportunity working a hybrid schedule of 2 days/week on-site at our downtown Toronto office, with a minimum 12-week commitment.
+At Ripple, we're building a world where value moves like information does today. It's big, it's bold, and we're already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs.
 
-Our Engineering culture: We operate with shared trust and no egos. We enjoy being ‘in this together’ to collaborate on the challenges of a rapidly scaling business, daily living out our company values of High Ownership, Burning Curiosity, and Bias for Action.
-You will:
-Develop applications and services that serve millions of users
-Create product features and design easy-to-use APIs, systems, and tools
-Build for performance, reliability, and scalability
-Learn rapidly in a fast-paced, lean engineering organization
-What you bring:
-Strong foundation in Computer Science or related field
-Knowledge of Java server framework and tools, including Spring, Hibernate; experience with other languages and frameworks helpful (Python, Go)
-Knowledge of AWS, MySQL, RESTful APIs Knowledge of web front-end development in JavaScript, Node, React, CSS/Sass/Less
-What’s in it for you:
-Compassionate and driven colleagues in a collaborative, high-impact environment
-Coaching from experienced engineering leaders
-Direct access to executives and a transparent company culture
-Rare opportunity to change an industry and lives of millions
-We are reinventing healthcare / pharmacy - your (grand)parents and your (grand)children will understand and appreciate what you do
-Work with a collaborative team out of our WeWork office in the Queen West area of downtown Toronto
+If you're ready to see your impact and unlock incredible career growth opportunities, join us, and build real world value.
+
+
+THE WORK
+The XRP Ledger (XRPL) is a decentralized, public blockchain led by a global community of businesses and developers focused on solving problems and bringing value. Proven reliable over more than a decade of operation and closing over 100 million ledgers, the XRPL offers streamlined development, low transaction costs, high performance, and sustainability.
+
+As a Software Engineer Intern in RippleX, you will help us maintain this high technical bar, while building innovative solutions to ensure the XRPL can power the growing needs of the global digital economy. With support from your team, access to learning and development resources, and opportunities for fun along the way, our program will give you the foundation to start your career.
+
+WHAT YOU'LL DO
+Increase the capabilities, performance, scalability, and reliability of the XRPL.
+Participate in the full software development lifecycle, including architecture, design, development, bug fixing, as well as functional and performance validations.
+Engage with the open-source XRP ledger community, promoting quality in coding, testing, and deployment.
+Actively participate in code reviews to maintain the quality of our codebase.
+WHAT YOU'LL BRING
+Currently enrolled in an Undergraduate, or Graduate or an equivalent degree, preferably in Software Engineering, Computer Science, Mathematics, or a related field.
+Available to work for 12 weeks during Summer 2026, beginning in May or June.
+Intent to return to the degree-program after completing the internship.
+Experience with hands-on software development using C++.
+Strong interest or foundational experience in backend systems development, preferably distributed systems, concurrency and multithreading.
+Passion for blockchain technology and its potential benefits.
+Ability to learn new technologies and languages quickly.
+Ability to solve highly complex problems with creative solutions
