@@ -1,18 +1,24 @@
-About the Team
-DoorDash is building the world's most reliable on-demand logistics engine for delivery! We're looking for experienced engineers to join our fast-growing engineering team to help us develop a 24x7 global infrastructure system that powers DoorDash's three-sided marketplace of consumers, merchants, and dashers.
+Full job description
+Nimble is a healthtech company on a mission to simplify access, understanding and management of healthcare. We are starting by building the largest, most loved pharmacy business in the world. We are a fast-growing, technology-first startup driven by perfecting the patient and pharmacist experience. Nimble fosters a culture of collaboration, open communication and deliberate action that allows us to face today’s most exciting challenges head-on and grow incredibly quickly.
 
-About the Role
-At DoorDash, our product engineers implement and operate technological solutions to improve the experiences of our merchants, dashers, and consumers. From creating beautiful, user-friendly flows to crafting scalable backend architectures, we strive to deliver reliant, performant technology that delights our customers.
+As a Nimble Engineer, you will help in architecting the technology and customer experience that run Nimble (www.nimblerx.com). You will join a team of world-class, highly motivated software engineers to deliver front-end patterns and practices that ensure developer productivity, a great end-user experience, and a performant website. If you have the aspirations to help drive technical direction, take on technical challenges and design life changing features, come join us!
 
-We believe interns are essential to our mission of attracting and retaining top talent. During our 12-week Software Engineer internship, interns are completely immersed in their teams and will have the opportunity to develop, maintain, and ship products. As an intern, you will directly impact our business by collaborating with your team to solve real problems for our customers.
+This is a 40 hour per week (full-time) paid internship opportunity working a hybrid schedule of 2 days/week on-site at our downtown Toronto office, with a minimum 12-week commitment.
 
-The 2026 internship program will be hosted in onsite at the Doordash office in Toronto, ON
-
-We're excited about you because…
-You are currently enrolled at a Canadian university pursuing a B.S. or M.S. Degree in Computer Science or equivalent, have no more than 2 years of full-time work experience, and are graduating between Fall 2026 to Summer 2027.
-You are available for a May or June 2026 start date. (Internships are hosted in Summer only)
-You have experience working with databases (e.g., AWS, SQL, etc.)
-You have a solid understanding of algorithms and data structures.
-You have proficient experience working with at least 1 object-oriented programming language (e.g., Python, Java, Kotlin, etc.)
-You have experience writing clean code, working with version control, and doing unit testing.
-You are excited about a hybrid summer work experience
+Our Engineering culture: We operate with shared trust and no egos. We enjoy being ‘in this together’ to collaborate on the challenges of a rapidly scaling business, daily living out our company values of High Ownership, Burning Curiosity, and Bias for Action.
+You will:
+Develop applications and services that serve millions of users
+Create product features and design easy-to-use APIs, systems, and tools
+Build for performance, reliability, and scalability
+Learn rapidly in a fast-paced, lean engineering organization
+What you bring:
+Strong foundation in Computer Science or related field
+Knowledge of Java server framework and tools, including Spring, Hibernate; experience with other languages and frameworks helpful (Python, Go)
+Knowledge of AWS, MySQL, RESTful APIs Knowledge of web front-end development in JavaScript, Node, React, CSS/Sass/Less
+What’s in it for you:
+Compassionate and driven colleagues in a collaborative, high-impact environment
+Coaching from experienced engineering leaders
+Direct access to executives and a transparent company culture
+Rare opportunity to change an industry and lives of millions
+We are reinventing healthcare / pharmacy - your (grand)parents and your (grand)children will understand and appreciate what you do
+Work with a collaborative team out of our WeWork office in the Queen West area of downtown Toronto

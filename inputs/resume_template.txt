@@ -1,5 +1,5 @@
 Skills
-[Skill 1], [Skill 2], [Include 8 skills in total]
+[Skill 1], [Skill 2], [Include 10 skills in total]
 
 Experience
 [Job title 1] | [location 1]
