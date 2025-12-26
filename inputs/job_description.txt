@@ -1,29 +1,28 @@
 Full job description
 161 Bay Street (93021), Canada, Toronto,Toronto, Ontario,
-Intern, Full Stack Software Engineer - Summer 2026
+Intern, Backend Software Engineer - Summer 2026
 About Capital One Canada
 
-For over 20 years, we’ve been on a mission to change banking for good and build relationships by making credit accessible, simple, intuitive and rewarding. We want to help Canadians succeed with credit, because we believe in people — in our customers, in our associates, and in talent like you!
+For over 20 years, we’ve been on a mission to change banking for good and build relationships by making credit accessible, simple, intuitive and rewarding. We want to help Canadians succeed with credit, because we believe in people — in our customers, in our associates and in talent like you!
+
 
 About the Team
 
-Rescue Mission team is responsible for building and managing Canada Recoveries business functionality on Omega platform. We work in Agile with continuous build, testing and software delivery processes. If you believe in team work along with learning and fun, this role will definitely be exciting for you.
+Acquisitions Decisioning team owns the Canadian Pre-approval application Quick Check through which customers can check which card they will be 100% approved for and the Dynamic App through which the customers can apply for a specific credit card. The team is currently on a journey to create a streamlined and cohesive end to end customer shopping experience through advanced technology investments for its pre-approval and decisioning capabilities which will provide the customers a better experience while searching and applying for a credit card without impacting their credit history. Team is also working on onboarding its decisioning services to the new generation decisioning platform that will help unlock technology and execution benefits through configurable and scalable decisioning capabilities and the new backend design patterns and technology investments.
 
 About the Role
 
-As an engineer on the Rescue Mission team you will be working with a highly collaborative, diverse mix of engineers to enhance the product vision to deliver new credit card products to the market. Our team believes in inclusion and values everyone's thoughts, while supporting each other to deliver the business needs. As part of this team you will be able to work on AWS(Amazon Web Services), Serverless technologies, RESTful APIs, Microservices using Java, Spring, SQL Databases, Docker containers and continuous delivery processes. You will be involved in building infrastructure, feature development, testing (unit test, component test and integration test), deployment, monitoring and fixing cyber security and vulnerability fixes.
+As an engineer on Customer Acquisitions, you will be working with a highly collaborative, diverse mix of engineers to enhance the product vision to deliver new credit card products to the market. You will have the opportunity to work on different layers of the technology stack (Go, NodeJS, AWS) and collaborate with many external teams to help achieve our mission. You will be involved in building infrastructure, feature development, testing (unit test, component test and integration test), deployment, monitoring and fixing cyber security and vulnerability fixes.
 
-IDE: IntelliJ
+IDE: IntelliJ/ VSCode
 
-Language: Java, Python
+Language: GoLang, NodeJS
 
 AWS: S3, Lambda, Route53, Security Groups, IAM roles
 
 Monitoring Tool: Splunk, New Relic, Cloudwatch
 
-CI/CD: Jenkins, Onepipeline (Capital One’s innersourced CICD pipeline)
-
-Databases: RESTful APIs, SQL Databases
+CI/CD: Jenkins, Onepipeline (Capital One’s inner-sourced CICD pipeline)
 
 Your Responsibilities:
 
@@ -45,9 +44,25 @@ Learn and build AWS cloud infrastructure on the job
 
 Have fun with the team
 
+Basic Qualifications:
+
+Will obtain a Bachelor’s degree or higher from August 2026 or later
+
+Familiarity with application development using any backend programming language, and JavaScript.
+
+Good communication, presentation, and writing skills
+
+Good understanding of testing fundamentals
+
+Able to work within a team setting and actively participate and collaborate in team discussion
+
+Please include your resume and unofficial transcripts in one PDF in the attachment section under Resume/CV when you create your profile to apply
+
+Ensure you complete the assessment no later than January 19, 2026 @ 11:59PM
+
 Preferred Qualifications:
 
-Experience with backend technologies such as Java, Python, AWS Lambda, S3.
+Experience with backend technologies such as GoLang, AWS Lambda, S3.
 
 Experience with version control technology i.e. Git
 
