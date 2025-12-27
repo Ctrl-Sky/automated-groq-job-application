@@ -38,9 +38,12 @@ def get_resume_prompt():
     return resume_prompt
 
 def get_cl_prompt():
+    with open("inputs/skillset.txt", encoding="utf-8") as skills:
+        skillset = skills.read()
     today = datetime.today()
     cl_prompt = dedent(f"""\
-        For the same job description, I want you to write a cover letter that is 225 words long using the resume you just helped me create.
+        For the same job description, I want you to write a cover letter that is 225 words long using my skills
+        {skillset}
         When writing the cover letter follow this format:
         {today:%B %d, %Y}
         Sky Quan
@@ -59,7 +62,6 @@ def get_cl_prompt():
         Here are the constraints when writing this cover letter.
         Do not include any information that you do not already have. For example, do not include a line like this: “I found this opening at [Platform where you saw the job posting].” 
         When writing the cover letter, always ensure that it would be able to fit into a single A4 piece of paper.
-        Do not write about how the ApplyAI creates cover letters. Do not mention anything about creating cover letters.
         Finally, only output the cover letter. For example, do not output: “Ok here is the cover letter: [cover letter]”, only output “[cover letter]”
     """)
     return cl_prompt
