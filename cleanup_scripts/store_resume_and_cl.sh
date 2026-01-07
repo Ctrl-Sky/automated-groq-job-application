@@ -28,6 +28,6 @@ mv resume.docx "Sky_Quan_Resume_$INITIALS.docx"
 mv "Sky_Quan_Resume_$INITIALS.docx" "$DIR_PATH"
 
 # Copy original resume
-cp "resume/Sky_Quan_Resume.docx" "$DIR_PATH"
+cp "resumes/Sky_Quan_Resume.docx" "$DIR_PATH"
 
 echo "Script completed Successfully"

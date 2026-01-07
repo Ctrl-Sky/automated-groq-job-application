@@ -31,6 +31,6 @@ Rename-Item -Path "resume.docx" -NewName "Sky_Quan_Resume_$INITIALS.docx"
 Move-Item -Path "Sky_Quan_Resume_$INITIALS.docx" -Destination $DIR_PATH
 
 # Copy Original Resume
-Copy-Item -Path "resume/Sky_Quan_Resume.docx" -Destination $DIR_PATH
+Copy-Item -Path "resumes/Sky_Quan_Resume.docx" -Destination $DIR_PATH
 
 Write-Host "Script completed successfully"
