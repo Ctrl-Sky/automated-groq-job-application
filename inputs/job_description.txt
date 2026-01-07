@@ -2,43 +2,30 @@ Salary for the candidate will be determined taking into consideration a number o
 
 Salary range (but not limited to):
 
-61,500 - 76,900
+57,000 - 71,200
 
 About the role
 
 Launching your tech career at Intact means joining a diverse team of more than 3,000 Digital, Data and Tech experts working at the intersection of what exists and what’s possible. Here, you’ll be supported by forward-thinking leaders who celebrate shared success, and you’ll help push the industry forward with digital solutions that go beyond insurance to offer everyday value to millions of people. You’ll grow personally and professionally with access to cutting-edge technology-driven learning platforms and make lasting connections near and far. Most importantly, you’ll discover how exciting the “real world” can be.
 Here, your career will take off
 
-Are you passionate about software development? Is your sweet spot at the forefront of digital innovation? Are you an advocate for great code and great design? We’ve got the perfect opportunity for you. We are seeking multiple talented Software Developer interns, to join our dynamic and growing teams. Depending on your team assignment, here’s what you’ll do here:
 
-Developer Platform
-
-Work in the development teams building new features for our products Harbour (Internal Developer Platform), Mentor (Opinionated CICD Pipeline), IT-Health (Software Metrics and Analytics) and Agora (Knowledge Base and Community Engagement Platform).
-
-Support the team in triaging and fixing production issues
-
-Work with a Product Centric Team for developing, testing, and getting feedback.
-
-Freedom to bring your own ideas and solutions and following best practices in a small agile and fun team
-
-Technical Skills required: Java, GitHub
-
-Nice to have: Spring Boot, Experience Building Rest Services, API Scraping, MongoDB, AWS
+Are you excited to learn how modern cloud systems run at scale? Do you care about readable code, strong engineering habits, and collaborating with dev, security, and IT ops? We’re seeking a Google Cloud Developer intern to help with seamless deployments, hands-on monitoring, and day-to-day maintenance on GCP—keeping our cloud applications fast, secure, and scalable while you level up your skills.
 
 
-Software Engineering Claims
+What you’ll do here:
 
-Build impactful claims features as a key member of an agile squad, from grooming and design through delivery.
+Help build and manage GCP resources (VMs, storage, databases, networking) and support day-to-day operations.
 
-Elevate the claims agent experience by refining and enhancing existing software—reducing friction, improving performance, and shipping improvements.
+Automate routine tasks with Terraform/Ansible/Deployment Manager; write simple scripts to speed up workflows.
 
-Work with senior developers to deliver quality products end-to-end by triaging defects, prioritizing fixes, and contributing to reliable, scalable production support
+Monitor systems and performance using our existing tools; assist with cost/performance tuning on GCP.
 
-Learn from senior developers on software lifecycle management best practices, growing your craft across design, development, testing, deployment, and observability.
+Support security basics (IAM, firewalls, encryption), keep documentation up to date, and collaborate with different stakeholders, such as developers/IT/security on deployments and best practices.
 
-Technical Skills Required: Java development
+Technical Skills required: Google Cloud Platform experience, Terraform, GitHub, CI/CD pipelines, understanding how to set up infrastructure in cloud
 
-Nice to Have: Agile/scrum, microservices, guidewire or P&C insurance experience
+Nice to Have: Ansible
 
 
 What you bring to the table:
@@ -49,7 +36,11 @@ Available to work with us full-time, 35 hours per week, for the Summer 2026 Term
 
 Must be an active student during your internship and/or returning to school in next Fall 2026 following your internship
 
+Past relevant internship/co-op experience(s) considered an asset
+
 Understand the software development lifecycle and be curious about continuous delivery pipelines and testing.
+
+Understand the basics of an agile way of work
 
 Strong analytical abilities and problem-solving skills.
 
