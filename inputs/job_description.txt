@@ -1,54 +1,59 @@
-DEPARTMENT OVERVIEW
-
-Co-op and Internship opportunities allow you to gain valuable work experience across a number of the businesses at TD. You will work with experienced colleagues, receive world class training, and be part of a community of students across TD, where you will have an impact, grow as individual and experience our culture of care.
-
-Role
+o-op and Internship opportunities allow you to gain valuable work experience across a number of the businesses at TD.  You will work with experienced colleagues, receive world class training, and be part of a community of students across TD, where you will have an impact, grow as individual and experience our culture of care.
 
 Our Co-op/Intern Programming is offered with select Co-op and Internship roles, and is designed to help you better understand the TD business, build on critical career capabilities, and broaden your professional network. This program is designed to complement your on-the job experience and features:
 
 Leadership talks with key Leaders from across the organization
 Lunch and Learns on topics such as Innovation
 Diversity and Inclusion and Personal Branding and so much more
+JOB DESCRIPTION
 
-Job Description
+You will have the opportunity to work with one of our various teams within the Technology group. From Day 1, you will be treated as an equal member of the team and given meaningful assignments to help us deliver improvements to our technology platforms. This could include platforms such as core banking, customer servicing, or customer engagement.
 
-The Enterprise DevOps pipeline helps TD get to market faster on public cloud by enabling "Self-service" environment creation, and modularization of both the application and the infrastructure through the pipeline.
+Job responsibilities for a Software Engineer Intern/Co-op may vary by area. This may include, but is not limited to the following:
 
-You will take part working and contributing towards various development work, building up new DevOps tools to enable deployment of Azure public cloud services. Day 1, you will treated as an equal member of the team and given meaningful assignments to help us deliver improvements to our technology platforms.
-
-This may include, but is not limited to the following:
-
-Work on DevOps development, design, and build, managing tools for Enterprise-wide technology including Nexus binary repository, GitHub code repository, Jenkins, CI/CD engine, Terraform, Sonarqube, & Aquasec
-Learn to develop and write Python, Java, shell scripts and groovy code
-Learn to setup a development environment with docker, and development tools
-Learn about cloud security, working with various cloud security tools, policies and secrets management
-Work with DevOps and cloud tools including GitHub, Terraform, Nexus, Jenkins, Xeebia Release & Deploy, Hashicorp Vault, Aquasec, Bitbucket
-Gain exposure to Salt, DNS, Redhat Satellite, Datadog, Sensu, SQL, Splunk, Mongo
-Learn cloud services including Azure machine learning, Azure SQL, Azure data lake (ADLS), Azure Kubernetes, Azure function, Azure Databrick, etc.
-Review and assess new technologies and work through testing, validation, and integration for TD internal tools & systems
+Assist in the development/maintenance of comprehensive processes for prevention of issues and participate in problem determination and timely resolution of incidents applying appropriate quality measures 
+Work with business partners to define and develop detailed business requirements
+Design, develop and deploy system enhancements
+Perform Unit and System Integration testing
+Document system deployment plans for system implement and code deployment
+Participate in Proof of Concept (POC) on new technologies and document findings  
+Provide recommendations with full usability analysis.
+Conduct program/ system research, analysis, detailed design and problem resolution
+Respond to business and users' enquiries on business applications
+Troubleshoot and determine root cause and resolution for application defects
+Ensure defect free programming by testing and debugging using available/appropriate tools and participate in reviewing peer coding 
+Apply Software Development Life Cycle (SDLC) and Project Management Methodology (PMLC) to complete specific development tasks for projects. 
+Adhere to standard security coding practices to ensure application is free of most common coding vulnerabilities 
 Continuously enhance knowledge/expertise and keep current with leading-edge technologies trends/developments and develop expertise in TD services, applications, infrastructure, analytical tools and techniques that can contribute to effective solution development/delivery
-
-Job Requirements
+JOB REQUIREMENTS
 
 Currently enrolled in a relevant technology programs, such as Computer Science, Engineering, Information Technology Management, Financial Analysis and Risk Management, Computing, etc.
-Knowledge of python and/ or java programming is required
-Ideal candidate is a well-rounded developer, with an understanding of DevOps and Cloud tools/ platforms and an enthusiasm to deepen their knowledge and expertise through hands-on experience engineering TD's DevOps pipeline
-
-Additional Information
+Understanding of Data Structures and Algorithms
+Understanding of OOP concepts and SOLID Principles
+Strong coding, debugging, and problem-solving skills
+Demonstrate understanding of at least one programing language and relational databases
+A thirst for constantly exploring emerging technology
+Familiarity and strength in any of the following: C, C++, C#, Object C, Java, Java Script, Python, NodeJS, Ruby, SQL, J2EE, Web Services, .NET, VBA, FPML, XML, HTTP, WSDL, Linux, Unix, Perl, Oracle, AIX, Windows, DB2, FIX Protocol, MS SQL, Angular, Type Script and React JavaScript libraries
+Familiarity with source code management such as GIT
+Familiarity with Jira and Confluence
+Familiarity with cloud technologies
+Skills that would be an asset but not required: Practical experience/knowledge of Data Generation, Data Masking, Data sub setting, Data Archiving, Data Virtualization, Data modelling, Database Development
+ADDITIONAL INFORMATION
 
 Please note that this is a general posting. If you are selected for an interview, more information regarding which business group and the specific job duties will be provided. Additionally, we are open to all years of study but primarily target 3rd & 4th year students.
 
-Early Talent Requirements
+Early Talent Requirements 
 
 This position is a 4-month work term and will commence May 4th – August 21st , 2026.
-Applications must include a resume (maximum of 2 pages). 
-We welcome all applications; however, we will only contact qualified candidates chosen for an interview. Thank you for your interest.
-TD requires employees to reside in Canada where the role is located. Successful candidates are expected to arrange relocation to one of our Toronto offices in a hybrid model (4 days per week in office).
-
-Assigned Line Of Business Requirements
+Applications must include a resume (maximum of 2 pages).
+We welcome all applications; however, we will only contact qualified candidates chosen for an interview.  Thank you for your interest.
+Selected candidates will be invited to participate in a technical assessment.
+TD requires employees to reside in Canada where the role is located. Successful candidates are expected to arrange relocation to one of our Toronto or London offices in a hybrid model (4 days per week in office).
+Assigned Line of Business Requirements
 
 Please note that the line of business that you are assigned to may require specific skills not mentioned in this posting
 
 HOURS
 
 Monday-Friday, standard business hours
+
