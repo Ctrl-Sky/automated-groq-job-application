@@ -1,51 +1,54 @@
-Salary for the candidate will be determined taking into consideration a number of factors including: experience, skills, qualifications, anticipated contribution to role, internal equity, etc. The salary range presented below is based on a 35-hour workweek and would represent a majority of different candidate profiles. However, we encourage candidates who may fall outside of this range to apply as well.
+DEPARTMENT OVERVIEW
 
-Salary range (but not limited to):
+Co-op and Internship opportunities allow you to gain valuable work experience across a number of the businesses at TD. You will work with experienced colleagues, receive world class training, and be part of a community of students across TD, where you will have an impact, grow as individual and experience our culture of care.
 
-57,000 - 71,200
+Role
 
-About the role
+Our Co-op/Intern Programming is offered with select Co-op and Internship roles, and is designed to help you better understand the TD business, build on critical career capabilities, and broaden your professional network. This program is designed to complement your on-the job experience and features:
 
-Launching your tech career at Intact means joining a diverse team of more than 3,000 Digital, Data and Tech experts working at the intersection of what exists and what’s possible. Here, you’ll be supported by forward-thinking leaders who celebrate shared success, and you’ll help push the industry forward with digital solutions that go beyond insurance to offer everyday value to millions of people. You’ll grow personally and professionally with access to cutting-edge technology-driven learning platforms and make lasting connections near and far. Most importantly, you’ll discover how exciting the “real world” can be.
-Here, your career will take off
+Leadership talks with key Leaders from across the organization
+Lunch and Learns on topics such as Innovation
+Diversity and Inclusion and Personal Branding and so much more
 
+Job Description
 
-Are you excited to learn how modern cloud systems run at scale? Do you care about readable code, strong engineering habits, and collaborating with dev, security, and IT ops? We’re seeking a Google Cloud Developer intern to help with seamless deployments, hands-on monitoring, and day-to-day maintenance on GCP—keeping our cloud applications fast, secure, and scalable while you level up your skills.
+The Enterprise DevOps pipeline helps TD get to market faster on public cloud by enabling "Self-service" environment creation, and modularization of both the application and the infrastructure through the pipeline.
 
+You will take part working and contributing towards various development work, building up new DevOps tools to enable deployment of Azure public cloud services. Day 1, you will treated as an equal member of the team and given meaningful assignments to help us deliver improvements to our technology platforms.
 
-What you’ll do here:
+This may include, but is not limited to the following:
 
-Help build and manage GCP resources (VMs, storage, databases, networking) and support day-to-day operations.
+Work on DevOps development, design, and build, managing tools for Enterprise-wide technology including Nexus binary repository, GitHub code repository, Jenkins, CI/CD engine, Terraform, Sonarqube, & Aquasec
+Learn to develop and write Python, Java, shell scripts and groovy code
+Learn to setup a development environment with docker, and development tools
+Learn about cloud security, working with various cloud security tools, policies and secrets management
+Work with DevOps and cloud tools including GitHub, Terraform, Nexus, Jenkins, Xeebia Release & Deploy, Hashicorp Vault, Aquasec, Bitbucket
+Gain exposure to Salt, DNS, Redhat Satellite, Datadog, Sensu, SQL, Splunk, Mongo
+Learn cloud services including Azure machine learning, Azure SQL, Azure data lake (ADLS), Azure Kubernetes, Azure function, Azure Databrick, etc.
+Review and assess new technologies and work through testing, validation, and integration for TD internal tools & systems
+Continuously enhance knowledge/expertise and keep current with leading-edge technologies trends/developments and develop expertise in TD services, applications, infrastructure, analytical tools and techniques that can contribute to effective solution development/delivery
 
-Automate routine tasks with Terraform/Ansible/Deployment Manager; write simple scripts to speed up workflows.
+Job Requirements
 
-Monitor systems and performance using our existing tools; assist with cost/performance tuning on GCP.
+Currently enrolled in a relevant technology programs, such as Computer Science, Engineering, Information Technology Management, Financial Analysis and Risk Management, Computing, etc.
+Knowledge of python and/ or java programming is required
+Ideal candidate is a well-rounded developer, with an understanding of DevOps and Cloud tools/ platforms and an enthusiasm to deepen their knowledge and expertise through hands-on experience engineering TD's DevOps pipeline
 
-Support security basics (IAM, firewalls, encryption), keep documentation up to date, and collaborate with different stakeholders, such as developers/IT/security on deployments and best practices.
+Additional Information
 
-Technical Skills required: Google Cloud Platform experience, Terraform, GitHub, CI/CD pipelines, understanding how to set up infrastructure in cloud
+Please note that this is a general posting. If you are selected for an interview, more information regarding which business group and the specific job duties will be provided. Additionally, we are open to all years of study but primarily target 3rd & 4th year students.
 
-Nice to Have: Ansible
+Early Talent Requirements
 
+This position is a 4-month work term and will commence May 4th – August 21st , 2026.
+Applications must include a resume (maximum of 2 pages). 
+We welcome all applications; however, we will only contact qualified candidates chosen for an interview. Thank you for your interest.
+TD requires employees to reside in Canada where the role is located. Successful candidates are expected to arrange relocation to one of our Toronto offices in a hybrid model (4 days per week in office).
 
-What you bring to the table:
+Assigned Line Of Business Requirements
 
-Currently pursuing a Bachelor's or Master’s degree in a field related to software development, computer science, or anything relevant;
+Please note that the line of business that you are assigned to may require specific skills not mentioned in this posting
 
-Available to work with us full-time, 35 hours per week, for the Summer 2026 Term (May to August)
+HOURS
 
-Must be an active student during your internship and/or returning to school in next Fall 2026 following your internship
-
-Past relevant internship/co-op experience(s) considered an asset
-
-Understand the software development lifecycle and be curious about continuous delivery pipelines and testing.
-
-Understand the basics of an agile way of work
-
-Strong analytical abilities and problem-solving skills.
-
-Adaptability, curiosity, and commitment to continuous learning.
-
-Excellent communication skills with a passion for technology.
-
-Self-reliant with a strong sense of responsibility.
+Monday-Friday, standard business hours
