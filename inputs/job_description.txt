@@ -1,58 +1,60 @@
-Full job description
+Salary for the candidate will be determined taking into consideration a number of factors including: experience, skills, qualifications, anticipated contribution to role, internal equity, etc. The salary range presented below is based on a 35-hour workweek and would represent a majority of different candidate profiles. However, we encourage candidates who may fall outside of this range to apply as well.
 
-Job Type: Co-op/Intern
-Work Model: Hybrid
-Reference code: 131694
-Primary Location: Toronto, ON
-All Available Locations: Toronto, ON; Montreal, QC
+Salary range (but not limited to):
 
+61,500 - 76,900
 
-Our Purpose
+About the role
 
+Launching your tech career at Intact means joining a diverse team of more than 3,000 Digital, Data and Tech experts working at the intersection of what exists and what’s possible. Here, you’ll be supported by forward-thinking leaders who celebrate shared success, and you’ll help push the industry forward with digital solutions that go beyond insurance to offer everyday value to millions of people. You’ll grow personally and professionally with access to cutting-edge technology-driven learning platforms and make lasting connections near and far. Most importantly, you’ll discover how exciting the “real world” can be.
+Here, your career will take off
 
-At Deloitte, our Purpose is to make an impact that matters. We exist to inspire and help our people, organizations, communities, and countries to thrive by building a better future. Our work underpins a prosperous society where people can find meaning and opportunity. It builds consumer and business confidence, empowers organizations to find imaginative ways of deploying capital, enables fair, trusted, and functioning social and economic institutions, and allows our friends, families, and communities to enjoy the quality of life that comes with a sustainable future. And as the largest 100% Canadian-owned and operated professional services firm in our country, we are proud to work alongside our clients to make a positive impact for all Canadians.
+Are you passionate about software development? Is your sweet spot at the forefront of digital innovation? Are you an advocate for great code and great design? We’ve got the perfect opportunity for you. We are seeking multiple talented Software Developer interns, to join our dynamic and growing teams. Depending on your team assignment, here’s what you’ll do here:
 
-By living our Purpose, we will make an impact that matters.
+Developer Platform
 
--
-Are you a computer science, engineering, business or communications student looking for your next co-op position? Consider applying to this great opportunity!
+Work in the development teams building new features for our products Harbour (Internal Developer Platform), Mentor (Opinionated CICD Pipeline), IT-Health (Software Metrics and Analytics) and Agora (Knowledge Base and Community Engagement Platform).
 
-What will your typical day look like?
+Support the team in triaging and fixing production issues
 
-The Deloitte Technology Support team will give you the opportunity to provide IT service management and support to Deloitte’s employees, assist with technology deployments, support client-facing sessions and document processes. You will also have the chance to develop your troubleshooting and organizational skills in a vibrant environment while learning various technologies and being comfortable to talk about them.
+Work with a Product Centric Team for developing, testing, and getting feedback.
 
+Freedom to bring your own ideas and solutions and following best practices in a small agile and fun team
 
-The IT Solutions Delivery team is the internal-facing services team of the firm. Our subject matter experts in digital solutions use scalable and innovative technologies to provide efficient responses to day-to-day demands and challenges our business teams are facing, saving our firm time, resources and cost. As a co-op/intern within Solutions Delivery, you could be involved in any aspect of the software development lifecycle or proof of concepts which might include business or system analysis, development & testing, project coordination, as well as research and documentation.
+Technical Skills required: Java, GitHub
 
-
-In the Project Management Office (PMO), you will work closely with a wide variety of technology projects to ensure adherence to established project management frameworks. Your responsibilities will include analyzing project data for compliance, supporting project managers with financial tracking and cost control reporting, and overseeing RAID logs to ensure effective risk and change management communication. Additionally, you will maintain documentation for compliance purposes, administer the ServiceNow “Projects” module, and collaborate on Power BI data models.
+Nice to have: Spring Boot, Experience Building Rest Services, API Scraping, MongoDB, AWS
 
 
-The Technology & Infrastructure team offers an exciting opportunity to gain hands-on experience within both our Infrastructure Managed Services and Cloud Managed Services teams. The successful candidate will assist with a variety of operational activities, including datacenters, servers, applications, databases, operating systems, networks and meeting room audio/video technologies.
-You will also assist in monitoring system performance, supporting incident and problem management processes, and contributing to infrastructure improvement initiatives. The role provides valuable exposure to enterprise-grade IT operations, cloud technologies, and collaboration systems, helping the candidate develop technical, analytical, and teamwork skills in a fast-paced, professional environment.
+Software Engineering Claims
+
+Build impactful claims features as a key member of an agile squad, from grooming and design through delivery.
+
+Elevate the claims agent experience by refining and enhancing existing software—reducing friction, improving performance, and shipping improvements.
+
+Work with senior developers to deliver quality products end-to-end by triaging defects, prioritizing fixes, and contributing to reliable, scalable production support
+
+Learn from senior developers on software lifecycle management best practices, growing your craft across design, development, testing, deployment, and observability.
+
+Technical Skills Required: Java development
+
+Nice to Have: Agile/scrum, microservices, guidewire or P&C insurance experience
 
 
-The Emerging Technologies Delivery Team leads the firm’s journey into newer technologies by delivering and implementing cutting-edge solutions in Generative & Agentic AI, Machine Learning, and Robotic Process Automation. With a strong focus on experimentation, rapid prototyping, and innovation, the team transforms ideas into impactful, scalable solutions. Backed by deep product delivery and management expertise, the team launches engaging systems of differentiation that create lasting business value and drive competitive advantage.
+What you bring to the table:
 
+Currently pursuing a Bachelor's or Master’s degree in a field related to software development, computer science, or anything relevant;
 
-The Technology Business Enablement team is where our technology projects come to fruition. The team works in conjunction with our internal business stakeholders to identify opportunities to leverage technology to solve business problems. The co-op/intern will work with our Portfolio Managers to develop business cases, prioritize demands and ensure that the mechanics of projects are set up correctly to ensure that our internal IT teams are working on the most strategic / highest impact initiatives for the Firm.
+Available to work with us full-time, 35 hours per week, for the Summer 2026 Term (May to August)
 
-About the team
+Must be an active student during your internship and/or returning to school in next Fall 2026 following your internship
 
-Deloitte is one of Canada’s leading professional services firms, providing audit, tax, consulting and financial advisory services across Canada. At Deloitte, we combine industry insight with a deep understanding of today’s local and global business challenges to give our clients the intelligent, practical and principled solutions they need to resolve both today’s and tomorrow’s challenges.
+Understand the software development lifecycle and be curious about continuous delivery pipelines and testing.
 
+Strong analytical abilities and problem-solving skills.
 
-Let Deloitte show you how to push your career to the next level. And let your story unfold.
+Adaptability, curiosity, and commitment to continuous learning.
 
-Enough about us, let’s talk about you
+Excellent communication skills with a passion for technology.
 
-In this role, the expected qualifications are:
-
-
-Enrolled in a relevant post-secondary program such as computer science, engineering, business/commerce, or communications
-Strong customer service skills
-Excellent interpersonal and communication skills
-A team-player attitude with motivated, innovative, perceptive, adaptable, action-oriented, leadership capabilities
-Microsoft office proficiency, including Word, Excel, PowerPoint and unified communications
-
-Quebec: We require basic English skills to meet our clients’ needs. As part of your assignments, you may work for clients who operate outside Quebec and whose language is English.
+Self-reliant with a strong sense of responsibility.
