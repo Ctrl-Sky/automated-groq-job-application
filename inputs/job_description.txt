@@ -1,48 +1,52 @@
 About the job
-This role will be required to work from our downtown Toronto office 2 days a week.
+You are the brains behind our work …
 
-With millions of diners, 60,000+ restaurant partners and 25+ years of experience, OpenTable, part of Booking Holdings, Inc. (NASDAQ: BKNG), is an industry leader with a passion for helping restaurants thrive. Our world-class technology empowers restaurants to focus on what matters most – their team, their guests, and their bottom line – while enabling diners to discover and book the perfect restaurant for every occasion.
+At Citi, we do not just adapt to change – we drive it. Our Summer Technology Analyst Program is where forward-thinking talents meet unparalleled opportunities. This is your chance to innovate, influence, and make an impact in the most global financial institution!
 
-Every employee at OpenTable has a tangible impact on what we do and how we do it. You’ll also be part of a global team and its portfolio of metasearch brands. Hospitality is all about taking care of others, and it defines our culture.
+Citi Technology partners to ensure that Citi’s platforms can “Be the Best” for clients globally, with a diverse and ethical workforce that applies innovation and automation to deliver a world class client experience and strengthen our reputation. We have over 30,000 technologists globally who are dedicated to serving our clients’ needs across the firm. By utilizing a broad range of technologies, we are at the forefront of innovation. We seek to drive our systems and processes towards scalable, low-latency, high frequency enterprise systems to support Citi’s strategic priorities.
 
-This is a hands-on, build-first internship focused on creating AI agents and workflow automations that handle various complex tasks across departments.
+We provide you with the knowledge and skills you need to succeed…
 
-You’ll work within a mature AI platform using existing frameworks, tools, and guardrails to build agents that don't just "chat," but execute multi-step tasks like automated triage, document extraction, and data enrichment. Your job is to implement, test, and improve agents and automations under guidance from senior engineers.
+We are committed to teaching you the ropes. The Summer Analyst Program starts in early May with an in-depth education on the Analyst role’s fundamentals and the nuances of Citi’s culture. The program also includes on-the-desk training, an informative speaker series, and networking opportunities. Summer Analysts often return to Citi after graduating from university to become Full-Time Analysts and continue their career in technology.
 
-This is a production-grade role. You will write code that manages real data, with a focus on reliability, anti-hallucination guardrails, and long-running workflows.
+Your time here will look something like this...
 
-This is a 12 week internship program.
+Advancing our technological capabilities day after day not only delivers seamless services to the bank but works towards building the flexible systems that will define the digital bank of tomorrow. The Production Support team is at the forefront of maintaining and optimizing critical live production systems, ensuring their health, stability, and peak performance so that Citi can confidently conduct business and service clients. Our analysts use their problem solving and technical skills to quickly resolve any issues, which can vary in severity and complexity and may impact Citi’s reputation or profits. Production support analysts are often ‘the bridge’ between technology and the business, so they quickly become equipped with extensive business knowledge, as well as technical skills.
 
-In This Role, You Will
+As a Production Support Analyst, you will work in a dynamic environment that adapts to the needs and priorities of various organizations: Services, Markets, Banking, Functions and Data. This role offers a unique blend of business knowledge and technical expertise, empowering you to swiftly troubleshoot complex problems and engineer robust solutions. Your core mission will be to guarantee production stability, providing an always available and resilient technological backbone for our clients. This involves coordinating with other technology partners such as developers, business teams, etc. to monitor the end-to-end application environment in real-time.
 
-Stateful Agent Orchestration: Build agents using established frameworks like LangChain and LangGraph to manage complex, multi-step workflows with failure recovery and state management.
-Enterprise Integrations: Connect agents to professional toolsets (CRM, Issue Trackers, and Communication platforms) via APIs, OAuth2, and webhooks.
-Advanced RAG & Search: Implement and tune retrieval systems using vector databases (qdrant, pgvector) for high-accuracy similarity search and duplicate detection.
-Computer Vision: Use Vision-based LLMs to extract structured data from unstructured documents.
-Workflow Automation: Implement workflow automations using approved tools (n8n, Zapier, internal platforms).
-Observability: Instrument agents with tools like LangSmith for tracing, performance benchmarking, and cost tracking
+What You'll Do & Learn:
 
-What You’ll Learn (For Real)
+Hands-On Incident & Problem Management: Gain direct exposure to supporting our clients through the entire lifecycle of incident and problem management. You'll develop critical problem-solving skills and learn how to manage complex technical challenges under pressure.
+Enhancing Monitoring & Alerting Systems: Contribute to the continuous improvement of our sophisticated monitoring capabilities. You'll work with industry-standard tools like ITRS Geneos and Grafana to build and refine platforms that proactively identify and alert on production issues, enabling rapid resolution.
+Developing Innovative Tooling & Automation: Unleash your coding potential! You'll have the exciting opportunity to design, develop, and implement custom applications and scripts that automate processes, improve efficiency, and empower your team
+Elevate your technical skills: As a Production Support Analyst, you'll master Linux/Unix, hone database expertise (SQL, Oracle, PostgreSQL), and build automation with Python. You'll gain experience with application servers, web technologies, and strengthen networking knowledge. This role offers hands-on use of monitoring tools (ITRS Geneos, Grafana) and exposure to cloud and containerization (Kubernetes), ensuring continuous growth in a dynamic production environment.
 
-How production AI agents differ from demos
-How to design prompts, tools, and flows that don’t collapse under edge cases
-How to design anti-hallucination guardrails so agents stay on track during long-running tasks
-How to automate business workflows end to end, not just single tasks
-How to write code that meets the rigor of a global engineering organization prioritizing readability and long-term maintenance
-How security, access control, and governance shape AI systems in practice
+As a member in our program, you can expect:
 
-What Success Looks Like
+Global Exposure: Work in globally scoped projects with cross-functional teams and gain insights into how technology drives the financial sector worldwide.
+Continuous Learning: Benefit from structured learning, networking, mentoring, and development programs that are designed to sharpen your technical prowess, enhance your business insight, and cultivate your leadership skills.
+Real Impact: Contribute to real-world projects that shape the future of banking, from developing next-gen digital banking solutions to enhancing our cybersecurity defenses and driving data-powered innovations.
 
-You ship working automations that others rely on
-Your agents fail less over time because you learn how to harden them
-Your code is readable, tested, and easy to extend
-You need less hand-holding by the end of the internship
+We want to hear from you if...
 
-Required Skills
+We are in a hunt for trailblazers with a passion for technology and drive to make a difference.
 
-Experience with Python or TypeScript through coursework, projects, or internships
-Basic understanding of LLM concepts (prompting, context windows, tool calling)
-Hands-on use of GenAI tools (OpenAI, Claude, Gemini, etc.)
-Comfort working with APIs, JSON, and webhooks
-Willingness to follow existing frameworks instead of reinventing them
-Familiarity with Retrieval-Augmented Generation (RAG) architectures and how context is retrieved, grounded, and passed to LLMs
+To join this elite program, you should:
+
+Be graduating between Dec 2026 and May 2027.
+Pursuing Bachelor’s degree in Computer Science, Computer Engineering, Information Technology, Management Information Systems, or other tech related degree.
+GPA of 3.0 or better is preferred. 
+Be a problem solver who thrives on innovation and enjoys tackling challenges head-on.
+Possess a global outlook and a willingness to collaborate across cultures and time zones.
+Have excellent communication skills, project management, leadership, attention to detail, and the ability to work well within diverse teams.
+Ability to pass technical interviews consisting of basic algorithmic programming exercises.
+Must be collaborative and adaptable, with excellent communication skills. Prior experience working on agile teams is desirable.
+
+Who We Think Will Be a Great Fit...
+
+A dedication to learning and a true passion for business are vital. As industries all over the globe continue to restructure and grow, we are hiring professionals who have a global perspective on the future of banking and want to make an impact on the corporate level. We value diversity and so do you. This program is ideal for those who:
+
+Are ambitious, with relentless drive to succeed in a fast-paced, dynamic environment.
+Are curious about how technology can revolutionize finance and are eager to be at the forefront of this transformation.
+Want to grow into a future tech leader, with a passion for both technology and its application in the global financial industry.
