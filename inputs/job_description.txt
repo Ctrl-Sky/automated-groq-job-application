@@ -1,51 +1,68 @@
-Putting people first, every day
- 
+RBC Wealth Management is a part of Royal Bank of Canada (“RBC”), one of the largest providers of financial services in the world. RBC Wealth Management Canada is comprised of six complementary lines of business which are supported by over 250 wealth professionals through our RBC Family Office Services team. Together, we provide our clients an unmatched experience.
 
-BDO is a firm built on a foundation of positive relationships with our people and our clients. Each day, our professionals provide exceptional service, helping clients with advice and insight they can trust. In turn, we offer an award-winning environment that fosters a people-first culture with a high priority on your personal and professional growth.
+Your application will be reviewed for consideration across multiple roles within the following areas:
 
-Your Opportunity
+RBC Dominion Securities 
 
-BDO Digital is looking for a Co-op or Intern, Full-Stack Developer to join our AppDev team. This is a net new role and responsibilities will include:
+RBC PH&N Investment Counsel
 
-Utilize the full stack of technologies including but not limited to ASP.NET Core (C#), React or Angular (JavaScript)
-Develop application on public cloud such as MSFT Azure.
-Participate in our innovation program with exposure to GenAI (Azure OpenAI - python)
-Apply analytical and problem-solving skills to solve challenging client problems
-How do we define success for your role? 
+RBC Royal Trust 
 
-You demonstrate BDO's core values through all aspect of your work: Integrity, Respect & Collaboration
-You understand your client’s industry, challenges, and opportunities; client describe you as positive, professional, and delivering high-quality work
-You identify, recommend, & are focused on effective service delivery to your clients
-You share in an inclusive & engaging work environment that develops, retains & attracts talent
-You actively participate in the adoption of digital tools and strategies to drive an innovative workplace
-You grow your expertise through learning & professional development.
-Your experience and education
+RBC Private Banking
 
-Candidate for Math, Computer Science, Engineering, or related field
-Prior experience developing using the Microsoft stack of technologies is not required but is considered an asset
-The expected range of compensation for this role is $51,000-$78,000.
+RBC Wealth Management Financial Services
 
+RBC Global Asset Management
 
-Why BDO?
+What is the opportunity?
 
-Our people-first approach to talent has earned us a spot among Canada’s Top 100 Employers for 2025. This recognition is a milestone we’re thrilled to add to our collection of awards for both experienced and student talent experiences. 
+We are seeking summer interns across several Technology/Developer roles (including but not limited to the following: Software Developer, Quant Developer, Operation Analyst and Cybersecurity, Fixed Income Performance Team Support, IT Risk Analyst, and QA Automation Analyst) to join the RBC Wealth Management Team. Come join us to help apply technology that enables the investment processes!
 
-Our firm is committed to providing an environment where you can be successful in the following ways: 
+What will you do?
 
-We enable you to engage with how we change and evolve, being a key contributor to the success and growth of BDO in Canada. 
+Participate in all parts of software development lifecycle – design, implementation, and rollout of production systems
+Create and review technical design documents, understand how the design will be used in the code development process, and facilitate meetings to design, troubleshoot, and enhancements development
+Contribute to the development and enhancement of new and existing web applications.
+Monitoring email queue closely and picking up issues/requests in a timely manner
+Create ServiceNow tickets and assign them to the appropriate support teams
+Create and maintain knowledge documents
+Utilizing all available resources to perform issue investigation and troubleshooting e.g. documentation, escalations etc.
+Monitoring and improving the availability of our software solutions and data integration batch jobs.
+Start developing larger features for projects by working with Senior Engineers
+Designing, modifying, developing, writing and implementing software programming applications for target system using agile methods.
+Analyze requirements, create test strategy, prepare test documentation and execute test
+Conduct manual access reviews and role recertification
+Provide guidance to business and technical stakeholders on RBC's compliance standards
+Engage in organization level remediation planning
+Manage and conduct Non-Personal ID & Password Access Management remediation project
+What do you need to succeed?
 
-We help you become a better professional within our services, industries, and markets with extensive opportunities for learning and development. 
+Must have:
 
-We support your achievement of personal goals outside of the office and making an impact on your community.
+Major in computer science or an equivalent combination of education, experience, and training
+Experience in SQL, C#, Java, NodeJS, Python, and Microsoft technologies can be beneficial (school project experience counts)
+Java 8+ and Spring Framework (Spring Boot)
+Experience with Web technologies such as HTML, HTTP, Java script and CSS
+Ability to work effectively both independently and as part of a team
+Excellent problem-solving skills, flexible approach to work and the ability to adapt to change
+Strong written and verbal communication skills, with the ability to effectively communicate with both business users and technical individuals
+Nice to have:
 
-Giving back adds up: Where company meets community. BDO is actively involved in our communities by supporting local charity initiatives. We support staff with local and national events where you will be given the opportunity to contribute to your community.
+Understanding of Active directory
+Understanding of Web FE development frameworks and libraries such as Angular and React
+Understanding of trading systems such as Bloomberg/Reuters products
+Experience working within professional software engineering practices for the full software development life cycle, including coding standards, code reviews, source code management, build processes and testing.
+Please note: 
 
+In order to be eligible for these student positions, you must either: 
 
-Total rewards that matter: We pay for performance with competitive total cash compensation that recognizes and rewards your contribution. We provide flexible benefits from day one, and a market leading personal time off policy. We are committed to supporting your overall wellness beyond working hours and provide reimbursement for wellness initiatives that fit your lifestyle.
+Be returning back to school after the work term end-date; or 
+If you are not returning back to school (i.e. are graduating immediately after the work term), you must require the full work term as a mandatory component in order to graduate successfully
+What’s in it for you?
 
+We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.
 
-Everyone counts: We believe every employee should have the opportunity to participate and succeed. Through leadership by our Diversity, Equity and Inclusion Leader, we are committed to a workplace culture of respect, inclusion, and diversity. We recognize and celebrate the valuable differences among each of us, including race, religious beliefs, physical or mental disabilities, age, place of origin, marital status, family status, gender or gender identity and sexual orientation. If you require accommodation to complete the application process, please contact us.
-
-Flexibility: All BDO personnel are expected to spend some of their time working in the office, at the client site, and virtually unless accommodations or alternative work arrangements are in place.
-
-Our model is a blended approach designed to support the flexible needs of our people, the firm and our clients. It’s about creating work experiences that meet everyone’s needs and providing flexibility to adjust when, where and how we work to meet the expectations of our role.
+Leaders who support your development through coaching and managing opportunities
+Ability to make a difference and lasting impact
+Work in a dynamic, collaborative, progressive, and high-performing team
+A world-class training program in financial service
