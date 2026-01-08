@@ -1,67 +1,44 @@
-Position Overview 
+About the job
+Putting people first, every day
 
-Autodesk is looking for a talented and motivated Data Developer to join our Analytics team to develop robust and scalable data pipelines using and improving existing platforms.  The successful candidate will drive performance enhancements, build pipelines, and collaborate with other Data Engineering teams across Autodesk. You will work with cutting edge technologies in big data space. 
+BDO is a firm built on a foundation of positive relationships with our people and our clients. Each day, our professionals provide exceptional service, helping clients with advice and insight they can trust. In turn, we offer an award-winning environment that fosters a people-first culture with a high priority on your personal and professional growth.
 
- 
+Your Opportunity
 
-Responsibilities 
+BDO Digital is looking for a Co-op or Intern, Data & Analytics to join their team. This is a net new role and responsibilities will include:
 
-Develop, automate, migrate and support robust and reliable data pipelines  
+Play an integral role in our delivery practice as we execute on enterprise level engagements through our various industry specializations
+Engage directly with clients and drive the implementation and successful end user experience of analytics solutions.
+Analyze business processes and requirements, and assist in maintaining documentation including requirements, design, and user documentation
+Develop and manage Analytics solutions as part of client data solutions
 
-Work with the team to make the Data Platform an efficient, robust and scalable platform 
 
-Gather customer requirements, sequence work and document technical solutions 
+How do we define success for your role?
 
-Interface with data developers, data scientists, product managers and internal stakeholders 
+You demonstrate BDO's core values through all aspect of your work: Integrity, Respect & Collaboration
+You understand your client’s industry, challenges, and opportunities; client describe you as positive, professional, and delivering high quality work
+You identify, recommend, & are focused on effective service delivery to your clients
+You share in an inclusive & engaging work environment that develops, retains & attracts talent
+You actively participate in the adoption of digital tools and strategies to drive an innovative workplace
+You grow your expertise through learning & professional development.
 
-Contribute to a team culture that values quality, robustness, and scalability while fostering initiatives and innovation​ 
 
- 
+Your Experience And Education
 
-Requirements 
+Candidate for Math, Computer Science, Engineering, or related field
+Prior experience developing using the Microsoft stack of technologies is not required but is considered an asset. Technologies include but are not limited to Core SQL, Python, SQL Azure, Azure Data Lake, Azure Data Factory, Azure Databricks, and Apache Spark
+Strong attention to the quality of work delivered (attention to detail)
+Able to adapt quickly to changing client requirements
 
-Hands-on software development experience in Python 
 
-Familiar with cloud-native applications 
+The expected range of compensation for this role is $51,000-$78,000.
 
-Customer-facing and service-oriented person 
+Why BDO?
 
-Understanding DevOps best practices, architectures, and methods 
+Our people-first approach to talent has earned us a spot among Canada’s Top 100 Employers for 2025. This recognition is a milestone we’re thrilled to add to our collection of awards for both experienced and student talent experiences.
 
-Familiar with scalable data pipelines and ETL processes for data ingestion, transformation, and integration
+Our firm is committed to providing an environment where you can be successful in the following ways:
 
-Familiar with Relational and NoSQL databases such as MySQL and DynamoDB
-
-Contribute to data documentation, lineage tracking, and workflow orchestration
-
-Ability to work with cross-functional teams (analytics, product, ML engineering) in a remote environment to deliver data for dashboards and models
-
- 
-
-Minimum Qualification 
-
-Must be at least 18 and enrolled in college or non-traditional education, such as coding boot camps or industry-related vocational classes and returning to school or program following the completion of this internship
-
-A mix of previous internships, school projects, volunteering, and leadership experience are also important
-
-Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Engineering, Information Systems, or a related field
-
-Solid understanding of SQL and relational database concepts
-
-Familiarity with data pipeline concepts and ETL/ELT workflows
-
-Basic knowledge of cloud data platforms (AWS, Azure, GCP) and distributed data processing frameworks (e.g., Spark, Hadoop) is a plus
-
-Strong problem-solving skills and ability to work with large datasets
-
-Eagerness to learn new technologies and collaborate in a fast-paced environment
-
-Learn More
-
-About Autodesk
-
-Welcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made.
-
-We take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each other, informs how we connect with customers and partners, and defines how we show up in the world.
-
-When you’re an Autodesker, you can do meaningful work that helps build a better world designed and made for all. Ready to shape the world and your future? Join us!
+We enable you to engage with how we change and evolve, being a key contributor to the success and growth of BDO in Canada. 
+We help you become a better professional within our services, industries, and markets with extensive opportunities for learning and development. 
+We support your achievement of personal goals outside of the office and making an impact on your community.
