@@ -1,39 +1,39 @@
-At IMCO, our talent is among the best! IMCO offers a uniquely stimulating and rewarding environment where you can help build and drive organizational transformation, all while seeking to challenge yourself, learn, and grow your career.
+About Stripe
 
-Our culture is built on collaboration and passion, with a shared commitment to delivering lasting value to the clients we serve. Located in downtown Toronto, our vision is to be the partner of choice for Ontario’s public sector funds and to build a high-performing, value-driven asset management firm.
+Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.
 
-This job posting is for an existing vacancy. If you are ready to deliver best-in-class service and join a collaborative, motivated and fun team of professionals, IMCO offers the opportunity to do impactful work and broaden your expertise.
+About The Team
 
-If you’re looking to use your expertise to drive strategic outcomes, we’d love to hear from you.
+Our internship program will provide an opportunity to work on meaningful products that will grow the GDP of the internet. Through the internship, you will work with many systems and technologies, gain experience in systems design and testing, and have opportunities to present your work to your team and the wider org. Each intern has a dedicated intern manager, and every project is part of the team’s roadmap and will directly help Stripe’s mission.
 
-‎
+What you’ll do
 
-We are looking for a highly motivated student or recent graduate to join our team!
+Every internship at Stripe centers around a real, legitimate project that our customers urgently need, touching many parts of our operations and stack. We will support you in shipping it. Yes, you will actually ship it. Some recent projects include rebuilding our statistics aggregation service, building new service discovery systems, and many user facing projects like making it easy to understand error messages on Stripe Checkout. As a Stripe intern, you'll be tackling important projects to increase global commerce, while working alongside exceptional people who insist on doing their best work. You’ll learn from people with high standards who are great at inspiring others to do more and go further. We value technical and personal growth, and see our internship program as a vehicle to foster both.
 
-Our Intern Program is designed to support the development of students and recent graduates for future positions by offering one-on-one mentoring, peer and experiential learning, internal training programs, and much more. We are currently accepting applications for undergraduate and master’s level students or recent graduates seeking the opportunity to work in the investment management space.
+Responsibilities
 
-The position contributes to building enterprise data on world-class technology, working with investment teams.
+Write software that will be used in production, and has meaningful impact to Stripe
+Give and receive technical feedback through code reviews or design discussions
+Collaborate with other engineers and cross-functional stakeholders to proactively seek and incorporate feedback
+Learn quickly by asking great questions, by working with your intern manager and teammates effectively, and by communicating the status of your work clearly
 
-Responsibilities Include: 
 
-Contribute to the implementation, build and maintenance of our investment solutions on a modern data technology platform with Databricks and Snowflake on the Azure cloud
-Build analytics and datasets for downstream consumption by systems and reports
-Automation of processes to improve operational efficiencies
-Create visualizations and insights with Power BI dashboards
-Effectively complete projects and other duties assigned in a collaborative environment
-Work closely with our business systems analyst to gather requirements for new and existing solutions.
-Perform data analysis on business financial datasets
-Assess opportunities to document best practices and processes
-Assist on projects and provide production support as needed.
+Who you are
 
-What You Need to Succeed:
+We’re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.
 
-Post-secondary/Undergraduate program/combination of experience that demonstrates a strong background in computer science or engineering, or equivalent study in data science
-Diligent, detail-oriented, and accurate when preparing deliverables
-Ability to work in a fast-paced, demanding environment and manage multiple priorities
-Excellent analytical, interpersonal and communication skills with strong problem-solving ability
-A willingness to learn new things, a self-starter and able to work independently
-Strong analytical, decision-making, and problem-solving skills are required
-Proficiency with Python coding 
-Nice to have: Familiar with ETL processing and database technologies (SQL, Databricks)
-Nice to have: GenAI and ML with understanding in model training, monitoring and evaluation
+Minimum Requirements
+
+A strong fundamental understanding of computer science through pursuit of a Bachelor’s or Master’s degree in computer science, math, or a related discipline
+Some experience and familiarity with programming, either through side projects or classwork. We work mostly in Java, Ruby, JavaScript, Scala, and Go. We believe new programming languages can be learned if the fundamentals and general knowledge are present
+Experience from previous internships or other multi-person projects, including open source contributions, that demonstrate evaluating and receiving feedback from mentors, peers, and stakeholders
+Ability to learn unfamiliar systems and form an understanding of those systems, through independent research and working with a mentor and subject matter experts
+
+
+Preferred Qualifications
+
+At least 2 years of university education, or equivalent work experience
+One or more areas of specialized knowledge balanced with general skills and knowledge, such as knowing more frontend technologies and, at a high level, how a service handles an HTTP request
+Understanding and some experience writing high quality pull requests, with good test coverage, and working knowledge to complete projects with minimal defects
+Familiarity with navigating and managing your work in new code bases, with multiple languages
+Ability to write clearly to explain your work to stakeholders, team members, and other Stripes.
