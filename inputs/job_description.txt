@@ -1,52 +1,67 @@
-About the job
-You are the brains behind our work …
+Position Overview 
 
-At Citi, we do not just adapt to change – we drive it. Our Summer Technology Analyst Program is where forward-thinking talents meet unparalleled opportunities. This is your chance to innovate, influence, and make an impact in the most global financial institution!
+Autodesk is looking for a talented and motivated Data Developer to join our Analytics team to develop robust and scalable data pipelines using and improving existing platforms.  The successful candidate will drive performance enhancements, build pipelines, and collaborate with other Data Engineering teams across Autodesk. You will work with cutting edge technologies in big data space. 
 
-Citi Technology partners to ensure that Citi’s platforms can “Be the Best” for clients globally, with a diverse and ethical workforce that applies innovation and automation to deliver a world class client experience and strengthen our reputation. We have over 30,000 technologists globally who are dedicated to serving our clients’ needs across the firm. By utilizing a broad range of technologies, we are at the forefront of innovation. We seek to drive our systems and processes towards scalable, low-latency, high frequency enterprise systems to support Citi’s strategic priorities.
+ 
 
-We provide you with the knowledge and skills you need to succeed…
+Responsibilities 
 
-We are committed to teaching you the ropes. The Summer Analyst Program starts in early May with an in-depth education on the Analyst role’s fundamentals and the nuances of Citi’s culture. The program also includes on-the-desk training, an informative speaker series, and networking opportunities. Summer Analysts often return to Citi after graduating from university to become Full-Time Analysts and continue their career in technology.
+Develop, automate, migrate and support robust and reliable data pipelines  
 
-Your time here will look something like this...
+Work with the team to make the Data Platform an efficient, robust and scalable platform 
 
-Advancing our technological capabilities day after day not only delivers seamless services to the bank but works towards building the flexible systems that will define the digital bank of tomorrow. The Production Support team is at the forefront of maintaining and optimizing critical live production systems, ensuring their health, stability, and peak performance so that Citi can confidently conduct business and service clients. Our analysts use their problem solving and technical skills to quickly resolve any issues, which can vary in severity and complexity and may impact Citi’s reputation or profits. Production support analysts are often ‘the bridge’ between technology and the business, so they quickly become equipped with extensive business knowledge, as well as technical skills.
+Gather customer requirements, sequence work and document technical solutions 
 
-As a Production Support Analyst, you will work in a dynamic environment that adapts to the needs and priorities of various organizations: Services, Markets, Banking, Functions and Data. This role offers a unique blend of business knowledge and technical expertise, empowering you to swiftly troubleshoot complex problems and engineer robust solutions. Your core mission will be to guarantee production stability, providing an always available and resilient technological backbone for our clients. This involves coordinating with other technology partners such as developers, business teams, etc. to monitor the end-to-end application environment in real-time.
+Interface with data developers, data scientists, product managers and internal stakeholders 
 
-What You'll Do & Learn:
+Contribute to a team culture that values quality, robustness, and scalability while fostering initiatives and innovation​ 
 
-Hands-On Incident & Problem Management: Gain direct exposure to supporting our clients through the entire lifecycle of incident and problem management. You'll develop critical problem-solving skills and learn how to manage complex technical challenges under pressure.
-Enhancing Monitoring & Alerting Systems: Contribute to the continuous improvement of our sophisticated monitoring capabilities. You'll work with industry-standard tools like ITRS Geneos and Grafana to build and refine platforms that proactively identify and alert on production issues, enabling rapid resolution.
-Developing Innovative Tooling & Automation: Unleash your coding potential! You'll have the exciting opportunity to design, develop, and implement custom applications and scripts that automate processes, improve efficiency, and empower your team
-Elevate your technical skills: As a Production Support Analyst, you'll master Linux/Unix, hone database expertise (SQL, Oracle, PostgreSQL), and build automation with Python. You'll gain experience with application servers, web technologies, and strengthen networking knowledge. This role offers hands-on use of monitoring tools (ITRS Geneos, Grafana) and exposure to cloud and containerization (Kubernetes), ensuring continuous growth in a dynamic production environment.
+ 
 
-As a member in our program, you can expect:
+Requirements 
 
-Global Exposure: Work in globally scoped projects with cross-functional teams and gain insights into how technology drives the financial sector worldwide.
-Continuous Learning: Benefit from structured learning, networking, mentoring, and development programs that are designed to sharpen your technical prowess, enhance your business insight, and cultivate your leadership skills.
-Real Impact: Contribute to real-world projects that shape the future of banking, from developing next-gen digital banking solutions to enhancing our cybersecurity defenses and driving data-powered innovations.
+Hands-on software development experience in Python 
 
-We want to hear from you if...
+Familiar with cloud-native applications 
 
-We are in a hunt for trailblazers with a passion for technology and drive to make a difference.
+Customer-facing and service-oriented person 
 
-To join this elite program, you should:
+Understanding DevOps best practices, architectures, and methods 
 
-Be graduating between Dec 2026 and May 2027.
-Pursuing Bachelor’s degree in Computer Science, Computer Engineering, Information Technology, Management Information Systems, or other tech related degree.
-GPA of 3.0 or better is preferred. 
-Be a problem solver who thrives on innovation and enjoys tackling challenges head-on.
-Possess a global outlook and a willingness to collaborate across cultures and time zones.
-Have excellent communication skills, project management, leadership, attention to detail, and the ability to work well within diverse teams.
-Ability to pass technical interviews consisting of basic algorithmic programming exercises.
-Must be collaborative and adaptable, with excellent communication skills. Prior experience working on agile teams is desirable.
+Familiar with scalable data pipelines and ETL processes for data ingestion, transformation, and integration
 
-Who We Think Will Be a Great Fit...
+Familiar with Relational and NoSQL databases such as MySQL and DynamoDB
 
-A dedication to learning and a true passion for business are vital. As industries all over the globe continue to restructure and grow, we are hiring professionals who have a global perspective on the future of banking and want to make an impact on the corporate level. We value diversity and so do you. This program is ideal for those who:
+Contribute to data documentation, lineage tracking, and workflow orchestration
 
-Are ambitious, with relentless drive to succeed in a fast-paced, dynamic environment.
-Are curious about how technology can revolutionize finance and are eager to be at the forefront of this transformation.
-Want to grow into a future tech leader, with a passion for both technology and its application in the global financial industry.
+Ability to work with cross-functional teams (analytics, product, ML engineering) in a remote environment to deliver data for dashboards and models
+
+ 
+
+Minimum Qualification 
+
+Must be at least 18 and enrolled in college or non-traditional education, such as coding boot camps or industry-related vocational classes and returning to school or program following the completion of this internship
+
+A mix of previous internships, school projects, volunteering, and leadership experience are also important
+
+Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Data Engineering, Information Systems, or a related field
+
+Solid understanding of SQL and relational database concepts
+
+Familiarity with data pipeline concepts and ETL/ELT workflows
+
+Basic knowledge of cloud data platforms (AWS, Azure, GCP) and distributed data processing frameworks (e.g., Spark, Hadoop) is a plus
+
+Strong problem-solving skills and ability to work with large datasets
+
+Eagerness to learn new technologies and collaborate in a fast-paced environment
+
+Learn More
+
+About Autodesk
+
+Welcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made.
+
+We take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each other, informs how we connect with customers and partners, and defines how we show up in the world.
+
+When you’re an Autodesker, you can do meaningful work that helps build a better world designed and made for all. Ready to shape the world and your future? Join us!
