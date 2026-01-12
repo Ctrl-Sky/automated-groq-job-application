@@ -1,32 +1,56 @@
-Who we are:
-Geotab ® is a global leader in IoT and connected transportation and certified “Great Place to Work™.” We are a company of diverse and talented individuals who work together to help businesses grow and succeed, and increase the safety and sustainability of our communities.
- 
-Geotab is advancing security, connecting commercial vehicles to the internet and providing web-based analytics to help customers better manage their fleets. Geotab’s open platform and Geotab Marketplace ®, offering hundreds of third-party solution options, allows both small and large businesses to automate operations by integrating vehicle data with their other data assets. Processing billions of data points a day, Geotab leverages data analytics and machine learning to improve productivity, optimize fleets through the reduction of fuel consumption, enhance driver safety and achieve strong compliance to regulatory changes.
- 
-Our team is growing and we’re looking for people who follow their passion, think differently and want to make an impact. Ours is a fast paced, ever changing environment. Geotabbers accept that challenge and are willing to take on new tasks and activities - ones that may not always be described in the initial job description. Join us for a fulfilling career with opportunities to innovate, great benefits, and our fun and inclusive work culture. Reach your full potential with Geotab. To see what it’s like to be a Geotabber, check out our blog and follow us @InsideGeotab on Instagram. Join our talent network to learn more about job opportunities and company news.
-Who you are:
-We are always looking for amazing talent who can contribute to our growth and deliver results! Geotab is seeking Software Developer Interns to help us deliver our MyGeotab cloud services. If you love technology, and are keen to join an industry leader — we would love to hear from you!
+Position Start Date:	05/01/2026
+Position End Date:	08/31/2026
+Term Posted:	2026 - Spring
+Position Type:	4-month
+Position Title:	Data Science - ML for materials discovery and process optimization
+Position Description:	
+The National Research Council (NRC) is the Government of Canada's largest research organization supporting industrial innovation, the advancement of knowledge and technology development, and fulfilling government mandates.
 
-What you'll do:
-As a Software Developer, your key areas of responsibility will be the design, implementation and deployment of MyGeotab. You will work closely with the Cloud Automation and Site Reliability teams to build resilient cloud systems to support our fleet-tracking business.To be successful in this role, you should be a self-starter who can effectively collaborate with hybrid/remote teams. You should be interested in learning new architectures and design patterns. You should be familiar with object-oriented design.  
+The Clean Energy Innovation Research Centre of the NRC creates green and sustainable technologies for clean energy, resource extraction and environmental protection, essential to strengthen and support Canada's future clean economy.
 
-The opportunity:
-4 - 8 month work-term beginning May 2026.
-Full-time, paid internship: Monday - Friday, 37.5hrs/week.
-Your first week at Geotab begins with 'GEO Launch' - a one-week Employee Orientation. Click here to learn more!
-Learn more about the Geotab Campus Program here.
-This posting is for an existing vacancy.
-How you'll make an impact:
-Deliver features to production which have immediate impacts to our customers.
-Learn how our systems are deployed and scaled in the cloud.
-Participate in code reviews.
-Learn best practices in automated testing, source control, continuous integration and continuous delivery.
-What you'll bring to the role:
-Pursuing a Degree/Diploma in Computer Science, Math, Software Engineering or a related field.
-Experience with developing applications for a Linux environment
-Experience with object-oriented design, unit testing, optimization and multithreaded programming (C# and .Net preferred).
-Excellent written and oral communication skills.
-Strong analytical skills with the ability to problem-solve to well-judged decisions.
-If you got this far, we hope you're feeling excited about this role! Even if you don't feel you meet every single requirement, we still encourage you to apply.
- 
-Please note: Geotab does not accept agency resumes and is not responsible for any fees related to unsolicited resumes. Please do not forward resumes to Geotab employees.
+This position has a direct impact on our mission to develop more efficient and sustainable pathways to discover new battery materials. The co-op student will implement advanced AI models to support both the discovery and optimization processes, contributing to the development of a functional decision-making system that addresses real industrial challenges. The co-op student will collaborate with engineers and scientists to develop modular, object-oriented code, train predictive models, and evaluate their performance within realistic discovery and optimization workflows.
+
+The co-op student will have a direct and measurable impact on our mission through data-driven intelligence that accelerates innovation, enhances discovery efficiency, automates decision making, and advances next-generation materials technologies.
+
+This is an opportunity to apply machine learning to real engineering and scientific problems, gain hands-on experience with cutting-edge optimization and control techniques, expand knowledge of advanced ML models, and directly contribute to building a smarter, more sustainable discovery platform for battery materials.
+
+Position Requirements:	
+Duties:
+
+Develop clean, modular, and well-documented Python code using object-oriented programming principles to support surrogate modeling and control system components.
+Implement and experiment with advanced machine learning and optimization algorithms, including Gaussian Processes, Bayesian Optimization, and/or Reinforcement Learning.
+Extract, process, and clean data from internal and external databases, then build, train, and evaluate surrogate models to approximate system dynamics-ensuring accuracy, robustness, and scalability for integration into control frameworks.
+Design and run simulation experiments to evaluate control strategies, analyze model performance, and contribute to model improvement through iterative testing and refinement.
+Collaborate closely with engineers and scientists to understand problem statements, identify modeling challenges, and translate insights into computational solutions.
+Skills/Knowledge:
+
+Strong programming skills in Python, including experience with object-oriented programming and clean modular code design.
+Functional knowledge of machine learning concepts including model training, evaluation, and data preprocessing.
+Experience with scientific computing libraries such as NumPy, Pandas, and matplotlib.
+Familiarity with one or more ML frameworks such as scikit-learn, PyTorch, BoTorch
+Strong problem-solving abilities and willingness to learn complex modeling or control concepts.
+Ability to communicate technical ideas clearly and work collaboratively with multidisciplinary team.
+Nice to have basic understanding of Gaussian Processes, Bayesian Optimization, Reinforcement Learning algorithms, Version control tools (Git) and process engineering.
+Conditions of Coop Work Program:
+
+Students must be enrolled in a coop program. Graduate students and graduates will not be considered under this program.
+Linguistic Profile: Reading, Writing and Oral Interaction in English.
+Students must possess a minimum of a B average and must submit an unofficial transcript at time of application.
+Open to Canadian Citizens or Permanent Residents of Canada. Additionally, foreign national students who meet the eligibility requirements, are studying in a recognized and eligible Canadian educational institution and possess a valid Co-op Work Permit may also apply.
+For more information and requirements to work as a coop student or intern, please refer to the website:
+
+https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/intern.html.
+
+Please include citizenship information in your application.
+Must obtain and retain a reliability security clearance.
+
+
+At NRC, we know diversity enables excellence in research and innovation. We are committed to a diverse and representative workforce, an open and inclusive work environment, and contributing to a more inclusive Canadian innovation system.
+
+Priority will be given to the following designated employment equity groups:
+
+Women and Persons with Disabilities.
+
+NRC welcomes all qualified applicants and encourages candidates to self-declare as members of the following designated employment equity groups: women, visible minorities, Aboriginal peoples and persons with disabilities.
+
+Please advise of any accommodation measures required to enable you to be assessed in a fair and equitable manner. They are available to all candidates for further assessment. Related information received will be addressed confidentially.
