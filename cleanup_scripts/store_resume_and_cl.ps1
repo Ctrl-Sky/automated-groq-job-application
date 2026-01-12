@@ -6,7 +6,7 @@ param(
 )
 
 # Get the current month and year in format %b-%Y
-$MONTH_DATE = Get-Date -Format "MMM-yyyy"
+$MONTH_DATE = Get-Date -Format "MMM-dd-yyyy"
 $DIR_PATH = "outputs\$MONTH_DATE\$COMPANY_NAME-$JOB_TITLE"
 $INITIALS = "$($COMPANY_NAME.Substring(0,1))$($JOB_TITLE.Substring(0,1))"
 
