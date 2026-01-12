@@ -8,48 +8,39 @@ Join us in redefining healthcare — so it doesn’t just survive, it thrives. T
 
 For hybrid roles, we ask that students live within a commutable distance to the office listed in the posting. Co-op students will work in the office at least two days a week, including Wednesdays, so they can spend meaningful time with their leader or mentor and their team for real-time coaching, feedback, and support. In-office expectations will be discussed and agreed on with your manager during the interview process. 
 
-We are seeking a highly skilled individual to join our platform engineering team. As a member of this team, you will have the opportunity to work on cutting-edge technologies (AI/ML, Cloud Infrastructure) and contribute to the development of robust and scalable developer platforms.
+About the Role? 
+In this Software Engineer, Co-op role, you’ll join our Engineering team to support our Scrum teams working to deliver solutions to problems in an AI-first mindset. You will have the opportunity to work on problems that directly impact our customers – just like the rest of your team. We don’t believe in co-op specific tasks; instead, we mentor you so that you can dive in deep, deliver high-quality software and push it to production - maybe all on the same day! This means that you will be working alongside your team to solve complex issues and make a huge impact on the healthcare ecosystem.   
+ 
+You will  
+• Design and build high-quality software in a cloud native environment (MS Azure). 
+• Regularly releasing your work to our Azure-backed production environment. 
+• Experience working with first class AI tooling – GitHub Copilot, Copilot, Azure AI Foundry, etc 
+• Use technology to solve real-world problems using an AI-first mindset  
 
-Work Location: This is a hybrid role, based out of our Mississauga Office  
+
+Work Location: This is a hybrid role, based out of our Mississauga Office and Kitchener Office.   
 Mississauga Location: 570 Explorer Dr, Mississauga, ON L4W 0C4 
+Kitchener Location: 137 Glasgow St Unit 210, Kitchener, ON N2G 4X8 
 
 
 Work Term Length: 
 Work Terms, Including Expected Start and End Dates:  
-4 Months: May 4, 2026 – August 21, 2026
+4 Months: May 4, 2026 – August 21, 2026 (Mississauga Office and Kitchener Office) 
+8 Months: May 4, 2026 – December 18, 2026 (Mississauga Office) 
+
 
 Salary: 
 • Compensation Range: [$26-$32 per hour], aligned to your level, program, and term length. 
 • This is a paid co-op/internship position. 
 What's in it for you?
-Develop solutions to help improve developer experience with cloud infrastructure
-Work with product engineering to iterate over software requirements
-Automate/self service cloud infrastructure tasks through existing platforms
-Develop tools and applications by producing clean, efficient code
-Analyze and debug systems
-Perform validation and verification testing in a test-driven manner
-Review the work of others, and invite others to review your work
-Ensure software is up-to-date with latest technologies
+Make an Impact: Work on meaningful projects that improve millions of lives in the health tech space. 
+Learn from the Best: Gain mentorship from passionate experts and top engineers who care about your growth. 
+Innovate with Cutting-Edge Tech: Build cloud-native software and leverage AI-first tools like GitHub Copilot and Azure AI Foundry. 
+Flexibility & Balance: Enjoy hybrid work options and a culture that blends innovation with fun through learning sessions and social events. 
+Connect & Grow: Join a vibrant community of interns and co-ops, with opportunities to network and collaborate. 
 What you’ll learn at PointClickCare:
 The Big Picture: How technology, data, and AI come together to transform healthcare and improve patient outcomes. 
 Modern Ways of Working: Experience agile, cross-functional teamwork and sharpen your collaboration, communication, and problem-solving skills. 
 Building at Scale: Learn to develop enterprise-level software and own cloud services; from deployment and scalability to security and disaster recovery. 
 AI as Your Ally: Discover how to leverage AI as a peer to innovate, solve complex problems, and become a more efficient engineer. 
 Future-Ready Skills: Gain knowledge that lasts beyond your co-op term — from leadership and industry insights to shaping the future of digital health. 
-Your Impact:
-Help create software that improves the lives of seniors and care providers every day. 
-Be part of projects that support healthcare professionals delivering exceptional care. 
-Contribute your ideas and perspective — innovation starts with fresh voices.
-Who are we looking for?
-Enrolment in Engineering, Computer Science or a related degree 
-Excellent organization, critical-thinking and personal leadership skills 
-Self-starter with the ability to deliver with minimal supervision 
-Analytical mind with problem-solving aptitude 
-Ability to analyze and debug systems 
-Availability for a 40-hour work week. 
-How should I apply?
-To be considered for the role apply directly through our careers site, by January 19 by 11:59pm EST.
-Show us who you are: Include your resume (no more than 2 pages) and transcripts in one PDF document. 
-If you have past co-op feedback results, please feel free to include them in your application.   
-If you meet the requirements above and the opportunity excites you, we want to hear from you! 
-We review every application carefully, including answers to your pre-screen questions and will be in touch if there’s a fit. 
