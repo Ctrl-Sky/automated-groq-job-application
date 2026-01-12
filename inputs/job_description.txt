@@ -1,51 +1,93 @@
-Job Description
+ Toronto, Ontario, Canada
+Hours:
 
-Analytics and Automation Centre of Excellence is a focused Network Services group responsible in advancing Network Services’ capabilities in automation, orchestration, data analytics, tooling, and all aspects of functionality integrations within SLF ecosystem of tools and their capabilities in support of and in accordance to learnings we have had thus far in our Digital Enterprise journey. This role reports and operates under the general direction of the Director, Analytics and Automation Centre of Excellence to increase efficiency, and has primary responsibility for tooling, analytics, and automation design/delivery/capability management for the network ecosystem.
+37.5
+Pay Details:
 
-Main Accountabilities
+$45,700 - $74,400 CAD
+TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs. 
 
- Assist in advancing the enabling technologies for Automation, Data & Analytics, DevOps, API, and Digital Assets, within Network Services’ and business partners for on-premises or in-cloud services and technologies.
-Help Develop and deploy automation and analytical solutions, data extraction tools, visualizations, dashboards, machine learning models, and promote analytics throughout DBTS.
-Participate and collaborate with AACoE peers and ENS stakeholders to, improve processes, increase efficiency by delivering analytics and automation solutions that are effective and secure.
-Perform analysis and communicate reports gained from data, transforming them into insights of actionable solutions, helping the stakeholders to make educated business decisions.
+As a candidate, you are encouraged to ask compensation related questions and have an open dialogue with your recruiter who can provide you more specific details for this role.
 
-Required
+Job Description:
 
-Advanced problem solving required of this position in order to mentor technicians and sharpen their problem solving skills. Expected problem solving capabilities include attributes such as:
+WANT TO SHAPE THE FUTURE OF BANKING?
 
-Problem strategy development
-Advanced problem management techniques (efficiently using all available resource, tracking and reporting etc)
-Evaluation/feedback loop for problem management process improvement.
+Have you ever wondered how North America’s most successful companies develop some of their most innovative ideas? If so, consider exploring TD Invent, the bank's enterprise approach to innovation, creating the products and services of the future.
 
-Typical problems solved at this level would include problems escalated from the technicians for failed end user hardware, local user software errors, single user virus incident remediation. Those that the team leader doe not have the skills to solve would be escalated to OSS Manager then Engineering.
+TD Invent is our approach to transforming experiences for customers, colleagues, and the communities we operate in. Behind TD Invent is a community of innovators, patent filers, designers, researchers, developers, and partners who come together to build today's solutions with tomorrow's mindset. TD Invent will introduce you to areas and topics that may make you rethink what it's like to work in financial services.
 
-Education And Experience
+DEPARTMENT OVERVIEW
 
-Information Technology/Computer Science or equivalent (Bachelor of Science degree an advantage)
-Progressive network and information technology, data extraction, data visualization and analysis.
-Practical and hands-on experience in coding using one or more programming languages in Python, R, C++, Java, Perl
-Knowledge in Network Programmability and integration with YANG, YAML, XML, JSON, NETCONF, RESTCONF
-This opportunity is available to students with a August 2026 or later graduation date
 
-Competencies
+Within TD Invent is the TD Enterprise Innovation team where our highly collaborative pods of Product Owners, Designers and Developers work together to ideate, explore, and validate innovative solutions that will change the way the bank thinks about its customers - one sprint at a time. Make your mark in a setting where every day operates like a well-funded start-up, while helping TD shape the future of banking.
 
-Thrives in an Agile and fast-paced environment, with the ability to stay calm in high-risk, high-pressure situations.
-Eperience in developing and maintaining comprehensive network technical documentation.
-Programming, Coding, API (RESTFul/SOAP), Automation experience (Nice to have).
-Familiarity with DevOps tools and monitoring systems
+JOB DESCRIPTION
 
-Communications
+Co-op and Internship opportunities allow you to gain valuable work experience across a number of the businesses at TD.  You will work with experienced colleagues, receive world class training, and be part of a community of students across TD, where you will have an impact, grow as individual and experience our culture of care.
 
-Excellent written and verbal communication skills.
-Strong interpersonal skills and ability to work well with other teams, remaining professional, positive and patient always.
-Prepares and presents service level updates and status reports on Projects, Network Statistics, Budgets, etc.
+Our Co-op/Intern Programming is offered with select Co-op and Internship roles and is designed to help you better understand the TD business, build on critical career capabilities, and broaden your professional network. This program is designed to complement your on-the job experience and features:
 
-What is in it for you?
+Leadership talks with key Leaders from across the organization
 
-At Sun Life, you will be joining a purpose driven organization focused on helping Canadian’s achieve lifetime financial security and live healthier lives. 
-As a student, you’ll make a real impact by contributing to meaningful work, gaining valuable experience and actively working towards your team’s goals.
-You’ll join our unique student culture, designed to help you grow both personally and professionally beyond your role. We offer professional development workshops, student awards, socials and many more exciting opportunities. 
-We are honored to be recognized as Canada’s Best Employers for Recent Graduates and Canada's Best Workplaces by Great Place to Work in 2025.
-Your student journey is just the beginning and we're proud to help many who choose Sun Life to transition into permanent roles after graduation.
+Lunch and Learns on topics such as Innovation, Diversity & Inclusion, Personal Branding and so much more
 
-The Base Pay range is for the primary location for which the job is posted for. The Base Pay which you will be considered for will vary depending on the Campus program you are selected for.
+As a Software Developer Intern/Co-op within Enterprise Innovation, which includes TD Lab, you will explore emerging technologies and work with pods to explore concepts and test with users on how we might improve customer experiences.
+
+You will truly learn, apply, and experience lean concept and app development by:
+
+Focusing on the right thing through design, prototyping, and testing ideas with customers
+
+Answering critical business questions using TD's Innovation Framework, which incorporates Design Thinking/ Business Design and Agile methodologies
+
+Working with Enterprise Innovation and/or TD Lab pods to rapidly develop the vision of a solution into functional prototypes (for web and/or mobile)
+
+Investigating the potential of emerging and enabling technologies (e.g., gen AI, big data, platform features)
+
+Refining presentation skills by pitching sprint demos, concepts and apps to business partners and executives
+
+Sharing developer insights with other teams just as eager to learn
+
+Enterprise Innovation and TD Lab’s Software Developers will mentor and guide you through our end-to-end design and development process. You will work on projects throughout the term and be exposed to the latest in modern technologies. You will have the opportunity to work as an intrapreneur, bringing impactful ideas to life while taking on challenging technical tasks. You can read about our co-op experience from one of our former co-op employees here: https://medium.com/td-lab/my-internship-with-td-labs-73675b3e2fb5 
+
+If you are a self-starter, like to think outside the box, and are looking for a challenge - this job is for you!
+
+JOB REQUIREMENTS
+
+Key skills and assets include: 
+
+Must be enrolled in an undergraduate degree as of the start of, and during, the work term
+
+Experience with object oriented programming languages (Java, C++, Swift , etc.)
+
+Web development experience (HTML, CSS, JavaScript, React, etc.)
+
+Machine learning experience (Python, TensorFlow, PyTorch, GenAI)
+
+Proficient in technology evaluation and feasibility analysis
+
+Strong research skills with a focus on user-centered design
+
+Experience with RESTful APIs (NodeJS, Express, etc.)
+
+Experience with databases and backend systems
+
+Experience with Git version control
+
+Mobile experience is an asset (Flutter, iOS, Android)
+
+ADDITIONAL INFORMATION
+
+This position is a 4-month work term and will commence May 2026. Please indicate if your academic program does not align to this timeframe in your interview or cover letter. Flexibility in the length of term can be discussed with top candidates.
+
+Applications must include a transcript and a resume (maximum of 2 pages).
+
+MANDATORY: In your resume, please link to your github/bitbucket/etc. Candidates with a diverse portfolio of projects that demonstrate their technical skills and innovative thinking will have a higher likelihood of being selected for an interview.
+
+We welcome all applications; however, we will only contact qualified candidates chosen for an interview. Thank you for your interest.
+
+TD is committed to providing you with the best candidate experience and internship. As such, work location and start dates are subject to change.
+
+TEAM CULTURE
+
+One of the things that the TD Enterprise Innovation team prides ourselves in is our team culture. It’s not uncommon to see kiddos or pets pop into video calls or for a team member to take a meeting while walking their dog. In the warmer months, there’s usually a few of us outside for meetings. We have a weekly “Fundatory Friday'' event where we play games together. There’s at least one messaging channel dedicated to pictures of pets and babies. We celebrate how terrible we are at March Madness Brackets.
