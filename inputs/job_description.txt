@@ -1,79 +1,59 @@
-Our student and new graduate programs offer a chance to explore Sun Life from the inside. You’ll make a difference in the lives of our customers and communities, while building the skills and experience that allow you to grow in a meaningful and rewarding way.
+QuadReal Property Group is a global real estate investment, operating and development company headquartered in Vancouver, British Columbia. Its assets under management are $94 billion. From its foundation in Canada as a full-service real estate operating company, QuadReal has expanded its capabilities to invest in equity and debt in both the public and private markets. QuadReal invests directly, via programmatic partnerships and through operating platforms in which it holds an ownership interest.
 
-Job Description:
+QuadReal seeks to deliver strong investment returns while creating sustainable environments that bring value to the people and communities it serves. Now and for generations to come.
 
-Analytics and Automation Centre of Excellence is a focused Network Services group responsible in advancing Network Services’ capabilities in automation, orchestration, data analytics, tooling, and all aspects of functionality integrations within SLF ecosystem of tools and their capabilities in support of and in accordance to learnings we have had thus far in our Digital Enterprise journey. This role reports and operates under the general direction of the Director, Analytics and Automation Centre of Excellence to increase efficiency, and has primary responsibility for tooling, analytics, and automation design/delivery/capability management for the network ecosystem.
+QuadReal: Excellence lives here.
 
-Main Accountabilities:
+www.quadreal.com
 
- Assist in advancing the enabling technologies for Automation, Data & Analytics, DevOps, API, and Digital Assets, within Network Services’ and business partners for on-premises or in-cloud services and technologies.
+We are committed to providing our Co-ops/Interns with a student experience that provides a supportive and engaging learning environment while developing skills and business acumen. Students will have the opportunity to participate in a variety of experiences including our Speaker Series, Fireside Chats, Volunteer opportunities and Networking events.
 
-Help Develop and deploy automation and analytical solutions, data extraction tools, visualizations, dashboards, machine learning models, and promote analytics throughout DBTS.
+Eligibility Note: To qualify for a student (Co-op/Internship) opportunity, students must be enrolled in their academic studies at a post-secondary institution (university/college) and must be returning to school after completion of their work term with QuadReal.  If you are a student registered in an official co-op program at your post-secondary institution and completion of a final work term is a mandatory component for you to graduate, you are eligible to apply with the understanding that you will leave QuadReal at the end of your work term or have the possibility to be considered for full-time opportunities.
 
-Participate and collaborate with AACoE peers and ENS stakeholders to, improve processes, increase efficiency by delivering analytics and automation solutions that are effective and secure.
+As a Data Engineering Intern on our Enterprise Data Platform (EDP) team, you will play a key role in supporting the infrastructure that powers data-driven decision-making at QuadReal. Working as part of the Enterprise Data & Analytics (ED&A) function, you’ll help build, operate, and enhance a modern, reliable data platform—ensuring that business users across the company can access high-quality, trusted data when they need it most. This internship offers a unique opportunity to gain hands-on experience with Microsoft Fabric, open-source data tools, and platform automation—while collaborating with professionals across Data Engineering, Analytics, and Governance.
 
-Perform analysis and communicate reports gained from data, transforming them into insights of actionable solutions, helping the stakeholders to make educated business decisions.
+What We Offer:
 
- 
+An organization and leaders that support your development through meaningful work experience
 
-Advanced problem solving required of this position in order to mentor technicians and sharpen their problem solving skills. Expected problem solving capabilities include attributes such as:
+A Student Mentorship Program designed to provide support throughout your experience
 
-Problem strategy development
+Opportunities to build your industry knowledge through weekly Speaker Series & Fireside Chats
 
-Advanced problem management techniques (efficiently using all available resource, tracking and reporting etc)
+Opportunities to participate in case competitions within QuadReal during your work term, fostering cross-functional collaboration with intern peers and enhancing exposure to real-world problem-solving.
 
-Evaluation/feedback loop for problem management process improvement.
+Giving back to the community with your peers and team members through volunteering events
 
- 
+Opportunities to build long-lasting industry and professional relationships
 
-Typical problems solved at this level would include problems escalated from the technicians for failed end user hardware, local user software errors, single user virus incident remediation. Those that the team leader doe not have the skills to solve would be escalated to OSS Manager then Engineering.
+What You Will Experience: 
 
- 
+Help build and operate our next generation cloud data platform in Microsoft Fabric.
 
-Education and Experience
+Build and manage data pipelines using tools like dltHub and Airflow.
 
-Information Technology/Computer Science or equivalent (Bachelor of Science degree an advantage)
+Automate core platform processes using Infrastructure as Code (IaC) tools, such as Terraform.
 
-Progressive network and information technology, data extraction, data visualization and analysis.
+Support the implementation and monitoring of data quality and compliance frameworks.
 
-Practical and hands-on experience in coding using one or more programming languages in Python, R, C++, Java, Perl
+Develop dashboards to monitor platform observability, including health, data quality and other performance metrics.
 
-Knowledge in Network Programmability and integration with YANG, YAML, XML, JSON, NETCONF, RESTCONF
+Collaborate across teams to promote enterprise data governance and standardization.
 
-This opportunity is available to students with a August 2026 or later graduation date
+What You Will Bring:
 
- 
+Currently enrolled in an academic program, preferably in Engineering, Science, Technology or Mathematics.
 
-Competencies:
+Strong quantitative and analytical skills; detail-oriented and proficient in building and working with complex data sets.
 
-Thrives in an Agile and fast-paced environment, with the ability to stay calm in high-risk, high-pressure situations.
+Proficiency in SQL, Python, and data engineering principles (e.g. Warehousing, ETL/ELT).
 
-Eperience in developing and maintaining comprehensive network technical documentation.
+Familiarity with cloud platforms (i.e. Azure, AWS, or GCP), dbt, data orchestration tools (e.g., Airflow), and CI/CD practices is considered an asset.
 
-Programming, Coding, API (RESTFul/SOAP), Automation experience (Nice to have).
+The ability to problem-solve while working in a fast-paced environment.
 
-Familiarity with DevOps tools and monitoring systems
+Excellent communication and presentation skills; ability to effectively communicate technical concepts and project outcomes.
 
- 
+This job posting is for a newly created role within our organization.
 
-Communications
-
-Excellent written and verbal communication skills.
-
-Strong interpersonal skills and ability to work well with other teams, remaining professional, positive and patient always.
-
-Prepares and presents service level updates and status reports on Projects, Network Statistics, Budgets, etc.
-
- 
-
-What is in it for you?
-
-At Sun Life, you will be joining a purpose driven organization focused on helping Canadian’s achieve lifetime financial security and live healthier lives. 
-
-As a student, you’ll make a real impact by contributing to meaningful work, gaining valuable experience and actively working towards your team’s goals.
-
-You’ll join our unique student culture, designed to help you grow both personally and professionally beyond your role. We offer professional development workshops, student awards, socials and many more exciting opportunities. 
-
-We are honored to be recognized as Canada’s Best Employers for Recent Graduates and Canada's Best Workplaces by Great Place to Work in 2025.
-
-Your student journey is just the beginning and we're proud to help many who choose Sun Life to transition into permanent roles after graduation.
+The expected hourly rate for this role is $28.
