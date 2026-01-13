@@ -1,69 +1,67 @@
-At S&C Electric Canada, Co-Op students are valued contributors to our mission of building a safer, more reliable, and more resilient electrical grid. With over 70 years of innovation in Canada, we continue this legacy as a trusted, forward-thinking leader in the power industry. As a co-op student, you will work on meaningful projects that support our operations and give you hands-on experience in a dynamic, safety-focused environment.
+Long Term Placement:	No
+Position Start Date:	05/01/2026
+Position End Date:	08/31/2026
+Term Posted:	2026 - Spring
+Position Type:	4-month
+Position Title:	Software Engineer Intern
+Position Description:	
+Software Engineer Intern (4 to 16 months available)
 
-Join S&C to make an impact on tomorrow’s energy challenges!
 
- Work Arrangement: Onsite
+Location - Burlington, ON (On-site)
 
-Work Term: Summer 2026 (4 Months: May - August) 
 
-Compensation
 
-At S&C, we are dedicated to providing competitive and equitable compensation for all our team members, with a commitment to transparency in our pay practices. The hourly pay range for this position is $22.20 - $28.4. Individual pay within this range is determined by several compensable factors, including the year of study, type of academic program, and the number of prior co-op work terms completed.  
 
-Join Our Team as a Junior Systems Administrator!
+Looking for an internship with great learning opportunities and meaningful work?
 
-Are you passionate about IT? S&C Electric Company is seeking a dynamic individual for our System Administration team. The Junior Systems Administrator is responsible for automating processes and providing client support in on-premises and cloud technologies.
+Join our team - https://youtu.be/8wmfn9B07F0
 
-Key Responsibilities:
 
-Respond to and prioritize requests for technical support or assistance.
-Identify and analyze support issues, determining cause, resolution, and potential trends.
-Work with senior members in automating software installation and processes.
-Provide guidance and recommendations on the most effective use of technology.
-Facilitate relationships with external organizations regarding technical issues and software functionality.
-Prepare/maintain procedural, educational, or related documentation/communications
-Follow established standard work and best practices; define new standard work as appropriate
-Install or assist in the installation and maintenance of technical equipment and/or software
-Perform other similar and related duties as assigned
-What you’ll Need To Succeed:
 
-Successful completion of at least one year of post-secondary education towards a diploma or degree in or related to computer or information technology.
-Successful completion of at least one co-op work term.
-Enrolled and eligible for a 4-month co-op work term for the Summer 2026 term (May - Aug).
-Experience in a technical support role involving on-prem and cloud technology, including but not limited to:
-Active Directory and Azure AD.
-Office 365, Exchange, and SharePoint.
-Windows client and server OS.
-Knowledge of PowerShell and some programming languages is highly desirable.
-Excellent interpersonal, customer service, and communication skills.
-Ability to work independently with minimum supervision.
-A team player and a self-starter.
-Physical Effort:
+This position will be compensated within the range of $22.50/hr to $34.50/hr, based on previous work term experience.
 
-Normal or frequent minor physical effort required for the day-to-day activity in the workplace. May involve standing, sitting, walking, climbing stairs and lifting/moving/using objects or equipment up to 20lbs.
 
-Work Environment:
+Located in Burlington, Evertz is a worldwide leader in the design and manufacture of leading edge multimedia products for the film & television broadcast industry. Recognized as one of the top 50 best-managed companies in Canada, Evertz has gained Canadian corporate success through its vision, stakeholders' values, and excelling in the global economy. Evertz is proud to have worldwide client base that includes the largest global media and entertainment companies (e.g. Warner Bros. Discovery, Disney, NBC, Universal, Paramount, Sky, and Mediaset), sports leagues (e.g. NBA, NHL, MLB, Dorna, RBFA, and MLSZ) and other media organizations (e.g. Microsoft Studios, Amazon Studios, Apple, and YouTube).
 
-Acceptable working environment with minor or almost no disagreeable or challenging working conditions as part of everyday expected levels (all jobs will occasionally experience undesirable or disagreeable events).
 
-Vacancy Disclosure:
+Our employment philosophy is simple.
 
-This posting is to fill an existing vacancy within S&C Electric Canada. 
 
-Artificial Intelligence Disclosure:
+Hire extremely talented people, give them opportunities to make a positive impact and nurture their need for challenge and growth.
 
-Please note that S&C Electric Canada may use artificial intelligence (AI) tools to assist in the screening, assessment, or selection of applicants for this position. 
 
-Why Work for S&C Electric Canada Ltd
+Our work philosophy is simple, too.
 
-With over 70 years of innovation in Canada and a century globally, S&C Electric is a trusted leader in power reliability. We foster a collaborative, safety-focused environment where achievements are celebrated and growth is encouraged.
 
-What We Offer
+We emphasize teamwork, promote creativity and enjoy being at the leading edge of high-tech in our industry.
 
-Competitive compensation
-Subsidized Public Transit Program
-Summer hours program 
-Discounted Food & Beverage
-Paid vacation days (applicable to 8 - 16-month co-ops)
-At S&C, we believe in empowering our people and providing meaningful career opportunities. Ready to make an impact? Apply now and join a team where your contributions matter. Apply and join our team today!
 
+This position is part of our Edge Device Deployment team where interns can be exposed to a variety of software, such as Embedded, UI & AI. Interns will have the opportunity to design, develop, and test Embedded software, Advanced UI, AI Agents, and Cloud Computing Applications, depending on their area of selected interest:
+
+
+Option 1:
+
+Real-Time Operating Systems, Embedded Linux, FreeRTOS and Device Driver experience
+Knowledge of digital hardware (SoC, ARM, FPGA.)
+Experienced with device control interfaces, such as I2C, SPI, USB, PCIe, Ethernet; able to perform board level troubleshooting.
+Familiar with Data Communication Network and associated Layer 2 and 3 protocols.
+
+Option 2:
+
+UX/UI design knowledge
+Experiences with Angular
+
+Option 3:
+
+Cloud and AI knowledge
+AI agents development experiences
+
+RESPONSIBILITIES:
+
+
+Requires work in-office at our Burlington location.
+Design, implement, debug and maintain software and firmware.
+Create and maintain documentation of the design, analysis and test results.
+Responsible for adding new features or otherwise modify firmware/software based on management direction and customer feedback.
+Perform other duties as assigned and adhere to company policies and procedures.
