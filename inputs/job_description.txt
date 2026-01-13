@@ -1,67 +1,37 @@
-Long Term Placement:	No
-Position Start Date:	05/01/2026
-Position End Date:	08/31/2026
-Term Posted:	2026 - Spring
-Position Type:	4-month
-Position Title:	Software Engineer Intern
-Position Description:	
-Software Engineer Intern (4 to 16 months available)
+About redcan-ai
+ABOUT REDCAN.AI
 
+Redcan is at the forefront of building agentic AI products and tools that enable our customers to scale their product deployment capability by orders of magnitude, transforming their business and accelerating time to value while reducing cost and complexity of delivering enterprise software products. For the entrepreneurially minded, you will have the opportunity to collaborate with portfolio companies and build relationships and innovate within the VC and PE ecosystem. 
 
-Location - Burlington, ON (On-site)
+About the job
+Software Engineer (Co-Op Eligible Students only)
 
 
 
+Criteria: 
 
-Looking for an internship with great learning opportunities and meaningful work?
-
-Join our team - https://youtu.be/8wmfn9B07F0
-
-
-
-This position will be compensated within the range of $22.50/hr to $34.50/hr, based on previous work term experience.
+Must be enrolled in an co-op eligible Engineering related program year from University of Waterloo, University of Toronto, or McMaster University
+Must be available to work eastern timezone, M-F, 9a-5p ET for the summer 2026 work term from May through August, 2026.  
 
 
-Located in Burlington, Evertz is a worldwide leader in the design and manufacture of leading edge multimedia products for the film & television broadcast industry. Recognized as one of the top 50 best-managed companies in Canada, Evertz has gained Canadian corporate success through its vision, stakeholders' values, and excelling in the global economy. Evertz is proud to have worldwide client base that includes the largest global media and entertainment companies (e.g. Warner Bros. Discovery, Disney, NBC, Universal, Paramount, Sky, and Mediaset), sports leagues (e.g. NBA, NHL, MLB, Dorna, RBFA, and MLSZ) and other media organizations (e.g. Microsoft Studios, Amazon Studios, Apple, and YouTube).
+What it's all about: 
+
+We’re seeking Software Engineers (Early Career Co-op) to join our growing technical team during the upcoming Summer Term (May through Aug). This role enables you to shape the future of agentic AI products: intelligent, autonomous systems that anticipate user needs and adapt in real-time to support workflow journeys.  You’ll collaborate with a high-performing, seasoned team of engineers, product management and design team members to continue to build our product stack to deliver on our product roadmap and fulfil Redcan’s vision. Depending on your background, experience, and interests, you’ll contribute to the product architecture, functionality, and features, and maintain production-grade software systems across multiple products and domains. For the entrepreneurially minded, you will have the opportunity to collaborate with portfolio companies and build relationships and innovate within the VC and PE ecosystem. 
 
 
-Our employment philosophy is simple.
+
+What you’ll do
+Contribute across the stack with hands-on exposure to LLM tool-calling & prompting
+Ship full-stack features in TypeScript: React UI + NestJS/Node.js on the backend
+Improve LLM agent reliability: tool-calling schemas, safe context compaction, retries/observability.
+Add tests (unit/integration), docs, and CI improvements.
+Leave a clean handover at term-end.
 
 
-Hire extremely talented people, give them opportunities to make a positive impact and nurture their need for challenge and growth.
-
-
-Our work philosophy is simple, too.
-
-
-We emphasize teamwork, promote creativity and enjoy being at the leading edge of high-tech in our industry.
-
-
-This position is part of our Edge Device Deployment team where interns can be exposed to a variety of software, such as Embedded, UI & AI. Interns will have the opportunity to design, develop, and test Embedded software, Advanced UI, AI Agents, and Cloud Computing Applications, depending on their area of selected interest:
-
-
-Option 1:
-
-Real-Time Operating Systems, Embedded Linux, FreeRTOS and Device Driver experience
-Knowledge of digital hardware (SoC, ARM, FPGA.)
-Experienced with device control interfaces, such as I2C, SPI, USB, PCIe, Ethernet; able to perform board level troubleshooting.
-Familiar with Data Communication Network and associated Layer 2 and 3 protocols.
-
-Option 2:
-
-UX/UI design knowledge
-Experiences with Angular
-
-Option 3:
-
-Cloud and AI knowledge
-AI agents development experiences
-
-RESPONSIBILITIES:
-
-
-Requires work in-office at our Burlington location.
-Design, implement, debug and maintain software and firmware.
-Create and maintain documentation of the design, analysis and test results.
-Responsible for adding new features or otherwise modify firmware/software based on management direction and customer feedback.
-Perform other duties as assigned and adhere to company policies and procedures.
+What we look for
+Currently enrolled in a Canadian co-op or internship program, available Jan-Apr 2026.
+Solid CS foundations (data structures/algorithms, problem solving) in any modern language (e.g., C/C++/Java/Python/C#).
+Comfortable with Git/GitHub, reading API docs, writing small, safe PRs, and communicating clearly.
+Curiosity about the web stack (TypeScript, Node.js, React, NestJS).
+Interest or project exposure with LLM APIs (OpenAI/Bedrock), vector search, or simple Python scripts.
+Basic AWS familiarity (S3/IAM/ECS).
