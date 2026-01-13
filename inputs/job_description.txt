@@ -1,49 +1,57 @@
-Position Responsibilities:
+Our student and new graduate programs offer a chance to explore Sun Life from the inside. You’ll make a difference in the lives of our customers and communities, while building the skills and experience that allow you to grow in a meaningful and rewarding way.
 
-Work on user stories assigned during each sprint, including build and KTLO (Keep The Lights On) tasks.
+Job Description:
 
-Collaborate with Tech Leads, Developers, QA, and business stakeholders to clarify requirements and showcase understanding of problem statements.
+Sun Life is a global Financial Services company. Our Cloud Operations team are responsible for monitoring, repairing and remediating issues related to Sun Life’s Cloud Services located around the globe. Currently, we are looking for people who are passionate about technology and Cloud and the important role it plays within our organization.
 
-Build proposed solutions and deliver business outcomes aligned with priorities defined during PI Planning.
+Core competencies/qualities:
 
-Engage with external teams and business stakeholders to ensure successful delivery.
+Do you have a passion for technology and Cloud and its services, enthusiasm and a willingness to learn?
 
-Complete assigned stories and demo & deploy solutions into production by the end of the internship.
+Do you have web development skill set?
 
-Required Qualifications:
+Do you enjoy solving problems? Trying different solutions until you reach the best result? Do you enjoy continuous learning and development?
 
-Currently pursuing an undergraduate degree in Computer Science, Engineering, or a related field.
+Do you thrive collaborating with a team of diverse, inclusive professionals?
 
-Knowledge of Java, React, Spring Boot, GitHub, Azure, and SQL.
+This opportunity is available to students with a December 2026 or later graduation date
 
-Familiarity with C#, Angular/React, Azure, and SQL.
+Overview of what we do:
 
-Strong analytical and problem-solving skills.
+Our Cloud Operations team are part of Cloud Centre of Excellence (CCoE) who provide a wide range of services in the Cloud space. From one day to the next you could be building a solution using Infrastructure as Code (IaC), analyzing security or service vulnerabilities and remediating where possible, responding to client requests, updating metadata (AWS tags) on AWS accounts or AWS resources or researching and investigating new solution to help the Cloud Operations team.
 
-Ability to manage multiple priorities and work in a collaborative environment.
+Responsibilities/tasks:
 
-Preferred Qualifications:
+As a Cloud Operations student you will be tasked with participating in the below activities.
 
-Exceptional verbal and written communication skills.
+Understand and work with Amazon Web Services (AWS) Infrastructure as a Service (IaaS), and Platform as a Service (PaaS)
 
-Experience with SAFe Agile methodologies (will be taught during onboarding)
+Operational support & incident resolution activities
 
-When you join our team:
+Build cloud based services and solutions based on defined patterns.
 
-We’ll empower you to learn and grow the career you want.
+Work closely with other team members, technical/team leads, management, specialized IT areas and application support teams to ensure that solutions are built to deliver availability, reliability, and scalability. 
 
-We’ll recognize and support you in a flexible environment where well-being and inclusion are more than just words.
+Prioritize and respond to service requests as appropriate. 
 
-As part of our global team, we’ll support you in shaping the future you want to see.
+Ensure that solutions we deliver are compliant with all operational and security standards, directives and policies.
 
-Application instructions:  
+Implement and operationalize new cloud services.
 
-Submit your resume, cover letter, academic transcript, and work term evaluation (if any) in one PDF file.  
+Develop scripts and functions to support internal processes and improve system performance
 
-Note: Applications are reviewed on a rolling basis. 
+Contribute to front/back-end development of our newly created Cloud First web portal (currently using LAMP stack, migrating to React/TypeScript or converting to Python) that manages our tags for our accounts, resources, service lifecycles, etc.
 
-#LI-Hybrid 
+What is in it for you?
 
-About Manulife and John Hancock
+At Sun Life, you will be joining a purpose driven organization focused on helping Canadian’s achieve lifetime financial security and live healthier lives.
 
-Manulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our-story.html.
+As a student, you’ll make a real impact by contributing to meaningful work, gaining valuable experience and actively working towards your team’s goals.
+
+You’ll join our unique student culture, designed to help you grow both personally and professionally beyond your role.
+
+We offer professional development workshops, student awards, socials and many more exciting opportunities.
+
+We are honored to be recognized as Canada’s Best Employers for Recent Graduates and Canada's Best Workplaces by Great Place to Work in 2025.
+
+Your student journey is just the beginning and we're proud to help many who choose Sun Life to transition into permanent roles after graduation.
