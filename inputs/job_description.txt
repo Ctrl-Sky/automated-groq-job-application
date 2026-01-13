@@ -1,72 +1,69 @@
-At Finastra, we are a dynamic global provider of open finance software solutions, dedicated to expanding access to financial services. Our innovative applications span Lending, Payments, Treasury and Capital Markets, and Universal Banking. Proudly serving over 8,000 customers, including 45 of the world's top 50 banks, we aim to boost financial inclusion for all. Join us and be part of a vibrant company that embraces diverse perspectives and is committed to doing well by doing good.
+At S&C Electric Canada, Co-Op students are valued contributors to our mission of building a safer, more reliable, and more resilient electrical grid. With over 70 years of innovation in Canada, we continue this legacy as a trusted, forward-thinking leader in the power industry. As a co-op student, you will work on meaningful projects that support our operations and give you hands-on experience in a dynamic, safety-focused environment.
 
-Position Summary
+Join S&C to make an impact on tomorrow’s energy challenges!
 
-We are seeking a curious and motivated Automation QA Intern to join our QA Engineering team for a co-op term. This role offers hands-on experience in writing and testing automation scripts for real-world software projects. You’ll work closely with QA engineers and developers in a collaborative, DevOps-driven environment that values learning, mentorship, and quality.
+ Work Arrangement: Onsite
 
-This internship is designed to support students who are building foundational skills in automation and quality assurance, offering mentorship and exposure to modern QA practices.
+Work Term: Summer 2026 (4 Months: May - August) 
 
-Key Responsibilities
+Compensation
 
-Develop and maintain basic automated test scripts for web and API testing using tools such as Selenium, Playwright, or Postman, with guidance from QA engineers.
-Execute test scripts to validate new features and bug fixes across multiple environments.
-Log and track defects found during testing and collaborate with QA engineers and developers to troubleshoot and resolve issues.
-Review project requirements and test cases to understand testing scope and identify automation opportunities.
-Assist in updating and organizing test documentation, including test cases, test data, and test results.
-Learn and apply version control practices using Git to manage and update test scripts.
-Participate in team meetings and various ceremonies to gain exposure to Project and DevOps workflows.
-Support QA engineers in integrating automated tests into CI/CD pipelines (e.g., GitHub Actions, Jenkins).
-Actively seek feedback, ask questions, and contribute to a culture of continuous learning and quality improvement.
+At S&C, we are dedicated to providing competitive and equitable compensation for all our team members, with a commitment to transparency in our pay practices. The hourly pay range for this position is $22.20 - $28.4. Individual pay within this range is determined by several compensable factors, including the year of study, type of academic program, and the number of prior co-op work terms completed.  
 
-Required Qualifications
+Join Our Team as a Junior Systems Administrator!
 
-Currently enrolled in a Computer Science, Software Engineering, or related undergraduate program.
-Basic understanding of programming concepts (e.g., C#, JavaScript, Python, or Java), gained through coursework or personal projects.
-Hands-on experience writing simple scripts or test cases—through labs, assignments, or personal exploration.
-Ability to write, read, and debug simple code with support from the team.
-Familiarity with object-oriented programming principles and basic understanding of test frameworks or unit testing.
-Interest in software testing, automation, and quality assurance.
-Strong attention to detail and willingness to learn.
-Effective communication and collaboration skills.
+Are you passionate about IT? S&C Electric Company is seeking a dynamic individual for our System Administration team. The Junior Systems Administrator is responsible for automating processes and providing client support in on-premises and cloud technologies.
 
-Preferred Qualifications
+Key Responsibilities:
 
-Exposure to automation tools or frameworks (e.g., Selenium, Playwright).
-Familiarity with Git or other version control systems.
+Respond to and prioritize requests for technical support or assistance.
+Identify and analyze support issues, determining cause, resolution, and potential trends.
+Work with senior members in automating software installation and processes.
+Provide guidance and recommendations on the most effective use of technology.
+Facilitate relationships with external organizations regarding technical issues and software functionality.
+Prepare/maintain procedural, educational, or related documentation/communications
+Follow established standard work and best practices; define new standard work as appropriate
+Install or assist in the installation and maintenance of technical equipment and/or software
+Perform other similar and related duties as assigned
+What you’ll Need To Succeed:
 
-Learning Outcomes
+Successful completion of at least one year of post-secondary education towards a diploma or degree in or related to computer or information technology.
+Successful completion of at least one co-op work term.
+Enrolled and eligible for a 4-month co-op work term for the Summer 2026 term (May - Aug).
+Experience in a technical support role involving on-prem and cloud technology, including but not limited to:
+Active Directory and Azure AD.
+Office 365, Exchange, and SharePoint.
+Windows client and server OS.
+Knowledge of PowerShell and some programming languages is highly desirable.
+Excellent interpersonal, customer service, and communication skills.
+Ability to work independently with minimum supervision.
+A team player and a self-starter.
+Physical Effort:
 
-Gain practical experience in automation testing and QA processes.
-Work with enterprise-level tools and CI/CD practices.
-Receive mentorship from experienced QA professionals.
-Contribute to meaningful projects that impact product quality.
+Normal or frequent minor physical effort required for the day-to-day activity in the workplace. May involve standing, sitting, walking, climbing stairs and lifting/moving/using objects or equipment up to 20lbs.
 
-What will you contribute? Manage all incoming and outgoing mail and packages for the unit, ensuring timely and accurate distribution. This role supports operational efficiency and provides excellent service to internal departments while maintaining confidentiality and compliance.
+Work Environment:
 
-Responsibilities & Deliverables: Sort, process, and distribute incoming mail and packages daily.
+Acceptable working environment with minor or almost no disagreeable or challenging working conditions as part of everyday expected levels (all jobs will occasionally experience undesirable or disagreeable events).
 
-Prepare and send outgoing mail, including courier shipments.
-Maintain accurate logs for incoming and outgoing mail.
-Monitor and replenish mailroom supplies.
-Ensure confidentiality and security of sensitive documents.
-Ensure all critical documents (court orders, motions, affidavit, urgent requests) are properly indexed for transfer to the client under strict timelines.
-Assist employees with mail-related inquiries and special requests.
-Tracking & Documentation
-Maintain logs for incoming and outgoing mail.
-Required Experience
+Vacancy Disclosure:
 
-Education: High school diploma or equivalent.
-Experience: 1–2 years in mailroom or administrative support preferred.
-Skills: Strong organizational and time management skills. Basic computer proficiency (MS Office).
-KPIs & Performance Metrics
-Mail Processing Accuracy: 99% error-free sorting and batching
-Timeliness: All incoming mail recorded in the batching system on the same day; outgoing mail dispatched same day.
-Customer Satisfaction: Positive feedback from internal departments.
-Compliance: Zero breaches of confidentiality or security protocols.
-Document Retrieval SLA: 100% of litigation-related document requests fulfilled within agreed timelines (e.g., 24 -48 hours).
-Inventory Management: Maintain adequate supply levels with no stockouts.
-As part of our hiring process, we may use artificial intelligence (AI) technology to help screen and shortlist applications. All final hiring decisions are made by our recruitment team.
+This posting is to fill an existing vacancy within S&C Electric Canada. 
 
-This position is for an existing vacancy within our organization.
+Artificial Intelligence Disclosure:
 
-Compensation: $20.35/hr
+Please note that S&C Electric Canada may use artificial intelligence (AI) tools to assist in the screening, assessment, or selection of applicants for this position. 
+
+Why Work for S&C Electric Canada Ltd
+
+With over 70 years of innovation in Canada and a century globally, S&C Electric is a trusted leader in power reliability. We foster a collaborative, safety-focused environment where achievements are celebrated and growth is encouraged.
+
+What We Offer
+
+Competitive compensation
+Subsidized Public Transit Program
+Summer hours program 
+Discounted Food & Beverage
+Paid vacation days (applicable to 8 - 16-month co-ops)
+At S&C, we believe in empowering our people and providing meaningful career opportunities. Ready to make an impact? Apply now and join a team where your contributions matter. Apply and join our team today!
+
