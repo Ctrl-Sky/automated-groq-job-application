@@ -1,36 +1,55 @@
-At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+About the job
+Take a central role
 
-With over half a billion rides and counting, Lyft is solving hard problems in a flourishing domain with a lot of data and creative solutions in Marketplace, Mapping, Fraud, Growth and beyond. We're actively building the next-generation Machine Learning (ML) platform for low-cost, ultra-immersive transportation to improve people's lives using modern ML with peta-byte scale data. Our Machine Learning Engineers are excited to work on these challenging problems and redefine solutions to directly impact various aspects of Lyft's primary business.
+The Bank of Canada has a vision to be a leading central bank—dynamic, engaged and trusted—committed to a better Canada. No other employer in the country offers you the unique opportunity to work at the very center of Canada’s economy, in an organization with significant impact on the economic and financial well-being of all Canadians. You will be challenged, energized and motivated to excel in our environment.
 
-If you are a student with experience in machine learning workflows, passionate about solving challenging problems using data and working in a dynamic, creative, and collaborative environment, this opportunity is for you!
+Building on the principles that have always guided us – excellence, integrity and respect – we strive to be forward-looking and innovative, to welcome people with diverse perspectives and talents, and to earn trust by living up to our commitments and by clearly explaining the intent of our policies and actions.
 
-Responsibilities:
-Contribute to the design, build, train and test of Machine Learning models
-Write production-level code to convert ML models into working pipelines
-Partner with Product Managers, Data Scientists, and fellow ML Engineers to frame Machine Learning problems within the business context
-Analyze experimental and observational data, communicate findings to support decisions
-Participate in code and spec reviews to ensure code quality and distribute knowledge
-Experience:
-Currently pursuing a Bachelor's, Master's, or PhD degree in Computer Science or a related technical field from a university in Canada (required), with a graduation date between December 2026 and Summer 2027 (required). For any candidates who are master's students who worked between their bachelor's and master's programs: candidates should also have less than 2 years of relevant full-time work experience
-Available during Summer 2026 for the internship in Toronto
-Good understanding and knowledge of ML libraries like scikit-learn, Tensorflow, PyTorch, Keras, MXNet, etc.
-Strong programming skills in Python or a similar object oriented language
-Proven ability to effectively turn research ML papers into working code
-Practical knowledge of how to build efficient end-to-end ML workflows
-"Engineer at heart" with a high degree of comfort in designing software systems and producing high-quality code
-Curiosity and ability to quickly learn new concepts and technologies
-Strong problem solving mindset, resourcefulness, and willingness to figure things out independently through research or collaboratively through brainstorming
-Demonstrated oral and written interpersonal skills
-Benefits:
-Mental health benefits
-In addition to holidays, interns receive 2 days paid time off and 3 days sick time off
-Subsidized commuter benefits
-Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
+With our defined-benefit pension plan, benefits, and high flexibility for work life balance - find out more about why we are annually ranked as one of Canada's top employers: Working Here - Bank of Canada
 
-Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule — Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
+Find out more about the next steps in our Recruitment process .
 
-The expected base pay range for this position in the Toronto area is CAD $45 - $53 per hour, not inclusive of potential equity offering, bonus or benefits. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
+About Our Information Technology And Cyber Security Positions
 
-Lyft may use artificial intelligence to screen applicants, however, Lyft employees make the ultimate selection and hiring decisions.
+You will be part of a dynamic team working to respond to evolving business needs at the centre of Canada’s economy. You will join a team of technology professionals that are creating the platforms, applications, and ideas to shape the future and provide the foundation for our entire business. As a student you will support the work of operational teams as they maintain resilient operations and position the Bank’s technology architecture to meet broad and evolving needs. There is no better place to enhance the knowledge you are gaining through your studies. 
 
-This job fills an existing vacancy.
+The positions vary and include different roles within our ITS department such as IT Systems Development, Web Development, Cyber Security Assessment, and IT Technical Support.
+
+Your Education And Experience 
+
+To qualify for these opportunities, you need to be currently enrolled as a student in a related field at a college or university (undergraduate level). Additionally, you must be returning to school in the next academic term.
+
+Knowledge And Skills 
+
+ ability to systematically analyze information, define problem and draw logical conclusions. 
+ strong communication, interpersonal and organizational skills 
+ ability to work independently or as part of a team 
+ self-starter and innovative problem solver who enjoys working in a dynamic work environment 
+ experience or understanding of Agile and DevOps delivery approach 
+
+Innovative Mindset
+
+We value candidates who demonstrate adaptability, curiosity, and a willingness to learn new technologies, including AI and digital tools. We seek individuals who can think critically about data, question existing processes, and find ways to simplify our work while embracing change and new ways of doing things
+
+Language requirement
+
+The Bank’s work environment is conducive to the use of both of Canada’s official languages - English and French. Although the position language requirement is English or French essential, we do encourage everyone to improve second their language proficiency for future career growth and to contribute towards fostering a bilingual environment.
+
+What You Need To Know
+
+ Priority will be given to Canadian citizens and permanent residents 
+ Security level required: Be eligible to obtain Reliability 
+ There will be no relocation assistance provided 
+ Please save a copy of the job poster. Once the closing date has passed, it will no longer be available. 
+
+Remote work / Hybrid Work Model
+
+The Bank offers work arrangements that provide employees with flexibility, enable high-performing teams, and support an excellent workplace culture. Most employees can telework from home for a portion of each month as part of the Bank’s hybrid work model, and they are expected on site at the Bank location a minimum of 12 days per month to help build connections between colleagues. You must live in Canada, and within reasonable commuting distance of the office.
+
+What You Can Expect From Us
+
+This is a great opportunity to join a leading organization and be part of a high-performing team.
+
+ Salaries are based the type of position and typically range from $22.84 to $30.94 (hourly). 
+
+We wish to thank all applicants for their interest and effort in applying for this position. Only candidates selected for interviews will be contacted.
