@@ -1,5 +1,5 @@
 Job Description
-Student, IT Automation
+Student, Development & Application Support (Workflow Management Systems)
 
 At Fidelity, we’ve been helping Canadian investors build better financial futures for over 35 years.  We offer individuals and institutions a range of trusted investment portfolios and services - and we’re constantly seeking to find new and better ways to help our clients.  As a privately owned company, we boldly embrace innovation in all areas as we continue to grow our business into the future. 
 
@@ -11,24 +11,20 @@ Fidelity offers you the chance to build a career, develop professionally and exp
 
 How you’ll make an impact:
 
-As a student in IT Automation, your focus will be to develop test automation for our website and other internal web applications. You will be empowered to investigate new technologies and processes that will add value to our organization.
+As a student in the IS Development & Application Support (Workflow Management Systems) role, your primary focus will be application support activities and developing code for our internal applications. You will have the opportunity to:
 
-You will have the opportunity to:
-
-Develop automated test scripts using Katalon Studio while learning about Fidelity’s business models and applications.
-Execute and schedule automated test scripts on VMs/VDIs using CI/CD tools like Jenkins or GitHub Actions.
-Create and execute load and performance tests for our website and internally on newly developed applications and tools.
-Review technologies and best practices that may be beneficial to our organization.
-Collaborate with experienced IT Automation Developers to discuss test coverage, participate in peer code reviews, and adopt industry best practices for code quality and maintainability.
-Present your work to subject matter experts (SMEs) in feedback sessions to refine solutions and align with business objectives
+Engage in application support and coding activities while gaining insights into Fidelity's business models and applications.
+Undertake ad hoc programming tasks to support our Development Team.
+Collaborate with team members in the design, coding, testing, debugging, and implementation of features and functions within our applications and APIs, ensuring adherence to Fidelity's standards and practices.
+Participate on documentation initiative to create, enhance and organize supported applications documentation. Evaluate and implement best practices that could be advantageous for the team and our organization.
 What we’re looking for:
 
-You are working towards a university degree in Computer Science or Computer/Mechatronic/System Design Engineering - ideally in your 1st or 2nd year of study.
-You have a keen interest and knowledge of Web and Mobile development.
-You have a strong understanding of Internet programming languages, including Java, JavaScript, HTML/HTML5 technologies, CSS, CSS3 and jQuery libraries.
-You have previous knowledge of scripting languages such as Groovy, Python, Ruby, Perl and Linux/Unix shell would be an asset.
-You must be currently enrolled in a registered co-op program to be considered for this position
-You must also be available for the full duration of the co-op term
+You are pursuing a university degree in Computer Science, Business with a technical proficiency or a related technical program, ideally in your third or fourth year of study.
+You possess a keen interest and understanding of web development and APIs.
+You have a strong grasp of Internet programming languages, including Java, .Net, Angular, HTML/HTML5 technologies, and CSS libraries.
+Familiarity with scripting languages such as Groovy, Perl, Linux/Unix shell, and SQL/Oracle databases would be beneficial.
+Knowledge of Jira, Confluence, SharePoint and ServiceNow would be a plus.
+You must be available on a full-time basis for the entire duration of the co-op term.
 You will be working on a flexible hybrid schedule as part of Fidelity’s dynamic working arrangement.
 
 Competitive Pay for Specialized Talent
@@ -48,11 +44,3 @@ We care a lot about fostering a compassionate, people-centric culture, and are p
 Fidelity Canada is an equal opportunity employer 
 
 Fidelity Canada is committed to fostering a diverse and inclusive workplace. We will consider all qualified applicants for employment regardless of race, color, religion, sex, sexual orientation, gender identity or expression, national or ethnic origin, age, disability, family status, protected veterans’ status, Aboriginal/Native American status or any other legally-protected ground. 
-
-Accommodation during the application process
-
-Fidelity Canada welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in the selection process. If you require an accommodation, please email us at FidelityCanadaStaffing@fidelity.ca.
-
-No telephone inquiries or agencies please. We thank all applicants for their interest, please be advised that only those selected for an interview will be contacted.
-
-Why Work at Fidelity?
