@@ -1,30 +1,34 @@
 Job Description
-Student, Development & Application Support (Workflow Management Systems)
+Student, IT Architecture
 
 At Fidelity, we’ve been helping Canadian investors build better financial futures for over 35 years.  We offer individuals and institutions a range of trusted investment portfolios and services - and we’re constantly seeking to find new and better ways to help our clients.  As a privately owned company, we boldly embrace innovation in all areas as we continue to grow our business into the future. 
 
 Working with us means you’ll be part of a diverse and dedicated group of people who make a real difference for our clients and communities every day. You’ll have a wide range of opportunities to grow and develop your career in an inclusive environment where you’ll feel valued and supported to be your best - both personally and professionally.
 
-What we provide:
+What we do:
 
 Fidelity offers you the chance to build a career, develop professionally and explore different career paths throughout the company. Students are placed into an area of interest and will be provided with a mentor to support them throughout their journey. We offer our students an extensive training program to help enhance skills in communication, public speaking, networking, business etiquette and emotional intelligence. Fidelity proudly supports various non-profit organizations and provides students with the opportunity to volunteer to make a difference in their community. You’ve worked hard to prepare yourself for a great career. No matter what your undergraduate degree is in, there is an opportunity for you at Fidelity.
 
 How you’ll make an impact:
 
-As a student in the IS Development & Application Support (Workflow Management Systems) role, your primary focus will be application support activities and developing code for our internal applications. You will have the opportunity to:
+We are looking for a motivated and detail-oriented student intern to join our IT Architecture team. This internship provides hands-on experience in enterprise architecture, system/data design, and technology strategy. You will collaborate with experienced architects to support initiatives that shape the organization’s technology landscape.
 
-Engage in application support and coding activities while gaining insights into Fidelity's business models and applications.
-Undertake ad hoc programming tasks to support our Development Team.
-Collaborate with team members in the design, coding, testing, debugging, and implementation of features and functions within our applications and APIs, ensuring adherence to Fidelity's standards and practices.
-Participate on documentation initiative to create, enhance and organize supported applications documentation. Evaluate and implement best practices that could be advantageous for the team and our organization.
+You will have the opportunity to:
+
+Assist in creating and maintaining architecture diagrams, models, and documentation.
+Support analysis of business and technical requirements for new solutions.
+Participate in technology evaluations and proof-of-concept activities.
+Help maintain architecture repositories and ensure data accuracy.
+Collaborate with cross-functional teams to gather information for assessment.
+Contribute to presentations and documentation for architecture governance meetings and projects.
 What we’re looking for:
 
-You are pursuing a university degree in Computer Science, Business with a technical proficiency or a related technical program, ideally in your third or fourth year of study.
-You possess a keen interest and understanding of web development and APIs.
-You have a strong grasp of Internet programming languages, including Java, .Net, Angular, HTML/HTML5 technologies, and CSS libraries.
-Familiarity with scripting languages such as Groovy, Perl, Linux/Unix shell, and SQL/Oracle databases would be beneficial.
-Knowledge of Jira, Confluence, SharePoint and ServiceNow would be a plus.
-You must be available on a full-time basis for the entire duration of the co-op term.
+You are working towards a university degree in Computer Science or Computer/Mechatronic/System Design Engineering - ideally in your 2st or 3rd year of study.
+Foundational knowledge on developing and deploying applications and services in a cloud environment (AWS, Azure, GCP)
+You have a strong understanding of system architecture concepts (Monolithic vs Microservices)
+You have previous knowledge of scripting languages such as Groovy, Python, Ruby, Perl and Linux/Unix shell would be an asset.
+Experience working in an agile/kanban environment using JIRA/Confluence is preferred.
+You must be available on a full-time basis for the duration of the co-op term
 You will be working on a flexible hybrid schedule as part of Fidelity’s dynamic working arrangement.
 
 Competitive Pay for Specialized Talent
@@ -44,3 +48,9 @@ We care a lot about fostering a compassionate, people-centric culture, and are p
 Fidelity Canada is an equal opportunity employer 
 
 Fidelity Canada is committed to fostering a diverse and inclusive workplace. We will consider all qualified applicants for employment regardless of race, color, religion, sex, sexual orientation, gender identity or expression, national or ethnic origin, age, disability, family status, protected veterans’ status, Aboriginal/Native American status or any other legally-protected ground. 
+
+Accommodation during the application process
+
+Fidelity Canada welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in the selection process. If you require an accommodation, please email us at FidelityCanadaStaffing@fidelity.ca.
+
+No telephone inquiries or agencies please. We thank all applicants for their interest, please be advised that only those selected for an interview will be contacted.
