@@ -1,57 +1,36 @@
-At Loblaw Digital, we know that our customers expect the best from us. Whether that means building the best, most innovative online shopping experience, or designing an app that will impact the lives of people across the country, we’re up for the challenge. From our office in Downtown Toronto, we’ve created leading eCommerce experiences in the online grocery shopping, beauty, pharmacy, and apparel spaces, and we’re only just getting started.
+At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 
-Why is this role important?
+With over half a billion rides and counting, Lyft is solving hard problems in a flourishing domain with a lot of data and creative solutions in Marketplace, Mapping, Fraud, Growth and beyond. We're actively building the next-generation Machine Learning (ML) platform for low-cost, ultra-immersive transportation to improve people's lives using modern ML with peta-byte scale data. Our Machine Learning Engineers are excited to work on these challenging problems and redefine solutions to directly impact various aspects of Lyft's primary business.
 
-Summer 2026 Work Term
+If you are a student with experience in machine learning workflows, passionate about solving challenging problems using data and working in a dynamic, creative, and collaborative environment, this opportunity is for you!
 
-Term Length: 4 months
+Responsibilities:
+Contribute to the design, build, train and test of Machine Learning models
+Write production-level code to convert ML models into working pipelines
+Partner with Product Managers, Data Scientists, and fellow ML Engineers to frame Machine Learning problems within the business context
+Analyze experimental and observational data, communicate findings to support decisions
+Participate in code and spec reviews to ensure code quality and distribute knowledge
+Experience:
+Currently pursuing a Bachelor's, Master's, or PhD degree in Computer Science or a related technical field from a university in Canada (required), with a graduation date between December 2026 and Summer 2027 (required). For any candidates who are master's students who worked between their bachelor's and master's programs: candidates should also have less than 2 years of relevant full-time work experience
+Available during Summer 2026 for the internship in Toronto
+Good understanding and knowledge of ML libraries like scikit-learn, Tensorflow, PyTorch, Keras, MXNet, etc.
+Strong programming skills in Python or a similar object oriented language
+Proven ability to effectively turn research ML papers into working code
+Practical knowledge of how to build efficient end-to-end ML workflows
+"Engineer at heart" with a high degree of comfort in designing software systems and producing high-quality code
+Curiosity and ability to quickly learn new concepts and technologies
+Strong problem solving mindset, resourcefulness, and willingness to figure things out independently through research or collaboratively through brainstorming
+Demonstrated oral and written interpersonal skills
+Benefits:
+Mental health benefits
+In addition to holidays, interns receive 2 days paid time off and 3 days sick time off
+Subsidized commuter benefits
+Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
 
-Term Start: May 4, 2026
+Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule — Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 
-Term End: August 21, 2026
+The expected base pay range for this position in the Toronto area is CAD $45 - $53 per hour, not inclusive of potential equity offering, bonus or benefits. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 
-The pay range for the co-op student role will reflect factors such as the candidate's experience, academic level, and the specific skillset required for the role.
+Lyft may use artificial intelligence to screen applicants, however, Lyft employees make the ultimate selection and hiring decisions.
 
-Loblaw has adopted the following hybrid working model (a combination of working between the office and remotely). Colleagues can work remotely up to 1 day a week, while spending the other 4 days in the office (to be determined by each business unit).
-
-At Loblaw Digital, we know that our customers expect the best from us. Whether that means building the best, most innovative online shopping experiences, or designing an app that will impact the lives of people across the country, we’re up for the challenge. Loblaw Digital is the team responsible for building and operating the online businesses of Canada’s largest and most successful retailer. Based in downtown Toronto, we are an entrepreneurial, fast-paced, and collaborative team working towards transforming the way Canadians shop by creating leading eCommerce experiences in the online grocery shopping, beauty, pharmacy, loyalty, and apparel spaces, and we’re only just getting started! To achieve these goals, we are looking for talented and passionate individuals who want to collaborate and solve challenging problems and make a significant and lasting impact on Canadians. 
-
- 
-
-On our team, you will play a vital role in our AI-driven initiatives by working alongside our skilled machine learning, data science, and engineering teams. Your primary responsibility will be to design and develop machine learning and generative AI based solutions that address critical business challenges. You will have the chance to collaborate with cross-functional teams, including machine learning scientists, software engineers, and product managers, to deliver innovative solutions that enhance customer experiences and optimize internal processes.
-
-What you’ll do
-
-Build ML / generative AI solutions using massive structured and unstructured datasets from various sources across the company
-Work with Engineering and Data Platform teams to build and deploy your ML models into production
-Work cross-functionally with business teams — Product, Trading, Marketing, Supply Chain, Web Analytics, etc. — to source data, establish requirements, and define success
-Stay up to date with the latest advancements in machine learning and AI technologies, contributing your knowledge to the team's growth and learning.
-Does this sound like you?
-
-Pursuing a Bachelor's or Master's degree in Computer Science, Data Science, Machine Learning, or a related field.
-Strong interest in generative AI and its applications
-Strong foundational knowledge in machine learning
-Creative, resourceful, and productive problem-solver
-Able to work independently and collaboratively
-Passion for building ML solutions to fluid, open-ended problems
-Comfortable with SQL querying
-Proficient in Python, knowledge of any ML framework is a plus
-A portfolio of personal or academic machine learning projects is a plus
-How you’ll succeed
-
-
-At Loblaw Digital, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. We’re able to keep innovating because our colleagues are passionate about their work and excited about the future of eCommerce.  
-
-You will get to work with some of the best digital minds and will have the support of world-class technologies to craft products our customers will love! 
-
-How You’ll Succeed: 
-
-At Loblaw Digital, we seek great people to continually strengthen our culture. We believe great people model our values, are authentic, build trust and make connections. 
-
-We’re able to keep innovating because our colleagues are passionate about their work and excited about the future of eCommerce.
-
-If you have big ideas, undeniable enthusiasm, and thrive in a collaborative, creative, and diverse group, we’ll get along just fine.
-
-Looking for a challenge? Good. Love an innovative work environment? Even better.
-
-Apply today.
+This job fills an existing vacancy.
