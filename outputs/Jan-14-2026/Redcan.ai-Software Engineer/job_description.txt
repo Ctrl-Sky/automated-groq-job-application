@@ -1,0 +1,37 @@
+About redcan-ai
+ABOUT REDCAN.AI
+
+Redcan is at the forefront of building agentic AI products and tools that enable our customers to scale their product deployment capability by orders of magnitude, transforming their business and accelerating time to value while reducing cost and complexity of delivering enterprise software products. For the entrepreneurially minded, you will have the opportunity to collaborate with portfolio companies and build relationships and innovate within the VC and PE ecosystem. 
+
+About the job
+Software Engineer (Co-Op Eligible Students only)
+
+
+
+Criteria: 
+
+Must be enrolled in an co-op eligible Engineering related program year from University of Waterloo, University of Toronto, or McMaster University
+Must be available to work eastern timezone, M-F, 9a-5p ET for the summer 2026 work term from May through August, 2026.  
+
+
+What it's all about: 
+
+We’re seeking Software Engineers (Early Career Co-op) to join our growing technical team during the upcoming Summer Term (May through Aug). This role enables you to shape the future of agentic AI products: intelligent, autonomous systems that anticipate user needs and adapt in real-time to support workflow journeys.  You’ll collaborate with a high-performing, seasoned team of engineers, product management and design team members to continue to build our product stack to deliver on our product roadmap and fulfil Redcan’s vision. Depending on your background, experience, and interests, you’ll contribute to the product architecture, functionality, and features, and maintain production-grade software systems across multiple products and domains. For the entrepreneurially minded, you will have the opportunity to collaborate with portfolio companies and build relationships and innovate within the VC and PE ecosystem. 
+
+
+
+What you’ll do
+Contribute across the stack with hands-on exposure to LLM tool-calling & prompting
+Ship full-stack features in TypeScript: React UI + NestJS/Node.js on the backend
+Improve LLM agent reliability: tool-calling schemas, safe context compaction, retries/observability.
+Add tests (unit/integration), docs, and CI improvements.
+Leave a clean handover at term-end.
+
+
+What we look for
+Currently enrolled in a Canadian co-op or internship program, available Jan-Apr 2026.
+Solid CS foundations (data structures/algorithms, problem solving) in any modern language (e.g., C/C++/Java/Python/C#).
+Comfortable with Git/GitHub, reading API docs, writing small, safe PRs, and communicating clearly.
+Curiosity about the web stack (TypeScript, Node.js, React, NestJS).
+Interest or project exposure with LLM APIs (OpenAI/Bedrock), vector search, or simple Python scripts.
+Basic AWS familiarity (S3/IAM/ECS).

@@ -1,0 +1,68 @@
+RBC Wealth Management is a part of Royal Bank of Canada (“RBC”), one of the largest providers of financial services in the world. RBC Wealth Management Canada is comprised of six complementary lines of business which are supported by over 250 wealth professionals through our RBC Family Office Services team. Together, we provide our clients an unmatched experience.
+
+Your application will be reviewed for consideration across multiple roles within the following areas:
+
+RBC Dominion Securities 
+
+RBC PH&N Investment Counsel
+
+RBC Royal Trust 
+
+RBC Private Banking
+
+RBC Wealth Management Financial Services
+
+RBC Global Asset Management
+
+What is the opportunity?
+
+We are seeking summer interns across several Technology/Developer roles (including but not limited to the following: Software Developer, Quant Developer, Operation Analyst and Cybersecurity, Fixed Income Performance Team Support, IT Risk Analyst, and QA Automation Analyst) to join the RBC Wealth Management Team. Come join us to help apply technology that enables the investment processes!
+
+What will you do?
+
+Participate in all parts of software development lifecycle – design, implementation, and rollout of production systems
+Create and review technical design documents, understand how the design will be used in the code development process, and facilitate meetings to design, troubleshoot, and enhancements development
+Contribute to the development and enhancement of new and existing web applications.
+Monitoring email queue closely and picking up issues/requests in a timely manner
+Create ServiceNow tickets and assign them to the appropriate support teams
+Create and maintain knowledge documents
+Utilizing all available resources to perform issue investigation and troubleshooting e.g. documentation, escalations etc.
+Monitoring and improving the availability of our software solutions and data integration batch jobs.
+Start developing larger features for projects by working with Senior Engineers
+Designing, modifying, developing, writing and implementing software programming applications for target system using agile methods.
+Analyze requirements, create test strategy, prepare test documentation and execute test
+Conduct manual access reviews and role recertification
+Provide guidance to business and technical stakeholders on RBC's compliance standards
+Engage in organization level remediation planning
+Manage and conduct Non-Personal ID & Password Access Management remediation project
+What do you need to succeed?
+
+Must have:
+
+Major in computer science or an equivalent combination of education, experience, and training
+Experience in SQL, C#, Java, NodeJS, Python, and Microsoft technologies can be beneficial (school project experience counts)
+Java 8+ and Spring Framework (Spring Boot)
+Experience with Web technologies such as HTML, HTTP, Java script and CSS
+Ability to work effectively both independently and as part of a team
+Excellent problem-solving skills, flexible approach to work and the ability to adapt to change
+Strong written and verbal communication skills, with the ability to effectively communicate with both business users and technical individuals
+Nice to have:
+
+Understanding of Active directory
+Understanding of Web FE development frameworks and libraries such as Angular and React
+Understanding of trading systems such as Bloomberg/Reuters products
+Experience working within professional software engineering practices for the full software development life cycle, including coding standards, code reviews, source code management, build processes and testing.
+Please note: 
+
+In order to be eligible for these student positions, you must either: 
+
+Be returning back to school after the work term end-date; or 
+If you are not returning back to school (i.e. are graduating immediately after the work term), you must require the full work term as a mandatory component in order to graduate successfully
+What’s in it for you?
+
+We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.
+
+Leaders who support your development through coaching and managing opportunities
+Ability to make a difference and lasting impact
+Work in a dynamic, collaborative, progressive, and high-performing team
+A world-class training program in financial service

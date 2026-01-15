@@ -1,0 +1,67 @@
+Co-op and Internship opportunities allow you to gain valuable work experience across a number of the businesses at TD. You will work with experienced colleagues, receive world class training, and be part of a community of students across TD, where you will have an impact, grow as individual and experience our culture of care. 
+
+ 
+
+Our Co-op/Intern Programming is offered with select Co-op and Internship roles and is designed to help you better understand the TD business, build on critical career capabilities, and broaden your professional network. This program is designed to complement your on-the job experience and features: 
+
+Engage in interactive sessions with key leaders across TD, gaining valuable insights into leadership and the organization’s vision. 
+
+Participate in learning sessions focused on innovation, personal branding, and fostering professional and personal growth. 
+
+Join a supportive community of students and professionals, expanding your network and building the skills needed for a thriving career in analytics and AI. 
+
+We want our co-ops and interns to have the TD and AI2 experience (Analytics Insights & Artificial Intelligence), where we develop talent, help build great careers and do what it takes to make our clients' lives easier! The goal for our co-ops and interns is that they can have a meaningful experience while growing their skills and gaining new perspectives. Chosen candidates will have the chance to learn and develop their competencies and build great careers.
+
+JOB DESCRIPTION 
+
+As a Software Engineer Intern, you will support the development and maintenance of web applications, contributing to both front-end and back-end features. You will work closely with senior engineers and designers, gaining exposure to the full software development lifecycle and modern frameworks. Your responsibilities will include: 
+
+Assisting in the development of user interfaces and interactive features using modern front-end technologies (e.g., Vue.js). 
+
+Supporting the design and implementation of server-side solutions and RESTful APIs using Python and FastAPI.  
+
+Helping to design and optimize database schemas, and writing queries for data retrieval and manipulation. 
+
+Collaborating with team members to integrate front-end and back-end components within the overall system architecture. 
+
+Participating in code reviews, documentation, and technical discussions to learn best practices and improve code quality. 
+
+Staying informed about current trends in web development and contributing ideas for continuous improvement. 
+
+Maintaining documentation for code, APIs, and technical specifications. 
+
+JOB REQUIREMENTS 
+
+Currently enrolled in an undergraduate or graduate program in Computer Science, Software Engineering, or a related field, with the intent to return to school after the internship. 
+
+Basic proficiency in HTML5, CSS3, JavaScript, and at least one back-end language  
+
+Familiarity with front-end frameworks (e.g., Vue.js) and back-end frameworks (e.g., FastAPI). 
+
+Understanding of RESTful APIs and how to consume or build them in web applications. 
+
+Exposure to version control systems (e.g., Git). 
+
+Willingness to learn and take initiative in a fast-paced, agile environment. 
+
+Good problem-solving and debugging skills. 
+
+Strong communication and collaboration abilities. 
+
+Experience with personal projects, coursework, or previous internships in web development is considered an asset. 
+
+ADDITIONAL INFORMATION 
+
+This position is a 4-month work term and will commence May 4 – August 21, 2026. 
+
+Applications must include a transcript, cover letter (one letter-sized page or less) and a resume (maximum of 2 pages). 
+
+We welcome all applications; however, we will only contact qualified candidates chosen for an interview. Thank you for your interest. 
+
+TD requires employees to reside in the country where the role is located, irrespective of remote working arrangements. 
+
+TD is committed to providing you with the best candidate experience and internship in these unique circumstances. As such, work location and start dates are subject to change. 
+
+HOURS 
+
+Monday-Friday, standard business hours 

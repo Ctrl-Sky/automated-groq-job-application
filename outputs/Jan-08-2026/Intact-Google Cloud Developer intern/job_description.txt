@@ -1,0 +1,51 @@
+Salary for the candidate will be determined taking into consideration a number of factors including: experience, skills, qualifications, anticipated contribution to role, internal equity, etc. The salary range presented below is based on a 35-hour workweek and would represent a majority of different candidate profiles. However, we encourage candidates who may fall outside of this range to apply as well.
+
+Salary range (but not limited to):
+
+57,000 - 71,200
+
+About the role
+
+Launching your tech career at Intact means joining a diverse team of more than 3,000 Digital, Data and Tech experts working at the intersection of what exists and what’s possible. Here, you’ll be supported by forward-thinking leaders who celebrate shared success, and you’ll help push the industry forward with digital solutions that go beyond insurance to offer everyday value to millions of people. You’ll grow personally and professionally with access to cutting-edge technology-driven learning platforms and make lasting connections near and far. Most importantly, you’ll discover how exciting the “real world” can be.
+Here, your career will take off
+
+
+Are you excited to learn how modern cloud systems run at scale? Do you care about readable code, strong engineering habits, and collaborating with dev, security, and IT ops? We’re seeking a Google Cloud Developer intern to help with seamless deployments, hands-on monitoring, and day-to-day maintenance on GCP—keeping our cloud applications fast, secure, and scalable while you level up your skills.
+
+
+What you’ll do here:
+
+Help build and manage GCP resources (VMs, storage, databases, networking) and support day-to-day operations.
+
+Automate routine tasks with Terraform/Ansible/Deployment Manager; write simple scripts to speed up workflows.
+
+Monitor systems and performance using our existing tools; assist with cost/performance tuning on GCP.
+
+Support security basics (IAM, firewalls, encryption), keep documentation up to date, and collaborate with different stakeholders, such as developers/IT/security on deployments and best practices.
+
+Technical Skills required: Google Cloud Platform experience, Terraform, GitHub, CI/CD pipelines, understanding how to set up infrastructure in cloud
+
+Nice to Have: Ansible
+
+
+What you bring to the table:
+
+Currently pursuing a Bachelor's or Master’s degree in a field related to software development, computer science, or anything relevant;
+
+Available to work with us full-time, 35 hours per week, for the Summer 2026 Term (May to August)
+
+Must be an active student during your internship and/or returning to school in next Fall 2026 following your internship
+
+Past relevant internship/co-op experience(s) considered an asset
+
+Understand the software development lifecycle and be curious about continuous delivery pipelines and testing.
+
+Understand the basics of an agile way of work
+
+Strong analytical abilities and problem-solving skills.
+
+Adaptability, curiosity, and commitment to continuous learning.
+
+Excellent communication skills with a passion for technology.
+
+Self-reliant with a strong sense of responsibility.

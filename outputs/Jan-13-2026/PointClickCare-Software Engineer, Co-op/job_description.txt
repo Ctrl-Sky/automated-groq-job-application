@@ -1,0 +1,46 @@
+At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare.
+
+With the largest long-term and post-acute care dataset and a Marketplace of 400+ integrated partners, our platform serves over 30,000 provider organizations, making a real difference in millions of lives. We also reinvest a significant percentage of our revenue back into research and development, ensuring our employees have the resources to innovate and make a lasting impact. Recognized by Forbes as a top private cloud company and honored as one of Canada’s Most Admired Corporate Cultures, we offer flexibility, growth opportunities, and meaningful work. 
+
+At PointClickCare, we empower our people to be the architects of a smarter healthcare future; one that is human-first and accelerated by AI to create meaningful and lasting change. Employees harness AI as a catalyst for creativity, productivity, and thoughtful decision-making. By integrating AI tools into our daily workflows, collaboration is enhanced, outcomes are improved, and every team member has the proficiency to maximize their impact. It all starts with our hiring practices where we uncover AI expertise that complements our mission, and we continue to invest in training and development to nurture innovation throughout the employee journey.
+
+Join us in redefining healthcare — so it doesn’t just survive, it thrives. To learn more about PointClickCare, check out Life at PointClickCare and connect with us on Glassdoor and LinkedIn.
+
+For hybrid roles, we ask that students live within a commutable distance to the office listed in the posting. Co-op students will work in the office at least two days a week, including Wednesdays, so they can spend meaningful time with their leader or mentor and their team for real-time coaching, feedback, and support. In-office expectations will be discussed and agreed on with your manager during the interview process. 
+
+About the Role? 
+In this Software Engineer, Co-op role, you’ll join our Engineering team to support our Scrum teams working to deliver solutions to problems in an AI-first mindset. You will have the opportunity to work on problems that directly impact our customers – just like the rest of your team. We don’t believe in co-op specific tasks; instead, we mentor you so that you can dive in deep, deliver high-quality software and push it to production - maybe all on the same day! This means that you will be working alongside your team to solve complex issues and make a huge impact on the healthcare ecosystem.   
+ 
+You will  
+• Design and build high-quality software in a cloud native environment (MS Azure). 
+• Regularly releasing your work to our Azure-backed production environment. 
+• Experience working with first class AI tooling – GitHub Copilot, Copilot, Azure AI Foundry, etc 
+• Use technology to solve real-world problems using an AI-first mindset  
+
+
+Work Location: This is a hybrid role, based out of our Mississauga Office and Kitchener Office.   
+Mississauga Location: 570 Explorer Dr, Mississauga, ON L4W 0C4 
+Kitchener Location: 137 Glasgow St Unit 210, Kitchener, ON N2G 4X8 
+
+
+Work Term Length: 
+Work Terms, Including Expected Start and End Dates:  
+4 Months: May 4, 2026 – August 21, 2026 (Mississauga Office and Kitchener Office) 
+8 Months: May 4, 2026 – December 18, 2026 (Mississauga Office) 
+
+
+Salary: 
+• Compensation Range: [$26-$32 per hour], aligned to your level, program, and term length. 
+• This is a paid co-op/internship position. 
+What's in it for you?
+Make an Impact: Work on meaningful projects that improve millions of lives in the health tech space. 
+Learn from the Best: Gain mentorship from passionate experts and top engineers who care about your growth. 
+Innovate with Cutting-Edge Tech: Build cloud-native software and leverage AI-first tools like GitHub Copilot and Azure AI Foundry. 
+Flexibility & Balance: Enjoy hybrid work options and a culture that blends innovation with fun through learning sessions and social events. 
+Connect & Grow: Join a vibrant community of interns and co-ops, with opportunities to network and collaborate. 
+What you’ll learn at PointClickCare:
+The Big Picture: How technology, data, and AI come together to transform healthcare and improve patient outcomes. 
+Modern Ways of Working: Experience agile, cross-functional teamwork and sharpen your collaboration, communication, and problem-solving skills. 
+Building at Scale: Learn to develop enterprise-level software and own cloud services; from deployment and scalability to security and disaster recovery. 
+AI as Your Ally: Discover how to leverage AI as a peer to innovate, solve complex problems, and become a more efficient engineer. 
+Future-Ready Skills: Gain knowledge that lasts beyond your co-op term — from leadership and industry insights to shaping the future of digital health. 

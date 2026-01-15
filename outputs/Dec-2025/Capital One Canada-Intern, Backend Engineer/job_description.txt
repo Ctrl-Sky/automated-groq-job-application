@@ -1,0 +1,69 @@
+Full job description
+161 Bay Street (93021), Canada, Toronto,Toronto, Ontario,
+Intern, Backend Software Engineer - Summer 2026
+About Capital One Canada
+
+For over 20 years, we’ve been on a mission to change banking for good and build relationships by making credit accessible, simple, intuitive and rewarding. We want to help Canadians succeed with credit, because we believe in people — in our customers, in our associates and in talent like you!
+
+
+About the Team
+
+Acquisitions Decisioning team owns the Canadian Pre-approval application Quick Check through which customers can check which card they will be 100% approved for and the Dynamic App through which the customers can apply for a specific credit card. The team is currently on a journey to create a streamlined and cohesive end to end customer shopping experience through advanced technology investments for its pre-approval and decisioning capabilities which will provide the customers a better experience while searching and applying for a credit card without impacting their credit history. Team is also working on onboarding its decisioning services to the new generation decisioning platform that will help unlock technology and execution benefits through configurable and scalable decisioning capabilities and the new backend design patterns and technology investments.
+
+About the Role
+
+As an engineer on Customer Acquisitions, you will be working with a highly collaborative, diverse mix of engineers to enhance the product vision to deliver new credit card products to the market. You will have the opportunity to work on different layers of the technology stack (Go, NodeJS, AWS) and collaborate with many external teams to help achieve our mission. You will be involved in building infrastructure, feature development, testing (unit test, component test and integration test), deployment, monitoring and fixing cyber security and vulnerability fixes.
+
+IDE: IntelliJ/ VSCode
+
+Language: GoLang, NodeJS
+
+AWS: S3, Lambda, Route53, Security Groups, IAM roles
+
+Monitoring Tool: Splunk, New Relic, Cloudwatch
+
+CI/CD: Jenkins, Onepipeline (Capital One’s inner-sourced CICD pipeline)
+
+Your Responsibilities:
+
+Work as part of a dynamic team throughout the software development life cycle
+
+Develop code to meet story acceptance criteria
+
+Conduct design and code reviews to ensure high-level quality output
+
+Ensure adherence to continuous improvement practices as required to meet quality, and time to market imperatives
+
+Participate in Agile ceremonies, design and brainstorming sessions
+
+Collaborate with Product and Analyst stakeholders to implement enhancements or new applications
+
+Technical Documentation for analysis, test results and release.
+
+Learn and build AWS cloud infrastructure on the job
+
+Have fun with the team
+
+Basic Qualifications:
+
+Will obtain a Bachelor’s degree or higher from August 2026 or later
+
+Familiarity with application development using any backend programming language, and JavaScript.
+
+Good communication, presentation, and writing skills
+
+Good understanding of testing fundamentals
+
+Able to work within a team setting and actively participate and collaborate in team discussion
+
+Please include your resume and unofficial transcripts in one PDF in the attachment section under Resume/CV when you create your profile to apply
+
+Ensure you complete the assessment no later than January 19, 2026 @ 11:59PM
+
+Preferred Qualifications:
+
+Experience with backend technologies such as GoLang, AWS Lambda, S3.
+
+Experience with version control technology i.e. Git
+
+Experience with Jenkins CI/CD, microservices, API design / integration

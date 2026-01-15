@@ -1,0 +1,49 @@
+Position Responsibilities:
+
+Work on user stories assigned during each sprint, including build and KTLO (Keep The Lights On) tasks.
+
+Collaborate with Tech Leads, Developers, QA, and business stakeholders to clarify requirements and showcase understanding of problem statements.
+
+Build proposed solutions and deliver business outcomes aligned with priorities defined during PI Planning.
+
+Engage with external teams and business stakeholders to ensure successful delivery.
+
+Complete assigned stories and demo & deploy solutions into production by the end of the internship.
+
+Required Qualifications:
+
+Currently pursuing an undergraduate degree in Computer Science, Engineering, or a related field.
+
+Knowledge of Java, React, Spring Boot, GitHub, Azure, and SQL.
+
+Familiarity with C#, Angular/React, Azure, and SQL.
+
+Strong analytical and problem-solving skills.
+
+Ability to manage multiple priorities and work in a collaborative environment.
+
+Preferred Qualifications:
+
+Exceptional verbal and written communication skills.
+
+Experience with SAFe Agile methodologies (will be taught during onboarding)
+
+When you join our team:
+
+We’ll empower you to learn and grow the career you want.
+
+We’ll recognize and support you in a flexible environment where well-being and inclusion are more than just words.
+
+As part of our global team, we’ll support you in shaping the future you want to see.
+
+Application instructions:  
+
+Submit your resume, cover letter, academic transcript, and work term evaluation (if any) in one PDF file.  
+
+Note: Applications are reviewed on a rolling basis. 
+
+#LI-Hybrid 
+
+About Manulife and John Hancock
+
+Manulife Financial Corporation is a leading international financial services provider, helping people make their decisions easier and lives better. To learn more about us, visit https://www.manulife.com/en/about/our-story.html.

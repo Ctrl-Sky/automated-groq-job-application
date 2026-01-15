@@ -1,0 +1,45 @@
+Summer 2026 Co-op: AI Software Developer (4 Months)
+Category: Software Development/ Engineering
+Main location: Canada, Ontario, Markham
+Position ID: J0126-0218
+Employment Type: Student Internship
+Position Description:
+We are looking for a motivated and curious AI Co-op Student to join our team and support our ongoing efforts to explore, develop, and integrate Artificial Intelligence and Machine Learning (AI/ML) into our IT solutions. The candiate will work closely with team members to analyze use case, experiment with AI tools, and contribute to innovation in a real business context.
+
+Start Date: May 2026
+Application Deadline: January 30 2026
+
+Perks of Being a CGI Co-op:
+• Participate in monthly socials to meet co-ops across the country.
+• Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!
+
+To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer
+
+Your future duties and responsibilities:
+Key Responsibilities:
+• Assist in identifying AI/ML use cases within our organization (e.g., predictive analytics, intelligent automation, natural language processing).
+• Explore and prototype AI solutions using tools such as Python, Azure/OpenAI, HuggingFace, Gemini, CoPilot, LLMs etc.
+• Support data preprocessing, cleaning, and analysis to feed models or evaluate feasibility.
+• Collaborate with cross-functional teams (IT, business analysts, developers) to define AI requirements and evaluate outcomes.
+• Prepare documentation, reports, training material and presentations on AI findings and recommendations.
+• Stay current on AI trends, tools, and best practices relevant to our industry.
+
+Required qualifications to be successful in this role:
+Qualifications:
+• Currently enrolled in a Computer Science, Data Science, Software Engineering, or related undergraduate program.
+• Knowledge of Python and libraries like Pandas, TensorFlow, or PyTorch + Java.
+• Familiarity with AI/ML concepts such as supervised/unsupervised learning, NLP, or computer vision.
+• Experience with tools like Jupyter, Git, or cloud services (Azure, AWS, etc.) is an asset.
+• Strong analytical skills and willingness to learn new technologies.
+• Good communication and documentation skills.
+Nice to Have:
+• Exposure to generative AI platforms (e.g., ChatGPT, Copilot, Gemini, LangChain).
+• Experience working with APIs, Java and web services.
+• Knowledge of data visualization tools (i.e., Power BI, matplotlib).
+What You’ll Gain:
+• Hands-on experience with real-world AI applications.
+• Mentorship from experienced IT professionals.
+• Exposure to enterprise-scale systems and agile development methodologies.
+• Opportunity to contribute to strategic digital transformation initiatives.
+
+CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy.

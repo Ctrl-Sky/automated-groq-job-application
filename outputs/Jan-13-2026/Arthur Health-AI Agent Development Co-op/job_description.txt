@@ -1,0 +1,41 @@
+
+Long Term Placement:	No
+Position Start Date:	05/01/2026
+Position End Date:	08/31/2026
+Term Posted:	2026 - Spring
+Position Type:	4-month
+Position Title:	AI Agent Development Co-op
+Position Description:	
+About Us
+
+Arthur Health is a Canadian healthcare technology and advisory company committed to innovation, collaboration, and inclusion. We empower teams to deliver high-value, coordinated healthcare and drive transformation across health, insurance, and business sectors.
+
+Our Vision:A world where seamlessly connected healthcare delivers better wellbeing for all.
+Our Mission:Empowering the delivery ofhigh-valuecoordinated healthcare.
+Our Values:Innovation, Collaboration, Inclusion, Excellence, Trustworthiness, Enrichment
+About the Role
+
+Join our team as an AI Agent Development Co-op, focused on building intelligent agents within the Microsoft ecosystem (Azure, Power Platform, Copilot, Teams, etc.). You'll support both internal projects and client-facing solutions, working end-to-end from requirements gathering to deployment. You'll collaborate closely with senior leaders and cross-functional teams, participate in regular meetings, and benefit from mentorship and client exposure.
+
+
+
+Why Join Us?
+
+Exposure to senior stakeholders and real-world technology projects
+Opportunities for growth, leadership, and skill development
+Work in a team that values innovation, collaboration, and inclusion
+Hybrid work environment with monthly in-person meetings in Toronto
+Position Requirements:	
+Key Responsibilities
+
+Assistin requirements gathering, agent design, coding, testing, documentation, deployment, client demos, and ongoing support
+Collaborate with senior leaders and cross-functional teams
+Participate in regular meetings, mentorship, and client-facing opportunities
+Support the full lifecycle of AI Agent development, adapting to evolving project needs
+What We're Looking For
+
+Experience (academic or professional) with Microsoft technologies(Copilot Studio, Agent Framework, AI Foundry, Power Platform)
+Prior exposure to AI/ML, software development, or automation
+Familiarity with platforms and languages relevant to Microsoft's AI ecosystem
+Curiosity, adaptability, initiative, teamwork, professionalism, and a passion for healthcare/technology
+Alignment with our values: innovation, collaboration, and inclusion

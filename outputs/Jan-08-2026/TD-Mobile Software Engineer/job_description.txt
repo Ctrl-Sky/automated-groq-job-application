@@ -1,0 +1,57 @@
+Job Description:
+
+DEPARTMENT OVERVIEW
+
+
+Co-op and Internship opportunities allow you to gain valuable work experience across a number of the businesses at TD.  You will work with experienced colleagues, receive world class training, and be part of a community of students across TD, where you will have an impact, grow as individual and experience our culture of care.
+
+Our Co-op/Intern Programming is offered with select Co-op and Internship roles, and is designed to help you better understand the TD business, build on critical career capabilities, and broaden your professional network. This program is designed to complement your on-the job experience and features:
+
+Leadership talks with key Leaders from across the organization
+Lunch and Learns on topics such as Innovation
+Diversity and Inclusion and Personal Branding and so much more
+JOB DESCRIPTION 
+
+You will have the opportunity to work as a Software Engineer on our Mobile platforms, which includes iOS software engineering as well as Android Software engineering.
+
+From Day 1, you are an equal member of the team who will be given meaningful assignments to help us deliver improvements and new mobile products for a variety of customer facing projects across TD, including Mobile Banking, Mobile Direct Investing, Mobile Payments, and Mobile for Everyone.
+
+
+You will get experience developing native iOS or Android software used by millions of banking, investment, and insurance customers every day.
+
+Responsibilities:
+
+Work with other software engineers in Agile Scrum teams to design and build native mobile software according to business requirements, UX designs, and architectural guidelines
+Adhere to developer expectations defined by the mobile team to ensure high-quality, re-usable, and maintainable software, including unit testing, code reviews, and documentation
+Continuously enhance your own knowledge and expertise to keep current with leading-edge technologies, trends, and developments, and transfer this knowledge to the team through informal day-to-day interactions and (if you're up for it) Lunch & Learn presentations
+Work on a broad range of tasks and multiple, concurrent projects. Prioritize and manage own workload in order to deliver quality results and meet timelines
+Help create a positive team environment that promotes collaboration, quality, innovation, and teamwork
+Perform Unit and System Integration testing
+Participate in Proof of Concept (POC) on new technologies and document findings  
+Troubleshoot and determine root cause and resolution for application defects
+Ensure defect free programming by testing and debugging using available/appropriate tools and participate in reviewing peer coding 
+Adhere to standard security coding practices to ensure application is free of most common coding vulnerabilities 
+Continuously enhance knowledge/expertise and keep current with leading-edge technologies trends/developments and develop expertise in TD services, applications, infrastructure, analytical tools and techniques that can contribute to effective solution development/delivery
+JOB REQUIREMENTS 
+
+Currently enrolled in a relevant technology programs, such as Computer Science, Engineering, Information Technology Management, Financial Analysis and Risk Management, Computing, etc.
+Strong knowledge of object-oriented design, implementation, and maintenance
+Understanding of Data Structures and Algorithms
+Strong coding, debugging, and problem-solving skills
+Fast learner who picks up new technologies quickly
+Demonstrates leadership, ability to communicate big picture and demonstrate solutions
+Analytical thinking, able to see like a customer and develop solutions that meet a need or uncover a new opportunity
+Ability to work in a fast-paced environment and thrives working with others
+Familiarity with source code management such as GIT
+Familiarity with Jira and Confluence
+(Android Specific)
+
+Familiar with Android SDK (level 21 and later) and open-source libraries such as Retrofit, and Dagger2
+Hands-on experienced with development tools such as Android Studio, Gradle, and Emulator
+Experience in Android development with Kotlin and Java
+
+(iOS Specific)
+
+Experience in iOS development with Swift
+Objective-C experience is nice to have
+Hands-on experience with development tools such as Xcode and storyboards

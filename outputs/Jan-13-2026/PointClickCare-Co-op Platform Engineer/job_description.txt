@@ -1,0 +1,55 @@
+At PointClickCare our mission is simple: to help providers deliver exceptional care. And that starts with our people. As a leading health tech company that’s founder-led and privately held, we empower our employees to push boundaries, innovate, and shape the future of healthcare.
+
+With the largest long-term and post-acute care dataset and a Marketplace of 400+ integrated partners, our platform serves over 30,000 provider organizations, making a real difference in millions of lives. We also reinvest a significant percentage of our revenue back into research and development, ensuring our employees have the resources to innovate and make a lasting impact. Recognized by Forbes as a top private cloud company and honored as one of Canada’s Most Admired Corporate Cultures, we offer flexibility, growth opportunities, and meaningful work. 
+
+At PointClickCare, we empower our people to be the architects of a smarter healthcare future; one that is human-first and accelerated by AI to create meaningful and lasting change. Employees harness AI as a catalyst for creativity, productivity, and thoughtful decision-making. By integrating AI tools into our daily workflows, collaboration is enhanced, outcomes are improved, and every team member has the proficiency to maximize their impact. It all starts with our hiring practices where we uncover AI expertise that complements our mission, and we continue to invest in training and development to nurture innovation throughout the employee journey.
+
+Join us in redefining healthcare — so it doesn’t just survive, it thrives. To learn more about PointClickCare, check out Life at PointClickCare and connect with us on Glassdoor and LinkedIn.
+
+For hybrid roles, we ask that students live within a commutable distance to the office listed in the posting. Co-op students will work in the office at least two days a week, including Wednesdays, so they can spend meaningful time with their leader or mentor and their team for real-time coaching, feedback, and support. In-office expectations will be discussed and agreed on with your manager during the interview process. 
+
+We are seeking a highly skilled individual to join our platform engineering team. As a member of this team, you will have the opportunity to work on cutting-edge technologies (AI/ML, Cloud Infrastructure) and contribute to the development of robust and scalable developer platforms.
+
+Work Location: This is a hybrid role, based out of our Mississauga Office  
+Mississauga Location: 570 Explorer Dr, Mississauga, ON L4W 0C4 
+
+
+Work Term Length: 
+Work Terms, Including Expected Start and End Dates:  
+4 Months: May 4, 2026 – August 21, 2026
+
+Salary: 
+• Compensation Range: [$26-$32 per hour], aligned to your level, program, and term length. 
+• This is a paid co-op/internship position. 
+What's in it for you?
+Develop solutions to help improve developer experience with cloud infrastructure
+Work with product engineering to iterate over software requirements
+Automate/self service cloud infrastructure tasks through existing platforms
+Develop tools and applications by producing clean, efficient code
+Analyze and debug systems
+Perform validation and verification testing in a test-driven manner
+Review the work of others, and invite others to review your work
+Ensure software is up-to-date with latest technologies
+What you’ll learn at PointClickCare:
+The Big Picture: How technology, data, and AI come together to transform healthcare and improve patient outcomes. 
+Modern Ways of Working: Experience agile, cross-functional teamwork and sharpen your collaboration, communication, and problem-solving skills. 
+Building at Scale: Learn to develop enterprise-level software and own cloud services; from deployment and scalability to security and disaster recovery. 
+AI as Your Ally: Discover how to leverage AI as a peer to innovate, solve complex problems, and become a more efficient engineer. 
+Future-Ready Skills: Gain knowledge that lasts beyond your co-op term — from leadership and industry insights to shaping the future of digital health. 
+Your Impact:
+Help create software that improves the lives of seniors and care providers every day. 
+Be part of projects that support healthcare professionals delivering exceptional care. 
+Contribute your ideas and perspective — innovation starts with fresh voices.
+Who are we looking for?
+Enrolment in Engineering, Computer Science or a related degree 
+Excellent organization, critical-thinking and personal leadership skills 
+Self-starter with the ability to deliver with minimal supervision 
+Analytical mind with problem-solving aptitude 
+Ability to analyze and debug systems 
+Availability for a 40-hour work week. 
+How should I apply?
+To be considered for the role apply directly through our careers site, by January 19 by 11:59pm EST.
+Show us who you are: Include your resume (no more than 2 pages) and transcripts in one PDF document. 
+If you have past co-op feedback results, please feel free to include them in your application.   
+If you meet the requirements above and the opportunity excites you, we want to hear from you! 
+We review every application carefully, including answers to your pre-screen questions and will be in touch if there’s a fit. 

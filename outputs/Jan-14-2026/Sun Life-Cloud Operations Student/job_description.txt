@@ -1,0 +1,57 @@
+Our student and new graduate programs offer a chance to explore Sun Life from the inside. You’ll make a difference in the lives of our customers and communities, while building the skills and experience that allow you to grow in a meaningful and rewarding way.
+
+Job Description:
+
+Sun Life is a global Financial Services company. Our Cloud Operations team are responsible for monitoring, repairing and remediating issues related to Sun Life’s Cloud Services located around the globe. Currently, we are looking for people who are passionate about technology and Cloud and the important role it plays within our organization.
+
+Core competencies/qualities:
+
+Do you have a passion for technology and Cloud and its services, enthusiasm and a willingness to learn?
+
+Do you have web development skill set?
+
+Do you enjoy solving problems? Trying different solutions until you reach the best result? Do you enjoy continuous learning and development?
+
+Do you thrive collaborating with a team of diverse, inclusive professionals?
+
+This opportunity is available to students with a December 2026 or later graduation date
+
+Overview of what we do:
+
+Our Cloud Operations team are part of Cloud Centre of Excellence (CCoE) who provide a wide range of services in the Cloud space. From one day to the next you could be building a solution using Infrastructure as Code (IaC), analyzing security or service vulnerabilities and remediating where possible, responding to client requests, updating metadata (AWS tags) on AWS accounts or AWS resources or researching and investigating new solution to help the Cloud Operations team.
+
+Responsibilities/tasks:
+
+As a Cloud Operations student you will be tasked with participating in the below activities.
+
+Understand and work with Amazon Web Services (AWS) Infrastructure as a Service (IaaS), and Platform as a Service (PaaS)
+
+Operational support & incident resolution activities
+
+Build cloud based services and solutions based on defined patterns.
+
+Work closely with other team members, technical/team leads, management, specialized IT areas and application support teams to ensure that solutions are built to deliver availability, reliability, and scalability. 
+
+Prioritize and respond to service requests as appropriate. 
+
+Ensure that solutions we deliver are compliant with all operational and security standards, directives and policies.
+
+Implement and operationalize new cloud services.
+
+Develop scripts and functions to support internal processes and improve system performance
+
+Contribute to front/back-end development of our newly created Cloud First web portal (currently using LAMP stack, migrating to React/TypeScript or converting to Python) that manages our tags for our accounts, resources, service lifecycles, etc.
+
+What is in it for you?
+
+At Sun Life, you will be joining a purpose driven organization focused on helping Canadian’s achieve lifetime financial security and live healthier lives.
+
+As a student, you’ll make a real impact by contributing to meaningful work, gaining valuable experience and actively working towards your team’s goals.
+
+You’ll join our unique student culture, designed to help you grow both personally and professionally beyond your role.
+
+We offer professional development workshops, student awards, socials and many more exciting opportunities.
+
+We are honored to be recognized as Canada’s Best Employers for Recent Graduates and Canada's Best Workplaces by Great Place to Work in 2025.
+
+Your student journey is just the beginning and we're proud to help many who choose Sun Life to transition into permanent roles after graduation.

@@ -1,0 +1,54 @@
+Full job description
+161 Bay Street (93021), Canada, Toronto,Toronto, Ontario,
+Intern, Full Stack Software Engineer - Summer 2026
+About Capital One Canada
+
+For over 20 years, we’ve been on a mission to change banking for good and build relationships by making credit accessible, simple, intuitive and rewarding. We want to help Canadians succeed with credit, because we believe in people — in our customers, in our associates, and in talent like you!
+
+About the Team
+
+Rescue Mission team is responsible for building and managing Canada Recoveries business functionality on Omega platform. We work in Agile with continuous build, testing and software delivery processes. If you believe in team work along with learning and fun, this role will definitely be exciting for you.
+
+About the Role
+
+As an engineer on the Rescue Mission team you will be working with a highly collaborative, diverse mix of engineers to enhance the product vision to deliver new credit card products to the market. Our team believes in inclusion and values everyone's thoughts, while supporting each other to deliver the business needs. As part of this team you will be able to work on AWS(Amazon Web Services), Serverless technologies, RESTful APIs, Microservices using Java, Spring, SQL Databases, Docker containers and continuous delivery processes. You will be involved in building infrastructure, feature development, testing (unit test, component test and integration test), deployment, monitoring and fixing cyber security and vulnerability fixes.
+
+IDE: IntelliJ
+
+Language: Java, Python
+
+AWS: S3, Lambda, Route53, Security Groups, IAM roles
+
+Monitoring Tool: Splunk, New Relic, Cloudwatch
+
+CI/CD: Jenkins, Onepipeline (Capital One’s innersourced CICD pipeline)
+
+Databases: RESTful APIs, SQL Databases
+
+Your Responsibilities:
+
+Work as part of a dynamic team throughout the software development life cycle
+
+Develop code to meet story acceptance criteria
+
+Conduct design and code reviews to ensure high-level quality output
+
+Ensure adherence to continuous improvement practices as required to meet quality, and time to market imperatives
+
+Participate in Agile ceremonies, design and brainstorming sessions
+
+Collaborate with Product and Analyst stakeholders to implement enhancements or new applications
+
+Technical Documentation for analysis, test results and release.
+
+Learn and build AWS cloud infrastructure on the job
+
+Have fun with the team
+
+Preferred Qualifications:
+
+Experience with backend technologies such as Java, Python, AWS Lambda, S3.
+
+Experience with version control technology i.e. Git
+
+Experience with Jenkins CI/CD, microservices, API design / integration

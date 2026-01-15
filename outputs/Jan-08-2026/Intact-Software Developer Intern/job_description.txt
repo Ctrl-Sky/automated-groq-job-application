@@ -1,0 +1,60 @@
+Salary for the candidate will be determined taking into consideration a number of factors including: experience, skills, qualifications, anticipated contribution to role, internal equity, etc. The salary range presented below is based on a 35-hour workweek and would represent a majority of different candidate profiles. However, we encourage candidates who may fall outside of this range to apply as well.
+
+Salary range (but not limited to):
+
+61,500 - 76,900
+
+About the role
+
+Launching your tech career at Intact means joining a diverse team of more than 3,000 Digital, Data and Tech experts working at the intersection of what exists and what’s possible. Here, you’ll be supported by forward-thinking leaders who celebrate shared success, and you’ll help push the industry forward with digital solutions that go beyond insurance to offer everyday value to millions of people. You’ll grow personally and professionally with access to cutting-edge technology-driven learning platforms and make lasting connections near and far. Most importantly, you’ll discover how exciting the “real world” can be.
+Here, your career will take off
+
+Are you passionate about software development? Is your sweet spot at the forefront of digital innovation? Are you an advocate for great code and great design? We’ve got the perfect opportunity for you. We are seeking multiple talented Software Developer interns, to join our dynamic and growing teams. Depending on your team assignment, here’s what you’ll do here:
+
+Developer Platform
+
+Work in the development teams building new features for our products Harbour (Internal Developer Platform), Mentor (Opinionated CICD Pipeline), IT-Health (Software Metrics and Analytics) and Agora (Knowledge Base and Community Engagement Platform).
+
+Support the team in triaging and fixing production issues
+
+Work with a Product Centric Team for developing, testing, and getting feedback.
+
+Freedom to bring your own ideas and solutions and following best practices in a small agile and fun team
+
+Technical Skills required: Java, GitHub
+
+Nice to have: Spring Boot, Experience Building Rest Services, API Scraping, MongoDB, AWS
+
+
+Software Engineering Claims
+
+Build impactful claims features as a key member of an agile squad, from grooming and design through delivery.
+
+Elevate the claims agent experience by refining and enhancing existing software—reducing friction, improving performance, and shipping improvements.
+
+Work with senior developers to deliver quality products end-to-end by triaging defects, prioritizing fixes, and contributing to reliable, scalable production support
+
+Learn from senior developers on software lifecycle management best practices, growing your craft across design, development, testing, deployment, and observability.
+
+Technical Skills Required: Java development
+
+Nice to Have: Agile/scrum, microservices, guidewire or P&C insurance experience
+
+
+What you bring to the table:
+
+Currently pursuing a Bachelor's or Master’s degree in a field related to software development, computer science, or anything relevant;
+
+Available to work with us full-time, 35 hours per week, for the Summer 2026 Term (May to August)
+
+Must be an active student during your internship and/or returning to school in next Fall 2026 following your internship
+
+Understand the software development lifecycle and be curious about continuous delivery pipelines and testing.
+
+Strong analytical abilities and problem-solving skills.
+
+Adaptability, curiosity, and commitment to continuous learning.
+
+Excellent communication skills with a passion for technology.
+
+Self-reliant with a strong sense of responsibility.

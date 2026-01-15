@@ -1,0 +1,52 @@
+Our student and new graduate programs offer a chance to explore Sun Life from the inside. You’ll make a difference in the lives of our customers and communities, while building the skills and experience that allow you to grow in a meaningful and rewarding way.
+
+Job Description:
+
+Our student and new graduate programs offer a chance to explore Sun Life from the inside. You’ll make a difference in the lives of our customers and communities, while building the skills and experience that allow you to grow in a meaningful and rewarding way.
+
+As a Student DevOps Engineer on our Data and Analytics, Data Product Enablement platform, you'll apply and expand your skills in software engineering and automation while partnering with data and analytics teams to deliver technology solutions that make an impact. You'll collaborate with talented, supportive colleagues in a dynamic environment that values diverse perspectives and continuous learning."
+
+
+As a condition of the role, the successful candidate must obtain a Government of Canada Reliability Status security clearance through Sun Life.
+
+What will you do?
+
+Implement GitOps workflows and Infrastructure as Code (IaC) for Cloud Platforms including AWS and Snowflake
+Build and maintain CI/CD pipelines using containerization technologies (Docker, Kubernetes) for data science and analytics workloads
+Design, develop, test, and deploy containerized workloads on AWS services including SageMaker, ECS/EKS, AWS Glue and Lambda
+Develop automation scripts and tools using Python to improve deployment reliability and operational efficiency
+Manage and optimize Cloud infrastructure, including role-based access control, resource monitoring, and cost optimization
+Develop infrastructure automation using Terraform, CloudFormation, or similar IaC tools for AWS and Snowflake resources
+Create and maintain technical documentation for deployment processes, runbooks, and system architectures
+Drive continuous improvement through DevSecOps best practices, automation, process optimization and security
+Drive process improvement through analysis and best practices
+What do you need to succeed?
+
+Pursuing a Post-Secondary degree in Computer Science, Engineering, Mathematics, Statistics, Economics, or another related field
+Strong interest in quantitative analysis, problem-solving, and data manipulation, with coursework or project experience demonstrating these skills 
+Enthusiasm for software engineering with foundational knowledge in Python and scripting languages (e.g., Bash, PowerShell) - whether from coursework, personal projects, or internships 
+Conceptual understanding of the following topics:
+Machine Learning (ML) techniques, and comprehension of existing algorithms and ML lifecycle components
+Statistics, linear algebra, probability theory
+Computer science fundamentals
+Database theory, ETL/data pipeline design and data modelling
+Excellent verbal and written communication skills
+Comfortable working both independently and collaboratively in a team setting 
+Strong organizational and time management skills
+Working knowledge of MS Office Suite of products (Word, Excel, PowerPoint)
+Preferred Skills
+
+Familiarity with or curiosity about Cloud platforms such as AWS or Snowflake
+Exposure to agile methodologies and team practices (through coursework, co-ops, or personal projects)
+Interest in or exposure to Infrastructure as Code concepts
+Interest in or awareness of DevSecOps practices
+Knowledge of software development lifecycle and test-driven development principles
+Experience with relational databases and data modeling techniques
+What’s in it for you?
+
+At Sun Life, you will be joining a purpose driven organization focused on helping Canadian’s achieve lifetime financial security and live healthier lives.
+As a student, you’ll make a real impact by contributing to meaningful work, gaining valuable experience and actively working towards your team’s goals.
+You’ll join our unique student culture, designed to help you grow both personally and professionally beyond your role.
+We offer professional development workshops, student awards, socials and many more exciting opportunities.
+We are honored to be recognized as Canada’s Best Employers for Recent Graduates and Canada's Best Workplaces by Great Place to Work in 2025.
+Your student journey is just the beginning and we're proud to help many who choose Sun Life to transition into permanent roles after graduation.

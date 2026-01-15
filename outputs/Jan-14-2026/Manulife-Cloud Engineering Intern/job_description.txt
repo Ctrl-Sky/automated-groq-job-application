@@ -1,0 +1,39 @@
+Join our team as a Cloud Engineering Intern and gain hands-on experience working with cutting-edge cloud technologies. You’ll contribute to automation initiatives, infrastructure provisioning, and configuration management while collaborating with a global team.
+
+Position Responsibilities:
+
+Work with cloud platform technologies such as Azure and AWS.
+
+Provision cloud infrastructure using Terraform and manage configurations with Ansible.
+
+Develop automation solutions to enhance or replace manual tasks using Ansible or Terraform.
+
+Present completed automation work in a 10-minute demo to the team and leadership.
+
+Collaborate with team members to support cloud operations and improve efficiency.
+
+Required Qualifications:
+
+Currently pursuing an undergraduate degree in Computer Science, Engineering, or a related field
+
+Understanding of cloud technologies.
+
+Proficiency in at least one scripting language (e.g., Python, Bash).
+
+Strong analytical skills.
+
+Knowledge of operating system management.
+
+Preferred Qualifications:
+
+Experience with Ansible and Terraform (nice to have).
+
+Exceptional verbal and written communication skills.
+
+When you join our team:
+
+We’ll empower you to learn and grow the career you want.
+
+We’ll recognize and support you in a flexible environment where well-being and inclusion are more than just words.
+
+As part of our global team, we’ll support you in shaping the future you want to see.

@@ -1,0 +1,72 @@
+At Finastra, we are a dynamic global provider of open finance software solutions, dedicated to expanding access to financial services. Our innovative applications span Lending, Payments, Treasury and Capital Markets, and Universal Banking. Proudly serving over 8,000 customers, including 45 of the world's top 50 banks, we aim to boost financial inclusion for all. Join us and be part of a vibrant company that embraces diverse perspectives and is committed to doing well by doing good.
+
+Position Summary
+
+We are seeking a curious and motivated Automation QA Intern to join our QA Engineering team for a co-op term. This role offers hands-on experience in writing and testing automation scripts for real-world software projects. You’ll work closely with QA engineers and developers in a collaborative, DevOps-driven environment that values learning, mentorship, and quality.
+
+This internship is designed to support students who are building foundational skills in automation and quality assurance, offering mentorship and exposure to modern QA practices.
+
+Key Responsibilities
+
+Develop and maintain basic automated test scripts for web and API testing using tools such as Selenium, Playwright, or Postman, with guidance from QA engineers.
+Execute test scripts to validate new features and bug fixes across multiple environments.
+Log and track defects found during testing and collaborate with QA engineers and developers to troubleshoot and resolve issues.
+Review project requirements and test cases to understand testing scope and identify automation opportunities.
+Assist in updating and organizing test documentation, including test cases, test data, and test results.
+Learn and apply version control practices using Git to manage and update test scripts.
+Participate in team meetings and various ceremonies to gain exposure to Project and DevOps workflows.
+Support QA engineers in integrating automated tests into CI/CD pipelines (e.g., GitHub Actions, Jenkins).
+Actively seek feedback, ask questions, and contribute to a culture of continuous learning and quality improvement.
+
+Required Qualifications
+
+Currently enrolled in a Computer Science, Software Engineering, or related undergraduate program.
+Basic understanding of programming concepts (e.g., C#, JavaScript, Python, or Java), gained through coursework or personal projects.
+Hands-on experience writing simple scripts or test cases—through labs, assignments, or personal exploration.
+Ability to write, read, and debug simple code with support from the team.
+Familiarity with object-oriented programming principles and basic understanding of test frameworks or unit testing.
+Interest in software testing, automation, and quality assurance.
+Strong attention to detail and willingness to learn.
+Effective communication and collaboration skills.
+
+Preferred Qualifications
+
+Exposure to automation tools or frameworks (e.g., Selenium, Playwright).
+Familiarity with Git or other version control systems.
+
+Learning Outcomes
+
+Gain practical experience in automation testing and QA processes.
+Work with enterprise-level tools and CI/CD practices.
+Receive mentorship from experienced QA professionals.
+Contribute to meaningful projects that impact product quality.
+
+What will you contribute? Manage all incoming and outgoing mail and packages for the unit, ensuring timely and accurate distribution. This role supports operational efficiency and provides excellent service to internal departments while maintaining confidentiality and compliance.
+
+Responsibilities & Deliverables: Sort, process, and distribute incoming mail and packages daily.
+
+Prepare and send outgoing mail, including courier shipments.
+Maintain accurate logs for incoming and outgoing mail.
+Monitor and replenish mailroom supplies.
+Ensure confidentiality and security of sensitive documents.
+Ensure all critical documents (court orders, motions, affidavit, urgent requests) are properly indexed for transfer to the client under strict timelines.
+Assist employees with mail-related inquiries and special requests.
+Tracking & Documentation
+Maintain logs for incoming and outgoing mail.
+Required Experience
+
+Education: High school diploma or equivalent.
+Experience: 1–2 years in mailroom or administrative support preferred.
+Skills: Strong organizational and time management skills. Basic computer proficiency (MS Office).
+KPIs & Performance Metrics
+Mail Processing Accuracy: 99% error-free sorting and batching
+Timeliness: All incoming mail recorded in the batching system on the same day; outgoing mail dispatched same day.
+Customer Satisfaction: Positive feedback from internal departments.
+Compliance: Zero breaches of confidentiality or security protocols.
+Document Retrieval SLA: 100% of litigation-related document requests fulfilled within agreed timelines (e.g., 24 -48 hours).
+Inventory Management: Maintain adequate supply levels with no stockouts.
+As part of our hiring process, we may use artificial intelligence (AI) technology to help screen and shortlist applications. All final hiring decisions are made by our recruitment team.
+
+This position is for an existing vacancy within our organization.
+
+Compensation: $20.35/hr

@@ -1,0 +1,56 @@
+Position Start Date:	05/01/2026
+Position End Date:	08/31/2026
+Term Posted:	2026 - Spring
+Position Type:	4-month
+Position Title:	Data Science - ML for materials discovery and process optimization
+Position Description:	
+The National Research Council (NRC) is the Government of Canada's largest research organization supporting industrial innovation, the advancement of knowledge and technology development, and fulfilling government mandates.
+
+The Clean Energy Innovation Research Centre of the NRC creates green and sustainable technologies for clean energy, resource extraction and environmental protection, essential to strengthen and support Canada's future clean economy.
+
+This position has a direct impact on our mission to develop more efficient and sustainable pathways to discover new battery materials. The co-op student will implement advanced AI models to support both the discovery and optimization processes, contributing to the development of a functional decision-making system that addresses real industrial challenges. The co-op student will collaborate with engineers and scientists to develop modular, object-oriented code, train predictive models, and evaluate their performance within realistic discovery and optimization workflows.
+
+The co-op student will have a direct and measurable impact on our mission through data-driven intelligence that accelerates innovation, enhances discovery efficiency, automates decision making, and advances next-generation materials technologies.
+
+This is an opportunity to apply machine learning to real engineering and scientific problems, gain hands-on experience with cutting-edge optimization and control techniques, expand knowledge of advanced ML models, and directly contribute to building a smarter, more sustainable discovery platform for battery materials.
+
+Position Requirements:	
+Duties:
+
+Develop clean, modular, and well-documented Python code using object-oriented programming principles to support surrogate modeling and control system components.
+Implement and experiment with advanced machine learning and optimization algorithms, including Gaussian Processes, Bayesian Optimization, and/or Reinforcement Learning.
+Extract, process, and clean data from internal and external databases, then build, train, and evaluate surrogate models to approximate system dynamics-ensuring accuracy, robustness, and scalability for integration into control frameworks.
+Design and run simulation experiments to evaluate control strategies, analyze model performance, and contribute to model improvement through iterative testing and refinement.
+Collaborate closely with engineers and scientists to understand problem statements, identify modeling challenges, and translate insights into computational solutions.
+Skills/Knowledge:
+
+Strong programming skills in Python, including experience with object-oriented programming and clean modular code design.
+Functional knowledge of machine learning concepts including model training, evaluation, and data preprocessing.
+Experience with scientific computing libraries such as NumPy, Pandas, and matplotlib.
+Familiarity with one or more ML frameworks such as scikit-learn, PyTorch, BoTorch
+Strong problem-solving abilities and willingness to learn complex modeling or control concepts.
+Ability to communicate technical ideas clearly and work collaboratively with multidisciplinary team.
+Nice to have basic understanding of Gaussian Processes, Bayesian Optimization, Reinforcement Learning algorithms, Version control tools (Git) and process engineering.
+Conditions of Coop Work Program:
+
+Students must be enrolled in a coop program. Graduate students and graduates will not be considered under this program.
+Linguistic Profile: Reading, Writing and Oral Interaction in English.
+Students must possess a minimum of a B average and must submit an unofficial transcript at time of application.
+Open to Canadian Citizens or Permanent Residents of Canada. Additionally, foreign national students who meet the eligibility requirements, are studying in a recognized and eligible Canadian educational institution and possess a valid Co-op Work Permit may also apply.
+For more information and requirements to work as a coop student or intern, please refer to the website:
+
+https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/intern.html.
+
+Please include citizenship information in your application.
+Must obtain and retain a reliability security clearance.
+
+
+At NRC, we know diversity enables excellence in research and innovation. We are committed to a diverse and representative workforce, an open and inclusive work environment, and contributing to a more inclusive Canadian innovation system.
+
+Priority will be given to the following designated employment equity groups:
+
+Women and Persons with Disabilities.
+
+NRC welcomes all qualified applicants and encourages candidates to self-declare as members of the following designated employment equity groups: women, visible minorities, Aboriginal peoples and persons with disabilities.
+
+Please advise of any accommodation measures required to enable you to be assessed in a fair and equitable manner. They are available to all candidates for further assessment. Related information received will be addressed confidentially.

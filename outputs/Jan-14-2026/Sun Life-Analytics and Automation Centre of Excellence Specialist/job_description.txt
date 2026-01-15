@@ -1,0 +1,79 @@
+Our student and new graduate programs offer a chance to explore Sun Life from the inside. You’ll make a difference in the lives of our customers and communities, while building the skills and experience that allow you to grow in a meaningful and rewarding way.
+
+Job Description:
+
+Analytics and Automation Centre of Excellence is a focused Network Services group responsible in advancing Network Services’ capabilities in automation, orchestration, data analytics, tooling, and all aspects of functionality integrations within SLF ecosystem of tools and their capabilities in support of and in accordance to learnings we have had thus far in our Digital Enterprise journey. This role reports and operates under the general direction of the Director, Analytics and Automation Centre of Excellence to increase efficiency, and has primary responsibility for tooling, analytics, and automation design/delivery/capability management for the network ecosystem.
+
+Main Accountabilities:
+
+ Assist in advancing the enabling technologies for Automation, Data & Analytics, DevOps, API, and Digital Assets, within Network Services’ and business partners for on-premises or in-cloud services and technologies.
+
+Help Develop and deploy automation and analytical solutions, data extraction tools, visualizations, dashboards, machine learning models, and promote analytics throughout DBTS.
+
+Participate and collaborate with AACoE peers and ENS stakeholders to, improve processes, increase efficiency by delivering analytics and automation solutions that are effective and secure.
+
+Perform analysis and communicate reports gained from data, transforming them into insights of actionable solutions, helping the stakeholders to make educated business decisions.
+
+ 
+
+Advanced problem solving required of this position in order to mentor technicians and sharpen their problem solving skills. Expected problem solving capabilities include attributes such as:
+
+Problem strategy development
+
+Advanced problem management techniques (efficiently using all available resource, tracking and reporting etc)
+
+Evaluation/feedback loop for problem management process improvement.
+
+ 
+
+Typical problems solved at this level would include problems escalated from the technicians for failed end user hardware, local user software errors, single user virus incident remediation. Those that the team leader doe not have the skills to solve would be escalated to OSS Manager then Engineering.
+
+ 
+
+Education and Experience
+
+Information Technology/Computer Science or equivalent (Bachelor of Science degree an advantage)
+
+Progressive network and information technology, data extraction, data visualization and analysis.
+
+Practical and hands-on experience in coding using one or more programming languages in Python, R, C++, Java, Perl
+
+Knowledge in Network Programmability and integration with YANG, YAML, XML, JSON, NETCONF, RESTCONF
+
+This opportunity is available to students with a August 2026 or later graduation date
+
+ 
+
+Competencies:
+
+Thrives in an Agile and fast-paced environment, with the ability to stay calm in high-risk, high-pressure situations.
+
+Eperience in developing and maintaining comprehensive network technical documentation.
+
+Programming, Coding, API (RESTFul/SOAP), Automation experience (Nice to have).
+
+Familiarity with DevOps tools and monitoring systems
+
+ 
+
+Communications
+
+Excellent written and verbal communication skills.
+
+Strong interpersonal skills and ability to work well with other teams, remaining professional, positive and patient always.
+
+Prepares and presents service level updates and status reports on Projects, Network Statistics, Budgets, etc.
+
+ 
+
+What is in it for you?
+
+At Sun Life, you will be joining a purpose driven organization focused on helping Canadian’s achieve lifetime financial security and live healthier lives. 
+
+As a student, you’ll make a real impact by contributing to meaningful work, gaining valuable experience and actively working towards your team’s goals.
+
+You’ll join our unique student culture, designed to help you grow both personally and professionally beyond your role. We offer professional development workshops, student awards, socials and many more exciting opportunities. 
+
+We are honored to be recognized as Canada’s Best Employers for Recent Graduates and Canada's Best Workplaces by Great Place to Work in 2025.
+
+Your student journey is just the beginning and we're proud to help many who choose Sun Life to transition into permanent roles after graduation.

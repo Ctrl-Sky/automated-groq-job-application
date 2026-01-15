@@ -1,0 +1,77 @@
+We are looking for a motivated and detail-oriented Delivery Analytics Co-op to join our service delivery team. In this role, you will analyze operational data across ITSM functions—Incidents, Problems, Changes, Service Requests, and Timesheets—to uncover patterns, trends, and actionable insights. Your insights will help improve service quality, reduce operational friction, and support continuous improvement initiatives across multiple workstreams.
+
+This is an excellent opportunity for an analytical thinker who enjoys solving real-world service management challenges through data.
+
+Start Date: May 2026
+
+Application Deadline: January 30 2026
+
+Perks of Being a CGI Co-op:
+
+ Participate in monthly socials to meet co-ops across the country.
+ Access professional development workshops hosted by domain experts on topics ranging from how to be a top consultant, how to apply the agile methodology, data & analytics and more!
+
+To learn more about CGI and hear from our Co-ops and New Grads, visit www.cgi.com/startmycareer
+
+Your future duties and responsibilities
+
+Operational Data Analysis
+
+ Analyze Incident, Problem, Change, and Service Request data to identify trends, recurring issues, potential root causes, and improvement opportunities.
+ Review timesheet and effort data to validate accuracy, track capacity, and identify areas to optimize resource utilization.
+ Create dashboards, visualizations, and summary reports to communicate findings clearly.
+
+Service Delivery Improvement
+
+ Recommend process and operational improvements backed by quantitative and qualitative insights.
+ Monitor KPIs/SLAs and support the development of performance baselines and forecasts.
+ Support continuous improvement initiatives related to ITSM, AMS, and governance processes.
+
+Stakeholder Support
+
+ Provide analytical support to delivery leaders, Service Managers, and project teams.
+ Translate complex data into simple, business-ready insights and recommendations.
+ Participate in review meetings to present analysis and track ongoing actions.
+
+Tools & Technologies
+
+(You can tailor these to your environment)
+
+ Familiarity with ITSM platforms (e.g., ServiceNow, JIRA, Remedy).
+ Experience with Excel/Sheets, BI tools (Power BI / Tableau), or basic SQL/Python for analysis.
+ Exposure to ticketing, timesheet, or capacity planning systems is an asset.
+
+Qualifications
+
+Required qualifications to be successful in this role
+
+ Currently enrolled in a post-secondary program in Data Analytics, Computer Science, Business Technology Management, Information Systems, or a related field.
+ Strong analytical and problem-solving skills with an ability to draw insights from complex datasets.
+ Comfortable working with large data exports and conducting structured analysis.
+ Strong communication skills, with the ability to present insights to technical and non-technical audiences.
+ Curious, detail-oriented, and excited to explore how data can improve service delivery.
+
+What You Will Gain
+
+ Hands-on experience with enterprise ITSM data and real operational delivery environments.
+ Exposure to service delivery governance, incident/problem/change processes, and performance management.
+ Opportunity to influence how services are measured, tracked, and improved.
+ Experience collaborating within a global delivery organization.
+
+CGI is providing a reasonable estimate of the pay range for this role. The determination of this range includes factors such as skill set level, geographic market, experience and training, and licenses and certifications. Compensation decisions depend on the facts and circumstances of each case. A reasonable estimate of the current range is $18-32/hour. This role is an existing vacancy
+
+Together, as owners, let’s turn meaningful insights into action.
+
+Life at CGI is rooted in ownership, teamwork, respect and belonging. Here, you’ll reach your full potential because…
+
+You are invited to be an owner from day 1 as we work together to bring our Dream to life. That’s why we call ourselves CGI Partners rather than employees. We benefit from our collective success and actively shape our company’s strategy and direction.
+
+Your work creates value. You’ll develop innovative solutions and build relationships with teammates and clients while accessing global capabilities to scale your ideas, embrace new opportunities, and benefit from expansive industry and technology expertise.
+
+You’ll shape your career by joining a company built to grow and last. You’ll be supported by leaders who care about your health and well-being and provide you with opportunities to deepen your skills and broaden your horizons.
+
+At CGI, we value the strength that diversity brings and are committed to fostering a workplace where everyone belongs. We collaborate with our clients to build more inclusive communities and empower all CGI partners to thrive. As an equal-opportunity employer, being able to perform your best during the recruitment process is important to us. If you require an accommodation, please inform your recruiter.
+
+To learn more about accessibility at CGI, contact us via email. Please note that this email is strictly for accessibility requests and cannot be used for application status inquiries.
+
+Come join our team—one of the largest IT and business consulting services firms in the world.

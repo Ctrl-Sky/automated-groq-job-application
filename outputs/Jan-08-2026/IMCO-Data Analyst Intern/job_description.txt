@@ -1,0 +1,39 @@
+At IMCO, our talent is among the best! IMCO offers a uniquely stimulating and rewarding environment where you can help build and drive organizational transformation, all while seeking to challenge yourself, learn, and grow your career.
+
+Our culture is built on collaboration and passion, with a shared commitment to delivering lasting value to the clients we serve. Located in downtown Toronto, our vision is to be the partner of choice for Ontario’s public sector funds and to build a high-performing, value-driven asset management firm.
+
+This job posting is for an existing vacancy. If you are ready to deliver best-in-class service and join a collaborative, motivated and fun team of professionals, IMCO offers the opportunity to do impactful work and broaden your expertise.
+
+If you’re looking to use your expertise to drive strategic outcomes, we’d love to hear from you.
+
+‎
+
+We are looking for a highly motivated student or recent graduate to join our team!
+
+Our Intern Program is designed to support the development of students and recent graduates for future positions by offering one-on-one mentoring, peer and experiential learning, internal training programs, and much more. We are currently accepting applications for undergraduate and master’s level students or recent graduates seeking the opportunity to work in the investment management space.
+
+The position contributes to building enterprise data on world-class technology, working with investment teams.
+
+Responsibilities Include: 
+
+Contribute to the implementation, build and maintenance of our investment solutions on a modern data technology platform with Databricks and Snowflake on the Azure cloud
+Build analytics and datasets for downstream consumption by systems and reports
+Automation of processes to improve operational efficiencies
+Create visualizations and insights with Power BI dashboards
+Effectively complete projects and other duties assigned in a collaborative environment
+Work closely with our business systems analyst to gather requirements for new and existing solutions.
+Perform data analysis on business financial datasets
+Assess opportunities to document best practices and processes
+Assist on projects and provide production support as needed.
+
+What You Need to Succeed:
+
+Post-secondary/Undergraduate program/combination of experience that demonstrates a strong background in computer science or engineering, or equivalent study in data science
+Diligent, detail-oriented, and accurate when preparing deliverables
+Ability to work in a fast-paced, demanding environment and manage multiple priorities
+Excellent analytical, interpersonal and communication skills with strong problem-solving ability
+A willingness to learn new things, a self-starter and able to work independently
+Strong analytical, decision-making, and problem-solving skills are required
+Proficiency with Python coding 
+Nice to have: Familiar with ETL processing and database technologies (SQL, Databricks)
+Nice to have: GenAI and ML with understanding in model training, monitoring and evaluation
