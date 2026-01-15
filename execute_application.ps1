@@ -23,6 +23,8 @@ python cleanup_scripts\save_to_csv.py $COMPANY_NAME $JOB_TITLE
 
 Write-Host "Application successfully executed"
 
+$ErrorActionPreference = "Stop"
+
 # Break down
 deactivate
 git add .
