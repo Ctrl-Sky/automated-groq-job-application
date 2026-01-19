@@ -1,63 +1,67 @@
 About the job
-About HireShire
+About Hireshire
 
 
 
-HireShire is a forward-thinking talent solutions and staffing platform, connecting global enterprises with top-tier professionals. As part of our expansion, we are launching a DevOps Engineering Internship for technically skilled individuals passionate about automating systems, optimizing cloud infrastructure, and enabling agile software delivery at scale.
+Hireshire is a modern staffing and talent acquisition platform helping leading organizations find exceptional talent. We’re now expanding into the AI/ML and Cloud Engineering space and are looking for curious, driven, and analytical minds.
 
 
 Role Overview
 
 
 
-As a DevOps Engineering Intern, you will collaborate with our engineering and infrastructure teams to design, implement, and optimize CI/CD pipelines, cloud deployments, and monitoring solutions. This internship is ideal for candidates eager to gain hands-on experience with real-world DevOps tools and practices used by top tech organizations.
+As a DevOps Engineering Intern at Hireshire, you will collaborate with our engineering and infrastructure teams to learn and apply best practices in automating software development workflows, cloud infrastructure provisioning, and system monitoring. This is a hands-on role designed for enthusiastic learners who want to build foundational skills in DevOps technologies and automation no prior experience required.
 
 
 Key Responsibilities
 
 
 
-Assist in setting up and managing CI/CD pipelines using tools like Jenkins, GitHub Actions, or GitLab CI.
-Work on containerization and orchestration using Docker and Kubernetes.
-Automate cloud infrastructure provisioning using Infrastructure-as-Code (IaC) tools such as Terraform or CloudFormation.
-Monitor system performance, availability, and security using tools like Prometheus, Grafana, and the ELK stack.
-Collaborate with developers to troubleshoot build, deployment, and runtime issues in staging and production environments.
-Support cloud resource optimization on AWS, Azure, or GCP for cost and performance efficiency.
-Implement scripting solutions in Python, Bash, or similar for automation tasks.
-Maintain configuration management using Ansible, Chef, or similar tools.
+Learn to set up and manage CI/CD pipelines using tools such as Jenkins, GitHub Actions, or GitLab CI.
+Assist in containerizing applications using Docker and deploying them in Kubernetes environments.
+Support infrastructure automation using Infrastructure-as-Code (IaC) tools such as Terraform or CloudFormation.
+Monitor system health, performance, and uptime using tools like Prometheus, Grafana, and ELK Stack.
+Write automation scripts in Python or Bash to streamline repetitive tasks.
+Collaborate with developers to help troubleshoot basic deployment and build issues.
+Assist in configuring cloud services (AWS/Azure/GCP) for efficient resource usage and scaling.
+Understand the basics of configuration management using tools like Ansible or Chef.
 
 
 Requirements
 
 
 
-Currently pursuing or recently graduated in Computer Science, Information Technology, or related fields.
-Familiarity with version control systems (especially Git) and CI/CD concepts.
-Understanding of basic cloud computing concepts (AWS, Azure, or GCP).
-Knowledge of Linux/Unix systems and shell scripting.
-Problem-solving attitude with attention to detail and eagerness to learn fast.
+Currently pursuing (or recently completed) B.Tech/BE/M.Tech/MSc in Computer Science, IT, Information Systems, or related fields.
+Basic understanding of operating systems (Linux preferred).
+Familiarity with version control systems such as Git.
+Passion to learn DevOps practices, cloud infrastructure, and automation from scratch.
+Problem-solving attitude, strong curiosity, and attention to detail.
+Good written and verbal communication skills.
 
 
-Nice to Have
+Nice to Have (Bonus)
 
 
 
-Familiarity with Docker and Kubernetes.
-Exposure to Infrastructure-as-Code tools like Terraform or Ansible.
-Knowledge of logging and monitoring tools (Grafana, Prometheus, ELK).
-Understanding of software development lifecycle (SDLC) and agile methodologies.
-Familiarity with networking concepts (DNS, firewalls, load balancing).
+Exposure to Python or Bash scripting.
+Knowledge of cloud platforms (AWS, Azure, GCP).
+Basic understanding of containerization (Docker).
+Understanding of CI/CD concepts or Infrastructure-as-Code principles.
 
 
 What You’ll Gain
 
-Real-world experience managing scalable, cloud-native DevOps environments.
-Mentorship from senior DevOps engineers and architects.
-Exposure to DevSecOps practices and modern automation frameworks.
-Internship certificate & recommendation letter upon successful completion.
-Possibility of Pre-Placement Offer (PPO) at HireShire or partner firms.
+
+
+Practical exposure to modern DevOps workflows and cloud infrastructure used by leading tech companies.
+Real-world experience managing CI/CD pipelines, automating deployments, and monitoring system performance.
+1:1 mentorship from experienced DevOps engineers.
+Internship Certificate & Letter of Recommendation upon successful completion.
+Opportunity for a Pre-Placement Offer (PPO) at Hireshire or client companies.
 
 
 Stipend
 
-The internship offers a minimum stipend of 20USD/hour, with potential for a higher rate based on performance during assessments and interviews.
+
+
+Minimum stipend starts at £16/hour, with the possibility of a higher rate based on performance in assessments and interviews.
