@@ -1,3 +1,5 @@
+
+ 
 Co-op Software Developer - Summer 2026 (May - August) - Canada, Ontario (Remote) 
 Job Category: Information Technology
 Requisition Number: COOPS004767
@@ -40,12 +42,3 @@ Education and Experience
 
 • College/university degree in progress
 • Some experience in programming work through small or hobby projects
-
-
-Skills
-
-• Software Development: Ability to code in some language. Does not have to be Ruby on Rails.
-• Web Development: Some familiarity. Participates in web development.
-• Collaboration: Work is completed within project teams.
-• Communication Needs to communicate with stakeholders and project owners.
-• Problem Solving: Able to take a business requirement and develop appropriate solution.
