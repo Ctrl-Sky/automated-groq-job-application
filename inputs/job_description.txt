@@ -1,45 +1,86 @@
-What You'll Do:
-The goal of Criteo’s internship program is to provide valuable real world work experience to the engineers of tomorrow while building a relationship that often leads to future employment. Many of our best engineers were hired after spending a summer with us. With that goal in mind, our internship program is structured so that each intern is assigned to one of our product engineering teams. While working as part of that team, you will work hand in hand with our talented engineers, solving problems and creating new features that will be deployed to tens of millions of users worldwide. At Criteo, you won’t sit in the intern section and work on data entry or QA projects.
+Software Engineering / Computer Science Intern – Warehouse Operations & Analytics
+Apply
+remote type
+In-person
+locations
+Toronto, Ontario
+time type
+Full time
+posted on
+Posted Yesterday
+job requisition id
+JR101509
+By joining Bio-Techne, you’ll join a company with a powerful and positive purpose of enabling cutting-edge research in Life Sciences and Clinical Diagnostics. Bio-Techne, and all of its brands, provides tools for researchers to further treat and prevent disease worldwide. 
 
-Who You Are:
-A Current Student at The University of Toronto, The University of Waterloo or a surrounding college near the downtown Toronto area (must be available to be onsite to qualify for the program)
+Pay Range:
 
-Work on real and impactful projects that are used by leading retailers and brands
+$17.50 - $22.00
+All internship positions are designed to give college students an opportunity to apply techniques learned in an academic setting while obtaining new skills. This is a paid internship offering full-time hours during the summer months. All interns are required to conclude the program by giving a formal presentation on their work. Please note that no relocation assistance or sponsorship is provided for the internship program at this time.
 
-Gain experience by working on cutting edge and highly scalable systems
+This job posting is for an existing vacancy. 
 
-Hone your skills as a full stack, data or UX focused engineer.
+Pay Rate: $20 CAD per hour
 
-Work with and learn from talented engineers, with a diverse set of backgrounds
+About the Role:
 
-You’ll be placed on one of our technical team based on your interest and skill set.
+We are seeking a driven and innovative Software Engineering or Computer Science Intern to join our team and contribute to optimizing consumables cartridge manufacturing operations. This role will focus on developing software tools to streamline processes such as warehouse fulfillment and replenishment, scrap reporting and processes automation. The intern will also support performing data analytics and mining to gain insightful and presenting meaningful knowledge in dashboards with tools such as Power BI. The successful candidate will work closely with operations, engineering, quality, and IT teams to improve efficiency and data-driven decision-making.
 
-Pursuing a degree (Bachelors or Masters) in Computer Science or a related field
+Key Responsibilities:
 
-Must be currently enrolled in a full-time degree program and returning to the program after intern completion
+Collaborate with warehouse and quality teams to understand current scrap reporting and warehouse workflow processes.
 
-Experience in C++, Java, Python, Scala, or C#
+Design and develop software tools/applications to automate manual and repetitive tasks within consumables cartridge manufacturing.
 
-A strong sense of ownership and a dislike for passing the buck
+Extract, clean, and analyze operational data from multiple sources to identify bottlenecks and areas for improvement.
 
-A problem solver, a fixer, and a creative technologist. We believe coding is a talent and a passion, not just a skill.
+Create interactive and user-friendly dashboards and reports using Power BI to visualize warehouse KPIs, scrap trends, and operational metrics.
 
-A strong communicator and a team player who can work efficiently with others
+Support automation initiatives, including scripting and workflow optimization, to enhance overall operational efficiency.
 
-We acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!​
+Assist in implementing data mining techniques to uncover patterns and insights to support continuous improvement.
 
-Who We Are:
-Criteo is a leader in commerce media, helping brands, agencies, and publishers create meaningful consumer connections through AI-powered advertising solutions. We’re shaping a more open and sustainable digital future for advertising.
+Write well-documented, maintainable code in languages such as Python, SQL, or other relevant technologies.
 
-At Criteo, our culture is as unique as it is diverse. From our offices across the globe or from the comfort of home, our 3,600 Criteos collaborate together to build an open, impactful, and forward-thinking environment.
+Work closely with cross-functional teams, including IT, operations, engineering and quality, to ensure seamless integration of new tools and analytics solutions.
 
-We foster a workplace where everyone is valued, and employment decisions are based solely on skills, qualifications, and business needs—never on non-job-related factors or legally protected characteristics.
+Participate in testing, debugging, and deployment of software tools.
 
-What We Offer:
-🏢 Ways of working – Our hybrid model blends home with in-office experiences, making space for both.
-📈 Grow with us – Learning, mentorship & career development programs.
-💪 Your wellbeing matters – Health benefits, wellness perks & mental health support.
-🤝 A team that cares – Diverse, inclusive, and globally connected.
-💸 Fair pay & perks – Attractive salary, with performance-based rewards and family-friendly policies, plus the potential for equity depending on role and level.
+Qualifications:
 
-Additional benefits may vary depending on the country where you work and the nature of your employment with Criteo.
+Currently enrolled in a degree program in Computer Science, Software Engineering, Data Science, or a related field.
+
+Basic knowledge of programming languages such as Python, JavaScript, or SQL.
+
+Experience or coursework in data mining, data analytics, and visualization.
+
+Familiarity with Power BI or similar BI tools with the ability to build dashboards and reports.
+
+Understanding of automation principles and tools (e.g., scripting, workflow automation) is an asset.
+
+Strong analytical and problem-solving skills with a focus on operational improvement.
+
+Ability to communicate technical information clearly to non-technical stakeholders.
+
+Self-starter with the ability to work independently and collaboratively in a team environment.
+
+Prior exposure to warehouse management systems or manufacturing/industrial operations is a plus but not required.
+
+Why Join Bio-Techne:
+
+We offer competitive insurance benefits including: medical; dental; long-term disability; life and group income protection; and personal accident and travel.
+
+We invest in our employee’s financial futures through a Group Registered Retirement Savings Plan (Group RRSP) and a Tax-Free Savings Account (TFSA) option.
+
+We empower our employees to develop their careers through mentorship, promotional opportunities, training and development, tuition reimbursement, internship programs, and more.
+
+We offer employee resource groups, volunteer paid time off, employee events, and charity drives to build a culture of caring and belonging.
+
+We offer an accrued leave policy with paid holidays, paid time off, and paid parental leave.
+
+We foster a culture of empowerment and innovation, where employees feel valued and encouraged to bring their new ideas to the table.
+
+  
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+To protect the interests of all, Bio-Techne will not accept unsolicited resumes from any source other than a candidate application. Any unsolicited resumes sent to Bio-Techne will be considered Bio-Techne property.
