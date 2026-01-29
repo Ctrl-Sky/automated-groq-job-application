@@ -1,0 +1,103 @@
+JOB POSTING INFORMATION
+Long Term Placement:	No
+Position Start Date:	05/01/2026
+Position End Date:	08/31/2026
+Term Posted:	2026 - Spring
+Position Type:	4-month
+Position Title:	Co-op IT Analyst
+Position Description:	
+Program: GovTechON Co-Op Program
+
+Ministry: Ministry of Public and Business Service Delivery and Procurement (MPBSDP)
+
+Division:
+
+Branch: Land and Resources I&IT Cluster Digital Solutions Branch
+
+Position Title: Co-op IT Analyst
+
+Location: Toronto, Peterborough, Guelph, Sault Ste. Marie, or Sudbury
+
+Number of Positions: 2
+
+Compensation Group: Ontario Public Service Employees Union
+
+Salary: $757.85 - $1,010.46 per week*
+
+Job Code: 17154 - Systems Officer 2
+
+Schedule: 6
+
+Category: Information Technology
+
+Are you a tech?savvy student who enjoys solving problems, organizing complex information, and supporting digital project delivery? If so, the GovTechON Co?op Program offers a great opportunity to gain hands?on experience shaping high?quality products and services that make a real impact for Ontarians
+
+GovTechON is home to professionals who work in partnership with ministries across the Government of Ontario to develop, deploy and maintain technology to deliver enhanced services and business outcomes for Ontarians.
+
+In this role you will:
+
+Develop innovative and practical approaches to delivering high?quality, value?added, and efficient digital products and services that meet client business needs and expectations.
+
+Key responsibilities include:
+
+Project Participation & Support
+
+· Contribute as a member of multi?disciplinary project teams supporting small, medium, and large information?technology programs and projects.
+
+· Support the Delivery Manager and Project Managers throughout the full project lifecycle-from concept and planning through definition and implementation.
+
+Requirements & User Story Development
+
+· Engage with program areas to understand business needs and translate them into clear, well?defined user stories and requirements.
+
+· Manage and maintain user stories, tasks, and issues using tools such as JIRA and Azure DevOps.
+
+Planning & Coordination
+
+· Assist in planning and coordinating project schedules, resource activities, and technical work packages across multiple concurrent or sequential projects.
+
+· Provide support in tracking progress, identifying gaps, and maintaining timelines.
+
+Risk, Issue & Best?Practice Support
+
+· Provide technical support in risk and issue identification, monitoring, and mitigation.
+
+· Contribute to implementing project management and delivery best practices across the team.
+
+Relationship & Stakeholder Management
+
+· Develop, foster, and maintain effective working relationships with clients, vendors, suppliers, and internal teams to support collaborative delivery.
+
+Reporting & Analytics
+
+· Assist in creating dashboards, reports, and visualizations using tools such as Power BI to support project monitoring and decision?making.
+
+Position Requirements:	
+What we are looking for:
+
+General Knowledge:
+
+Server operating systems (Windows, UNIX, Linux) and configurations, storage, network topologies and configurations, operating systems, database technologies, security technologies (e.g. authentication), development tools and programming languages.
+Security and privacy, and how they are related to the infrastructure environment (data centre, network, architecture).
+Systems development standards and best practices.
+Desktop hardware and software components such as Operating Systems, chips, motherboards, bios, memory cards, media, interfaces, printers and other peripherals/accessories.
+Systems analysis tools to capture business needs.
+Knowledge of system development life cycle (SDLC), including planning, requirements, analysis, design, build, testing, implementation and post implementation activities.
+Knowledge of personal computing and n-tier computing environments, including end-user computing software tools.
+Familiarity with architecture principles, frameworks and practice.
+Familiarity with business and information architectures.
+Familiarity with Change Management Principles/Fundamentals
+Familiarity with data centre, network and application architectures.
+Problem solving skills to gather information on client programs, services and business objectives and analyse requirements and provide support to technical staff within the branch.
+Oral and Written Communication Skills:
+
+You can draft correspondence, prepare reports and presentations
+You can present information in a clear, concise, and accurate manner.
+Teamwork Skills:
+
+You can establish and maintain effective working relationships with colleagues and stakeholders at varying levels.
+You can participate and contribute to committees and projects.
+Flexible, adaptable and able to work effectively in a variety of roles in a team.
+Computer Skills:
+
+· Microsoft Office applications such as Word, Excel, PowerPoint, Outlook, Visio and SharePoint to develop project documents and presentations.

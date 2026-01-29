@@ -1,0 +1,115 @@
+Intern, Software Developer
+Apply
+locations
+Toronto, ON, CAN
+time type
+Full time
+posted on
+Posted Yesterday
+job requisition id
+25WD92343
+Job Requisition ID #
+
+25WD92343
+Autodesk is a global leader in 3D design, engineering, and entertainment software. The work we do at
+
+Autodesk gets to touch nearly every person on the planet. By creating software tools for making buildings,
+
+machines, and even the latest movie, we get to influence and empower some of the most creative people
+
+in the world to solve problems that matter.
+
+ 
+
+As a Software Developer Intern on the Platform Services and Emerging Technologies (PSET) you’ll have the
+
+opportunity to drive projects, solve unique challenges, while diving deep into our processes and tools
+
+supporting development of robust and highly performant client/server ecosystems.
+
+ 
+
+You’ll get placed into one of our multiple teams that directly impact on the top-line revenue for our
+
+company.
+
+ 
+
+Responsibilities
+
+• Managing your project end-to-end, including designing, developing, testing, releasing, and
+
+monitoring software solutions.
+
+• Partnering with various cross-functional teams to solve critical problems across the PSET and
+
+PDMS organization, while working in a scrum team environment.
+
+• Design and develop a solution supporting a cloud application in a microservice architecture
+
+• Have technical ownership of your code, and ensure code quality by testing (unit, integration, and
+
+performance tests).
+
+• Document processes, designs, test results, and analysis.
+
+ 
+
+Minimum Qualifications
+
+• Must be currently enrolled in a full-time, degree-seeking program with an expected graduation date in December 2026 or May 2027.
+
+• Strong Computer Science (CS) fundamentals, with a proficiency in Java to develop components and services.
+
+• In-depth understanding of software engineering concepts and SDLC
+
+methodologies.
+
+• Experience with programming languages such as Java, Python, Go, and Groovy.
+
+• Self-starter with a quick learning curve.
+
+• Team-oriented with strong written and verbal communication skills.
+
+ 
+
+Preferred Qualifications
+
+• Prior software engineering experience from internships, hackathons, or other related projects.
+
+• Experience working in team environments and building collaborative relationships.
+
+• Knowledge of Java, Spring Boot, Go, AWS ECS, DynamoDB, Lambda, CI/CD, GIT, Jenkins, and Jira.
+
+• Knowledge of designing and developing cloud applications on a microservice architecture.
+
+• Knowledge of CI/CD processes and tools such as Jenkins, GitHub, etc.
+
+• Knowledge in applying AI and ML solutions for applications and automations.
+
+• Passion for Autodesk and/or learn more about the domain.
+
+ 
+
+ 
+
+About the Canada Intern Program   
+
+The 2026 Canada program runs for 16 weeks (May 4 – August 21). All internships are paid. As an intern, you will contribute to meaningful projects, be mentored by industry leaders, and participate in tech talks and other activities designed to support your personal and professional development. Our internships align with Autodesk’s Flexible Workplace approach, which is designed to meet the needs of our business while providing flexibility in support of office, remote and hybrid work preferences.
+
+Learn More
+
+About Autodesk
+
+Welcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made.
+
+We take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each other, informs how we connect with customers and partners, and defines how we show up in the world.
+
+When you’re an Autodesker, you can do meaningful work that helps build a better world designed and made for all. Ready to shape the world and your future? Join us!
+
+Salary transparency
+
+Salary is one part of Autodesk’s competitive compensation package. Offers are based on the candidate’s experience, educational level, and geographic location.
+
+Diversity & Belonging
+We take pride in cultivating a culture of belonging where everyone can thrive. Learn more here: 

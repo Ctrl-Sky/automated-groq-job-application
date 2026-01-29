@@ -1,0 +1,43 @@
+JOB POSTING INFORMATION
+Long Term Placement:	No
+Position Start Date:	05/01/2026
+Position End Date:	08/31/2026
+Term Posted:	2026 - Spring
+Position Type:	4-month
+Position Title:	Junior Technical Analyst
+Position Description:	
+The Labour and Transportation I&IT Cluster, Digital Solutions Branch, is seeking individuals with software analysis and programming knowledge that can be applied in the development of multi-tiered business solutions in a multi-platform environment with a focus on web application solutions and development, data management, integration, and development.
+
+
+What can I expect to do in this role?
+
+
+Job requires:
+• Planning and coordination of IT activities, assisting managers in maintenance of schedules tracking of issues and risks and creation of status reports, coordination of deployment activities, coordination of all pre-build and post-build tasks needed to complete a project launch
+• Providing technical and analytical support; gathering and documenting business requirements, operational documentation and reports; development, testing and creation of SharePoint sites and their ongoing maintenance
+• Providing support for applications by performing incident analysis, replication, resolution, and resolution progress reporting; participating in application maintenance and support, such as follow ups and updates of incident and problem tickets, as well as supporting creation of Change Request, based on Ontario Public Service and GO-ITS standards and guidelines.
+• Assisting Branch staff with any other related tasks.
+
+Position Requirements:	
+How do I qualify?
+
+Knowledge:
+• Knowledge of solution delivery methodologies, processes/techniques to evaluate business requirements, development, testing and deployment, maintenance, and support.
+• Knowledge of computer technologies including operating systems, networks, databases and office automation and collaboration tools.
+• Knowledge of solution delivery methodologies, processes/techniques to elicit and analyze business requirements, architecture, development, testing and deployment, maintenance, and support.
+• Knowledge of computer technologies including operating systems, networks, databases and office automation and collaboration tools.
+• Experience with some of the current development and administration tools and technologies:
+• IBM mainframe environment
+• JCL, Cobol and/or PL/1
+• Some knowledge of hierarchical databases such as IBM IMS
+• Visual Studio, SharePoint, or IBM IDz, Rational Developer for Z
+• Some knowledge of Java programming language and object-oriented design principles
+• Web design and development tools
+• Microsoft Office Suite, including Excel, Visio, Power Point
+
+
+Skills:
+• Analytical and problem-solving skills to gather requirements, perform development and testing, coordinate project activities, and manage resolution of project issues, investigate and drive resolution of production incidents and problems.
+• Software development knowledge including waterfall and agile methodologies.
+• Oral and written communication skills to interview users and gather information, explain project approach, write project status reports and technical documentation.
+• Interpersonal skills to work as part of a team including with clients and to coordinate engagement of multiple parties, facilitate technical conversation Desire to learn and evolve in a challenging environment, with a mix of mainframe-based and other technologies.
