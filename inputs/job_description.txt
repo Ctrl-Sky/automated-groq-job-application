@@ -1,56 +1,61 @@
-About the job
-Company Overview
+Applied AI & Data Intern / Co-op
+Apply
+locations
+Toronto
+time type
+Full time
+posted on
+Posted 2 Days Ago
+job requisition id
+R105465
+Get started on an exciting career at Element!
+Element employees make a difference in the lives of others every day. We are re-defining the fleet management industry to be people first, then business – delivering on our promise of a superior client experience. This takes hard work and innovation, and we need more like-minded people on our team.
 
-At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. Our critical communications, video security and command center technologies support public safety agencies and enterprises alike, enabling the coordination that’s critical for safer communities, safer schools, safer hospitals and safer businesses. Connect with a career that matters, and help us build a safer future.
+About the Role 
 
-Aperçu de l’entreprise
+As an Applied AI & Data Intern, you will support the development of data processes, reporting tools, and analytics solutions that empower Product and Sales teams to make informed, data-driven decisions.
 
-Chez Motorola Solutions, nous pensons que tout commence par nos employés. Nous sommes une communauté mondiale soudée, unie par la volonté incessante de contribuer à la sécurité des personnes partout dans le monde. Nos technologies de communication, de sécurité vidéo et de centre de commandement essentielles soutiennent les agences de sécurité publique et les entreprises, permettant une coordination essentielle pour des communautés, des écoles, des hôpitaux et des entreprises plus sécuritaires. Connectez-vous à une carrière qui compte et aidez-nous à bâtir un avenir plus sûr.
+A significant part of the role involves contributing to Agentic AI initiatives, where you will help design, test, and refine AI agents that automate workflows, enhance decision-making, and improve operational efficiency. This internship provides a unique opportunity to work hands-on with emerging AI technologies and apply them to meaningful, real-world business problems.
 
-Department Overview
+This position is ideal for a student who is curious, analytical, and eager to build practical skills in modern data systems, applied AI, and automation.
 
-Futurecom Engineering is a multi-disciplined team where we excel in developing best in class repeaters for coverage solutions in the Public Safety Communication field. Our team is responsible for a wide spectrum of product development functions from requirements gathering & maturation, to hardware & software development, to various testing phases, and to ongoing product support. We provide great environment and exciting opportunity for both professional and personal growth.
+What You Will Be Doing
 
-Job Description
+Contribute to Agentic AI initiatives, including:
+Assisting in the design, evaluation, and refinement of AI agents
+Testing and validating agent behaviors, prompts, workflows, and tool integrations
+Preparing, curating, and structuring data used to train and improve AI agent performance
+Collecting feedback from internal users to enhance agent reliability, alignment, and usability
+Develop and maintain data solutions by building and improving data pipelines, dashboards, and reports using SQL, Python, BI tools (Power BI, Tableau, etc.), and agentic AI-driven automation.
+Support data quality efforts through cleaning, validating, and organizing datasets sourced from multiple systems and platforms.
+Document data processes – including workflows, business logic, and reporting definitions to ensure consistency, transparency, and reusability across the team.
+Contribute to analytics projects across areas such as product, sales, pricing, and risk by preparing datasets, conducting exploratory analysis, and summarizing key insights.
+Assist in the development of KPIs, metrics, and visualizations that support stakeholder decision-making and operational visibility.
+Participate in broader AI and automation initiatives, including prototype testing, requirement gathering, and preparing training or evaluation data used in AI-driven tools.
+Collaborate with cross-functional teams, including product, analytics, data, and operations, on day-to-day tasks, project execution, and continuous improvement activities.
+Basic Qualifications 
 
-As a Development intern, you will participate in the development & testing of our products and management platform. You will be creating testing strategy and execute on it to ensure that the software product meets user requirements and work closely with the Development Team to understand requirements, estimate testing efforts and deliver a reliable product to our customers. Your programming skills can be used to automate some of the repeatable tests via scripting & creative usage of resources. As you progress through the work terms, you might work with our Development team to develop s/w solutions.
+Currently enrolled in a university program in Data Science, Computer Science, Engineering, Statistics, Business Analytics, or a related field.
+Foundational knowledge of AI, automation, or machine learning, demonstrated through coursework, academic projects, or personal projects.
+Experience with SQL and/or Python for data manipulation and analysis.
+Familiarity with BI/reporting tools such as Power BI, Tableau, or Looker.
+Strong analytical mindset and enthusiasm for solving business problems using applied AI and data.
+Detail-oriented, organized, and comfortable working with multiple tasks and deadlines.
+Preferred Qualifications
 
-Job Responsibilities
+Experience with LLMs: Finetuning (LoRA), quantization, prompt engineering, or building simple AI agents from any orchestration framework (LangGraph, AutoGen, etc.)
+Previous experience working on data, analytics, data engineering or ML/AI projects through internships, volunteer work, or academic projects.
+Strong communication skills, including the ability to present findings or visualizations clearly to non-technical stakeholders.
+The hiring base salary for this position is $38,800 - $58,200 annually. Actual compensation within this range will be dependent upon the individual’s knowledge, skills, experience, equity with other team members, and alignment with market data. Please note that the disclosed salary range is solely for candidates hired to perform work within this geographic location. Candidates hired to work in other locations will be subject to the pay range associated with that location
 
-Analyzing requirements in order to identify and create test scenarios.
-Designing, creating and executing manual tests.
-Designing and scripting automated regression tests.
-Analysis and reporting of testing results.
-Raise defects/issues and follow up and resolve outstanding defects/issues.
-Work with developers to ensure all product integration requirements are satisfied.
-Designing and scripting productivity enhancement tools.
-Coding functions & algorithm to support development tasks.
+Role Details
 
-Required Skills
+Job Type: Internship / Co-op
+Contract Length: 8-16 months (starting May 2026)
+Job Location: Toronto
+What’s in it for You
+•  A culture of innovation, empowerment, decision-making, and accountability
+•  Comprehensive health and welfare benefits that serve the needs of you and your family and foster a culture of wellness (for qualified roles)
+•  Additional benefits and amenities, including paid time-off programs (vacation, sick leave, and holidays) (for qualified roles)
 
-Knowledge of CS fundamentals including data structures, algorithm design and complexity analysis.
-Working experience on Linux & Microsoft OS.
-Some knowledge of VB scripting and C.
-Excellent analytical and problem solving skills.
-Strong communication skills (both verbal and written).
-Proficiency in at least one object-oriented programming language such as Java, C++ or C# an asset.
-Experience and understanding of software development methodologies.
-Knowledge of Digital Wireless technologies (DMR/LMR, LTE, 3G, Bluetooth, WiFi) would be an asset.
-
-Basic Requirements
-
-Working toward Bachelor's degree or Master's degree in Computer Engineering, Computer Science or allied disciplines.
-Graduation date must occur on or after December 2026.
-Must be a US Citizen, permanent resident or be an MS student with work authorization (F1 Visa on CPT accepted only for masters-level students).
-
-Travel Requirements
-
-None
-
-Relocation Provided
-
-None
-
-Position Type
-
-Intern
+Applicants will be required to undergo a background check only if and after a conditional offer of employment has been extended.
