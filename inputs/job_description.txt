@@ -1,69 +1,75 @@
 About the job
-Position: Junior Data Analyst Intern
-Department: Finance and Settlements
-Location: Toronto, ON (On-Site)
-Wage: $20/hour
-Job Type & Duration: Internship
+AI/ML Intern: Developer (4 to 8 months contract) On-site | Full time | Student (not yet graduated)
+
+About Us
+
+In Trench Canada, we deliver state-of-the-art, safe, and reliable instrument transformers, coils, and bushings for seamless energy transmission. With a legacy of customized engineering and innovation, we enable society to harness the power of electricity with reliability and performance. But we are more than just a company.
+
+We are a force for change, committed to advancing the energy sector through cutting-edge technology and sustainable practices. We genuinely care about continuous improvement, and our dynamic workplace values attention to detail and adaptability, fostering a culture of equality, diversity, and inclusion where everyone is respected and truly valued.
+
+ Our Values 
+
+Trust
+Responsibility
+Excellence
+Navigating Change
+Candor
+Humility
 
 
-Note: This is a supervised, entry-level student placement designed to provide practical, hands-on experience in financial analytics.
+ Overview 
+
+Are you passionate about AI/ML and full-stack development? Join us in revolutionizing the energy industry! As part of Project NOVA (Next-gen Optimization with Visionary AI), you’ll work directly with our CEO and senior leadership team to build intelligent, scalable applications that drive innovation across departments. This is a unique opportunity to contribute to high-impact solutions while enjoying full freedom to innovate.
+
+Your Tasks:
+
+Collaborate with cross-functional teams to identify AI/ML opportunities.
+Design, build, and deploy machine learning models.
+Analyze large datasets to extract insights.
+Document development processes and model results.
+Present findings to stakeholders using visualizations and reports.
+Stay updated with AI/ML advancements.
+Develop and maintain full-stack applications supporting AI dashboards and tools.
+Integrate front-end interfaces with Azure-based back-end services.
+Ensure performance, scalability, and security of deployed solutions.
+Work closely with domain experts to translate business needs into technical features. 
 
 
+Requirements:
 
-Company Overview:
-
-Nexus Energy Inc. is a privately held energy company headquartered in Toronto, Ontario, active in trading electricity across Eastern Canada, the Northeastern U.S., and Western markets, as well as providing power price risk management solutions to large commercial and industrial loads in Ontario. In addition, Nexus is actively working to develop a pipeline of renewable energy projects.
-At Nexus, we foster a culture that values high performance, collaboration, and continuous development. You will join a passionate team that drives the business forward through innovation, accountability, and open communication.
-The Junior Data Analyst will support the team in collecting, analyzing, and interpreting data to assist with business and operational decision-making. This role provides hands-on experience with data analysis tools, reporting, and real-world datasets within the energy and trading environment.
-
-
-What You Will Do
-
-Collecting, cleaning, and organizing data from various internal and external sources
-Assisting in analyzing datasets to identify trends, patterns, and insights
-Creating and maintaining reports, dashboards, and data visualizations
-Supporting data entry and ensuring data accuracy and consistency
-Using tools such as Microsoft Excel, SQL, and data visualization platforms (e.g., Power BI, Tableau)
-Assisting with ad hoc data analysis requests from team members
-Documenting data processes and maintaining organized datasets
-Collaborating with cross-functional teams to support business decisions
+ Currently pursuing a degree in Industrial Engineering, Process Engineering, 
+ Computer Science, Software Engineering, Data Science, AI/ML, or a related field. 
+Strong understanding of machine learning algorithms and techniques.
+Proficiency in programming languages such as Python, JavaScript, or Java.
+Experience with AI/ML frameworks (e.g., TensorFlow, PyTorch, scikit-learn).
+Familiarity with front-end frameworks (React, or similar).
+Experience with back-end development using Node.js, FastAPI, or similar.
+Knowledge of Azure cloud services
+Experience with vector database (e.g., Pinecone)
+Experience with data visualization tools (e.g., Power BI, Tableau).
 
 
-What You Will Bring 
+Requirements
+
+Applicants must submit their Github profiles alongside resumes.
+
+We offer:
+
+In accordance with the Pay Transparency Act, we are committed to providing clear and accessible information about compensation for this role. The expected compensation range for this position is $24.00/hr to $30.00/hr. Actual compensation within this range will be determined based on several job-related factors, including relevant education, depth and breadth of experience, professional certifications or license, specialized skills aligned with the role, and internal equity considerations. This role offers,
+
+The opportunity to gain practical experience in the field of optical current measurement technology and sustainable energy transmission in an innovative company.
+You will work in a motivated team on forward-looking projects and gain insights into the latest technologies.
+Support from experienced professionals in handling the latest measurement technology.
 
 
+Our Commitment to Inclusion and Accessibility 
 
- Qualifications:
+Trench is an equal opportunity employer and is committed to building a diverse and inclusive workforce. We welcome applications from all qualified individuals and provide accommodations for applicants with disabilities throughout the recruitment and selection process. If you require accommodation or support at any stage of the application or interview process, please contact us and we will work with you to meet your needs.
 
-Currently pursuing or recently completed a degree/diploma in Data Analytics, Computer Science, Business Analytics, or a related field
-Basic understanding of data analysis, statistics, and data management concepts
-Proficiency in Microsoft Excel; familiarity with SQL or data visualization tools is an asset
-Strong attention to detail and organizational skills
-Good communication and time management abilities
-Ability to work independently and as part of a team
+Use of Artificial Intelligence in Recruitment 
 
+Trench uses artificial intelligence and automated tools as part of its recruitment and screening processes to support efficient and fair candidate evaluation.
 
-Nice to have: 
+Interested in Joining Us? 
 
-Previous internship or project experience involving data analysis
-Familiarity with Power BI, Tableau, or similar tools
-Basic knowledge of programming languages such as Python or R
-
-
- Work Environment:
-
-Internship or entry-level position
-Supervised by the Senior Manager of Finance & Settlements
-Opportunity to gain hands-on experience in accounting and financial operations
-Work-life balance
-Team-building events
-
-
-How This Placement Relates to the Student’s Studies
-
-This placement directly supports the student’s academic studies in data analytics, computer science, or business analytics by providing practical, hands-on experience in data collection, analysis, and visualization. The role allows the student to apply theoretical concepts such as data cleaning, statistical analysis, and data interpretation in a real-world business environment. Additionally, the position helps develop technical skills in tools such as Excel, SQL, and data visualization platforms, while strengthening analytical, problem-solving, and critical thinking skills essential for a career in data analytics.
-
-
-Accommodations
-
-Nexus Energy Inc. is committed to fostering an inclusive and accessible work environment. We are committed to providing equitable treatment and accommodation to ensure barrier-free employment by the Ontario Human Rights Code and Accessibility for Ontarians with Disabilities Act (AODA). If you require Code-protected accommodations due to disability during the recruitment process, please communicate them when contacted, and we will ensure your needs are met.
+If this opportunity aligns with your career goals, we encourage you to apply by clicking the “Apply Now” button and submitting your application.
