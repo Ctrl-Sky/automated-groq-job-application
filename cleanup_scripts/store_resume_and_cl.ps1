@@ -20,17 +20,17 @@ if (-not (Test-Path -Path $DIR_PATH)) {
 Write-Host "Moving job description"
 Copy-Item -Path "inputs\job_description.txt" -Destination $DIR_PATH
 
-# Rename and move cover letter
-Write-Host "Moving cover letter"
-Rename-Item -Path "cover_letter.docx" -NewName "Sky_Quan_Cover_Letter_$INITIALS.docx"
-Move-Item -Path "Sky_Quan_Cover_Letter_$INITIALS.docx" -Destination $DIR_PATH
+# # Rename and move cover letter
+# Write-Host "Moving cover letter"
+# Rename-Item -Path "cover_letter.docx" -NewName "Sky_Quan_Cover_Letter_$INITIALS.docx"
+# Move-Item -Path "Sky_Quan_Cover_Letter_$INITIALS.docx" -Destination $DIR_PATH
 
-# Rename and move resume
-Write-Host "Moving resume"
-Rename-Item -Path "resume.docx" -NewName "Sky_Quan_Resume_$INITIALS.docx"
-Move-Item -Path "Sky_Quan_Resume_$INITIALS.docx" -Destination $DIR_PATH
+# # Rename and move resume
+# Write-Host "Moving resume"
+# Rename-Item -Path "resume.docx" -NewName "Sky_Quan_Resume_$INITIALS.docx"
+# Move-Item -Path "Sky_Quan_Resume_$INITIALS.docx" -Destination $DIR_PATH
 
-# Copy Original Resume
-Copy-Item -Path "resumes/Sky_Quan_Resume.docx" -Destination $DIR_PATH
+# # Copy Original Resume
+# Copy-Item -Path "resumes/Sky_Quan_Resume.docx" -Destination $DIR_PATH
 
 Write-Host "Script completed successfully"
